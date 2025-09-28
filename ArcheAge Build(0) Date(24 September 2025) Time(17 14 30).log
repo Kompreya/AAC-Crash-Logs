@@ -1,0 +1,520 @@
+[801989E0] BackupNameAttachment=" Build(0) Date(24 September 2025) Time(17 14 30)"  -- used by backup system
+[00000020]  
+[38F38F32] Log Started at #c
+[0232BD25] Running 32 bit version
+[7AB6F5FE] Executable: C:\Games\AAClassic\bin32\archeage.exe
+[E5C771AC] FileVersion: 3.5.0.0
+[F799D55F] ProductVersion: 3.5.3.0
+[1F1D6B13] Using Microsoft (tm) C++ Standard Library implementation
+[00000020]  
+[C7D96C80] Revision: 350000
+[00000020]  
+[64533E3E] this is the first client
+<17:14:36> [B9197FD5][Error] ConsoleVariableGroup[option_effect] key[e_particles_lod_onoff] has no default
+<17:14:36> [76666E6D] 
+--- CPU detection ---
+<17:14:36> [F4D992D8] CPU: AMD AMD Ryzen 7 7800X3D 8-Core Processor           
+<17:14:36> [3F649B02] Family: 15, Model: 1, Stepping: 2
+<17:14:36> [83D12E0B] FPU: On-Chip
+<17:14:36> [50919DA0] CPU Speed (estimated): 4191.929594 MHz
+<17:14:36> [C73FD83A] MMX: not present
+<17:14:36> [89D1077A] SSE: present
+<17:14:36> [64E2B6F1] 3DNow!: present
+<17:14:36> [27B7AC6E] Serial number not present or disabled
+<17:14:36> [1D2D8E5B] Number of logical processors: 16
+<17:14:36> [FA658084] Number of available logical processors: 16
+<17:14:36> [A1F061C2] Invariant Time Stamp Counter : yes
+<17:14:36> [FA0251ED] ---------------------
+
+<17:14:36> [03E7D838] Device Info
+<17:14:37> [9F603516] Device Info - 1
+<17:14:37> [9F603517] Device Info - 2
+<17:14:37> [9F603518] Device Info - 3
+<17:14:37> [9F603519] Device Info - 4
+<17:14:37> [9F60351A] Device Info - 5
+<17:14:37> [9F60351B] Device Info - 6
+<17:14:37> [9F60351C] Device Info - 7
+<17:14:37> [E98ECC28] Video Memory Info
+<17:14:37> [D5FBE664] Video Memory - 1
+<17:14:37> [D5FBE665] Video Memory - 2
+<17:14:37> [D5FBE666] Video Memory - 3
+<17:14:37> [D5FBE667] Video Memory - 4
+<17:14:37> [D5FBE668] Video Memory - 5
+<17:14:37> [D5FBE669] Video Memory - 6
+<17:14:37> [D5FBE66A] Video Memory - 7
+<17:14:37> [D5FBE66B] Video Memory - 8
+<17:14:37> [3A4D54A2][Warning] config/gpu/amd.txt line 55 contains a multiple defined GPU rating!
+<17:14:37> [D20872C0] InitThreadAffinities
+<17:14:37> [2F28A434] UpdateMainThreadAffinity
+<17:14:37> [16962512] Windows 8 64 bit (build 6.2.9200)
+<17:14:37> [38DFF081] System language: English
+<17:14:37> [861A0178] Windows Directory: "C:\windows"
+<17:14:37> [341B54F1] Prerequisites...
+<17:14:37> [5D1B3C9C] * Installation of KB940105 hotfix required: no! (either not needed or already installed)
+<17:14:37> [7CD8F255] Local time is 17:14:37 09/24/25, system running for 4918 minutes
+<17:14:37> [F7E38B20] 63426MB physical memory installed, 21560MB available, 4095MB virtual memory installed, 66 percent of memory in use
+<17:14:37> [31259232] PageFile usage: 
+<17:14:37> [453F0D1B] Current display mode is 2560x1440x32
+<17:14:37> [8A64FCCC] IBM enhanced (101/102-key) keyboard and 3+ button mouse installed
+<17:14:37> [CE30556B] ----- GPU Detection -----------------
+<17:14:37> [03E7D838] Device Info
+<17:14:37> [9F603516] Device Info - 1
+<17:14:37> [9F603517] Device Info - 2
+<17:14:37> [9F603518] Device Info - 3
+<17:14:37> [9F603519] Device Info - 4
+<17:14:37> [9F60351A] Device Info - 5
+<17:14:37> [9F60351B] Device Info - 6
+<17:14:37> [9F60351C] Device Info - 7
+<17:14:37> [E98ECC28] Video Memory Info
+<17:14:37> [D5FBE664] Video Memory - 1
+<17:14:37> [D5FBE665] Video Memory - 2
+<17:14:37> [D5FBE666] Video Memory - 3
+<17:14:37> [D5FBE667] Video Memory - 4
+<17:14:37> [D5FBE668] Video Memory - 5
+<17:14:37> [D5FBE669] Video Memory - 6
+<17:14:37> [D5FBE66A] Video Memory - 7
+<17:14:37> [D5FBE66B] Video Memory - 8
+<17:14:37> [99EA404A]  AMD Radeon RX 7800 XT (RADV NAVI32) (vendor = 0x1002, device = 0x747e, subSys = 0x00000000)
+<17:14:37> [77718B6A] -- Video memory: 4081 MB
+<17:14:37> [30DF1863] -- Minimum SM 2.0 support: yes
+<17:14:37> [13E11956] -- DX11 supported: yes
+<17:14:37> [50B60100] --------------------------------------------------------------------------------
+<17:14:37> [5921EDBE] Stream Engine Initialization
+<17:14:37> [BA0D559B] Splash: Initializing Stream Engine...
+<17:14:37> [939F6EBB] Enable Resolutions : 0
+<17:14:37> [A30A84B6] can't enum display resolution modes
+<17:14:37> [B324CD25] Screen Resolution - 1024x768
+<17:14:37> [3778EA0B] Screen Resolution - 0 (2560x1440)
+<17:14:37> [A1B107F0] Screen Resolution - Test OK (2560x1440)
+<17:14:37> [A9E4B0F2] Network initialization
+<17:14:37> [BA0D559B] Splash: Initializing Network System...
+<17:14:37> [14FAD233] Socket I/O by iocp
+<17:14:37> [E36A4FB9] Physics initialization
+<17:14:37> [BA0D559B] Splash: Initializing Physics...
+<17:14:37> [2462D581] MovieSystem initialization
+<17:14:37> [BA0D559B] Splash: Initializing Movie System...
+<17:14:37> [93287AEC] Renderer initialization - Start
+<17:14:37> [BA0D559B] Splash: Initializing Renderer...
+<17:14:37> [91207680] Renderer initialization - Open
+<17:14:37> [4377E7CB] Renderer initialization - DLL Load(CryRenderD3D9.dll)
+<17:14:37> [71203A94] Renderer initialization - DLL Done
+<17:14:37> [71227C22] Renderer initialization - DLL Init
+<17:14:37> [C653D9CB] Renderer initialization - Instance
+<17:14:37> [44D9754D] D3D Adapter: Driver name: aticfx32.dll
+<17:14:37> [82BE8322] D3D Adapter: Driver description: AMD Radeon RX 7800 XT (RADV NAVI32)
+<17:14:37> [2224501A] D3D Adapter: Driver version: 32767.65535.65535.65535
+<17:14:37> [E8D1E30D] D3D Adapter: Driver GUID: 00000000-0003-0000-0000000000000000
+<17:14:37> [BC8C1ACB] D3D Adapter: VendorId = 0x1002
+<17:14:37> [B6A10CFD] D3D Adapter: DeviceId = 0x747E
+<17:14:37> [0678E702] D3D Adapter: SubSysId = 0x00000000
+<17:14:37> [F2243F0E] D3D Adapter: Revision = 0
+<17:14:37> [E571CFEE] Shader manager initialization
+<17:14:39> [05BAAEF6] CResFile allocations incurred by user cache preload: (21446.79k)
+<17:14:39> [911B73B8] Renderer initialization - Done
+<17:14:39> [8E444EA9] Console initialization
+<17:14:39> [2904A233] Time initialization
+<17:14:39> [3650CFD6] Input initialization
+<17:14:39> [BA0D559B] Splash: Initializing Input System...
+<17:14:39> Initializing Keyboard
+<17:14:39> [99640BF1] Sound initialization
+<17:14:39> [BA0D559B] Splash: Initializing Sound System...
+<17:14:39> [2C33885C] Sound - Initializing AudioDevice now!
+<17:14:39> [E46760A9] <Sound> Initialize FMOD with dynamic memory callbacks
+<17:14:41> [D6755BFD] <Sound> Starting to initialize Windows Audio Session API output! 
+<17:14:41> [F7E8E3CD] <Sound> Drivers found: 6
+<17:14:41> [9B899242] <Sound> Available drivers:
+	1.	PulseAudio Output (PulseAudio Output)
+	2.	Blue Microphones Analog Stereo (Blue Microphones Analog Stereo)
+	3.	soundcore Liberty 4 NC (soundcore Liberty 4 NC)
+	4.	Wireless Controller (Wireless Controller)
+	5.	Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Navi 31 HDMI/DP Audio Digital Stereo (HDMI))
+	6.	Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo)
+<17:14:41> [A0BBF7E1] <Sound> FmodEx-AudioDevice: Now running on driver: PulseAudio Output (PulseAudio Output)
+<17:14:41> [14D8EFE1] <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<17:14:41> [E79C27E5] <Sound> Initializing FMOD-EX now!
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 0 PulseAudio Input (PulseAudio Input) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 1 soundcore Liberty 4 NC (soundcore Liberty 4 NC) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 2 Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 3 Wireless Controller (Wireless Controller) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 4 Blue Microphones Analog Stereo (Blue Microphones Analog Stereo) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 5 Monitor of Family 17h/19h/1ah HD Audio Controller (Monitor of Family 17h/19h/1ah HD Audio Controller) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 6 Monitor of Blue Microphones Analog Stereo (Monitor of Blue Microphones Analog Stereo) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 7 Wireless Controller (Wireless Controller) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 8 Monitor of soundcore Liberty 4 NC (Monitor of soundcore Liberty 4 NC) !
+<17:14:41> [E2A9FE08] <Sound> Available record drivers: 9 Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI)) !
+<17:14:41> [6841BE38] <Sound> Record config is set to autodetect using record driver 0
+<17:14:41> [7808B4C4] <Sound> Using FMOD version: 00044414 and internal 00044414!
+<17:14:41> [2A2815C7] <Sound> Initialized FMOD-EX
+<17:14:41> [BE4EF52E] Sound - Initializing SoundSystem now!
+<17:14:41> [0D547471] Font initialization
+<17:14:41> [BA0D559B] Splash: Initializing Fonts...
+<17:14:41> [C194F7C8][Warning] Cannot load texture textures/defaults/replacemecm.tif, file missing [File=textures/defaults/replacemecm.dds]
+<17:14:41> [84206398] AI initialization
+<17:14:41> [1BC221DE] Initializing Animation System
+<17:14:41> [BA0D559B] Splash: Initializing Animation System...
+<17:14:41> [9E592EFE] Initializing 3D Engine
+<17:14:41> [BA0D559B] Splash: Initializing 3D Engine...
+<17:14:42> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/nude/Standard_22.mtl (chr: game/objects/characters/ferre/female/nude/fe_f_base.chr)
+<17:14:42> [91F5AEEC][Warning] number of bones mismatch! game/objects/characters/ferre/female/nude/fe_f_base.chr=195 game/objects/characters/ferre/female/nude/fe_f_base_lod1.chr=185
+<17:14:43> [7415A452] CHR PreCaching 25 Done
+<17:14:43> [E7AD4E53] AddSharedMorphTargets - Failed to load objects/characters/dwarf/male/face/dw_m_face00.chr
+<17:14:43> [61AD1790] MorphTargetPreCaching - objects/characters/dwarf/male/face/dw_m_face00.chr Add Failed
+<17:14:43> [A4A6E4C6] MorphTarget PreCaching 11 Done
+<17:14:43> [5ACB40E2] Init Face Makers
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<17:14:43> [4ABB03EB] game/objects/characters/ferre/female/face/fe_f_face01_low.chr(303) - objects/characters/ferre/female/face/fe_f_face00.chr(3063) SharedMorph is not matched
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_SeptumVol target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_NasalZposition target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dwEarSize target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : dwarf_Morph target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Forehead target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_DoubleEyelidShape target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowXposition target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowZposition target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Nostril target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_SeptumZposition target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_End target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipVolume target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipVolume target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipOpen target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipOpen target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_MouthOpen target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Size target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_TeethZposition target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard1 target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard2 target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard3 target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_max ex target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllLowerY target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllRotate target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllY target not exist
+<17:14:43> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_min target not exist
+<17:14:43> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_max ex target not exist
+<17:14:43> [E320B5CE] Init Face Makers - Done!
+<17:14:43> [581CA53C] Script System Initialization
+<17:14:43> [BA0D559B] Splash: Initializing Script System...
+<17:14:43> [000004EE][Warning] [Lua Error] 1_3_0/scripts/common.lua:276: attempt to index global 'Script' (a nil value)
+<17:14:43> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/common.alb
+<17:14:43> [D8B2BA54] Entity system initialization
+<17:14:43> [BA0D559B] Splash: Initializing Entity System...
+<17:14:43> [D55F91B2][Warning] [CEntityClassRegistry] LoadClassDescription failed, Entity Class name Chick already registered
+<17:14:43> [BA0D559B] Splash: Initializing AI System...
+<17:14:43> [DA019954] Initializing AI System
+<17:14:43> [2546BCC5] Initializing Budgeting System
+<17:14:43> [C0E19025] Initializing Seamless System
+<17:14:44> [BA0D559B] Splash: Loading Game Data...
+<17:14:45> [90B8EC50][Warning] too many ranges: aoe_shapes descs 10156(10156) threshold 100 ranges 12
+<17:14:46> [BA4AD6CE] Loading portal list
+<17:14:46> [92597454] Portal added, enter: 3891, exit: 6629
+<17:14:46> [92597454] Portal added, enter: 21448, exit: 21449
+<17:14:46> [92597454] Portal added, enter: 21450, exit: 21451
+<17:14:46> [92597454] Portal added, enter: 21452, exit: 21453
+<17:14:46> [92597454] Portal added, enter: 21698, exit: 21699
+<17:14:46> [92597454] Portal added, enter: 22023, exit: 22024
+<17:14:46> [92597454] Portal added, enter: 22042, exit: 22066
+<17:14:46> [92597454] Portal added, enter: 22136, exit: 22137
+<17:14:46> [92597454] Portal added, enter: 22163, exit: 22164
+<17:14:46> [92597454] Portal added, enter: 22184, exit: 22185
+<17:14:46> [92597454] Portal added, enter: 22336, exit: 22337
+<17:14:46> [92597454] Portal added, enter: 9000063, exit: 9000064
+<17:14:46> [1C664009] End loading portal list
+<17:14:46> [937812F7] loaded DDCMS (1396969 descs, 719156 links (17 page 16.95MB size) string) from game\db\compact.sqlite3 in 1341 ms
+<17:14:46> [BA0D559B] Splash: Initializing Game System...
+<17:14:46> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<17:14:47> [0ADE3294][Warning] [MFX] Effect 'collisions:grenade' already present. Overriding.
+<17:14:47> [311630D1][Warning] MFX WARNING: Material not found: mat_ice_breakable
+<17:14:47>  
+<17:14:47>    sys_spec = Custom (assuming 4)
+<17:14:47>      option_anti_aliasing = 2 expected:3
+<17:14:47>  
+<17:14:47> [BA0D559B] Splash: Preparing Screen...
+<17:14:47> [963385F6] Level System - Loading Start
+<17:14:47> [806B6F8D] precaching world entities ..
+<17:14:47> [7E39E0DE] precaching world entities .. done!  total (0) objects
+<17:14:47> [D2B280D6] Vegetation Manager : Loading World(login2)
+<17:14:47> [075AB92F] Vegetation Manager : Loading World - Done (total 36 vegetations)
+<17:14:47> [B9410AA1] total 20 terrain world surfaces loaded
+<17:14:47> Loading Particle Library: collisions
+<17:14:47> Loading Particle Library: water
+<17:14:47> Loading Particle Library: misc
+<17:14:47> Loading Particle Library: ability_skill_table
+<17:14:47> Loading Particle Library: ability_skill_table_k
+<17:14:48> Loading Particle Library: abillity_skill_table_m
+<17:14:48> Loading Particle Library: machinima
+<17:14:48> Loading Particle Library: x2_effects
+<17:14:48> Loading Particle Library: x2_effects_k
+<17:14:48> [280A47E3] Precached total 2 materials
+<17:14:48> [7B1A973B] seamless loading cell terrain(W0, 1), (L0, 0)
+<17:14:48> [3EF08C47] seamless loading cell object(W0, 1), (L0, 0)
+<17:14:49> [584C4FFD] [net 21:14:37.670]  dns ip:192.168.1.202
+<17:14:49> [584C4FFD] [net 21:14:37.670]  dns ip:172.18.0.1
+<17:14:49> [584C4FFD] [net 21:14:37.670]  dns ip:172.19.0.1
+<17:14:49> [584C4FFD] [net 21:14:37.670]  dns ip:172.17.0.1
+<17:14:49> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<17:14:49> [13A58BA0][Error] CryAnimation: character-definition not found: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<17:14:49> [4DD44108] Start DaruCommon Extension
+<17:14:49> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_Amount
+<17:14:49> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_MaskTexName
+<17:14:49> [1B425DA5] Duplicated post effect param! pszName = FilterChromaShift_User_Amount
+<17:14:49> [1B425DA5] Duplicated post effect param! pszName = FilterGrain_Amount
+<17:14:49> [8F6BAA6C][Warning] Couldn't find console variable 'e_water_ocean_fft'
+<17:14:49> Loading Particle Library: wind
+<17:14:49> Loading Particle Library: X2_EFFECT_O
+<17:14:49> [000004EE][Warning] Particle effect not found: '                                                                ', from ParticleEffect fx_land_green
+<17:14:49> [12409CCC] Load Zone Finished
+<17:14:49> [A39C1725] Level System - Loading Complete
+<17:14:49> [27293DED] -----------------------------------------------------
+<17:14:49> [120C18F5] * LOADING: 'loginbg4' loading time: 1.73 seconds
+<17:14:49> [27293DED] -----------------------------------------------------
+<17:14:49> [000004EE][Warning] [Lua Error] no client player exists
+<17:14:49> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<17:14:49> [000FABC5][Warning] CAreaGrid::BeginAreas() called before being initialized.
+<17:14:52> [1D01FDCA] Auth: client connected to server
+<17:14:52> [584C4FFD] [net 21:14:52.092]  socket ip:192.168.1.202
+<17:14:52> [4C920A71] mac address : 74-56-3c-fe-52-f3
+<17:14:58> [7CC1A260] Save Game Option
+<17:14:58> [D2121932] Change resolution: 2560x1440x32 (Fullscreen)
+<17:14:58> [FD3FC76F] resetting terrain texture cache
+<17:14:58> [FD3FC76F] resetting terrain texture cache
+<17:14:58> [583D6F38] Final resolution: 2560x1440x32 (Fullscreen)
+<17:14:58> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<17:14:58> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<17:14:58> [000004EE][Warning] [Lua Error] no client player exists
+<17:14:58> [09F46B9D]     cl_fov = 90 []
+<17:14:58> [09F46B9D]     camera_max_dist = 180 []
+<17:14:58> [73861D69] Unknown command: name_tag_hp_width_on_bgmode 80
+<17:14:58> [73861D69] Unknown command: name_tag_hp_height_on_bgmode 30
+<17:14:58> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<17:14:58> [247165BA][Warning] Cannot load texture ui/login_stage/background/game_information.dds, file missing [File=ui/login_stage/background/game_information.dds]
+<17:15:00> [584C4FFD] [net 21:15:00.883] connection requested to: 192.95.21.64:1239
+<17:15:00> [4ABA7BDB] Auth: client disconnected (reason=0)
+<17:15:00> [0F08E548] [NetConnection] connect completed (succeeded:true)
+<17:15:01> [48F7BDF2] invalid world id in world queue packet
+<17:15:01> [26623ECA] ucc info.. 0 0
+<17:15:01> [B71BF2A9] remove ucc data.. version
+<17:15:01> [4516816D] pay method: person
+<17:15:01> [4AA30841] pay location: person
+<17:15:01> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<17:15:01> [6486A277] pay end: 1900-1-1 00:00:00
+<17:15:01> [FFF6198C] premium point: 0
+<17:15:01> [481C0862] premium grade: premium_0
+<17:15:01> [88D9AB0C] real pay time: -1
+<17:15:01> [34CCC219] stream: connected to world server
+<17:15:01> [06A46B5B] stream: authorized by world server
+<17:15:01> [4516816D] pay method: person
+<17:15:01> [4AA30841] pay location: person
+<17:15:01> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<17:15:01> [6486A277] pay end: 2037-12-31 16:00:00
+<17:15:01> [FFF6198C] premium point: 0
+<17:15:01> [481C0862] premium grade: premium_0
+<17:15:01> [88D9AB0C] real pay time: -1
+<17:15:01> [82321C2B][Warning] [net 21:15:01.708] [time] remote time estimation restarted; estimate accumulator age was 295115.312500
+<17:15:03> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/ar/obj/wa_f_ar_leather181.mtl (chr: game/objects/characters/warborn/female/parts/ar/obj/wa_f_1ac014_1ar117_2ar602_2arm004_2bt005_2pv002.chr)
+<17:15:03> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<17:15:03> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<17:15:03> [09F46B9D]     cl_fov = 90 []
+<17:15:03> [09F46B9D]     camera_max_dist = 180 []
+<17:15:03> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<17:15:03> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<17:15:03> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<17:15:03> [06E6A3E9][Warning] Cannot load texture ui/login_stage/queue.dds, file missing [File=ui/login_stage/queue.dds]
+<17:15:05> [000004EE][Warning] RenderMesh not assigned game/objects/box_nodraw.cgf
+<17:15:06> [DA579B6C][Error] can't load client driven connect info.. Kompy
+<17:15:11> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/returned/female/nude/re_f.cdf
+<17:15:11> [82321C2B][Warning] [net 21:15:11.719] [time] remote time estimation restarted; estimate accumulator age was 3.109913
+<17:15:11> [6FF68EA5] SetInstantTime: type 0 time 0
+<17:15:11> [6FF68EA5] SetInstantTime: type 1 time 1758741899
+<17:15:11> [6FF68EA5] SetInstantTime: type 2 time 1758736008
+<17:15:11> [6FF68EA5] SetInstantTime: type 3 time 0
+<17:15:11> [6FF68EA5] SetInstantTime: type 4 time 0
+<17:15:11> [6FF68EA5] SetInstantTime: type 5 time 0
+<17:15:11> [6FF68EA5] SetInstantTime: type 6 time 0
+<17:15:11> [6FF68EA5] SetInstantTime: type 7 time 1758710458
+<17:15:11> [0E61BD35] ExpeditionMember 20 added
+<17:15:11> [0E61BD35] ExpeditionMember 20 added
+<17:15:11> [0E61BD35] ExpeditionMember 20 added
+<17:15:11> [0E61BD35] ExpeditionMember 8 added
+<17:15:11> [1EBA13B3][Warning] count not matched; total=140; size=68
+<17:15:11> [966861E8][Warning] GetAllPolicies empty
+<17:15:11> [67B7DD8A][Warning] my ExpeditionMemberDesc not exist
+<17:15:11> [7AB931CE] seamless unloading cell object(W0, 0), (L0, 0)
+<17:15:11> [4B1E8B22] unload cell object count : 1511
+<17:15:11> [B866A294] seamless unloading cell terrain(W0, 0), (L0, 0)
+<17:15:11> [963385F6] Level System - Loading Start
+<17:15:11> [E0E0EDAE][Warning] failed to load zone time of day from game/worlds/main_world/zone/225//time_of_day.xml
+<17:15:12> [AB17243B][Warning] failed to load zone environment from game/worlds/main_world/zone/309//env.xml
+<17:15:12> [35D4413E][Warning] failed to load zone clouds from game/worlds/main_world/zone/309//clouds.xml
+<17:15:12> [806B6F8D] precaching world entities ..
+<17:15:12> [7E39E0DE] precaching world entities .. done!  total (1778) objects
+<17:15:12> [D2B280D6] Vegetation Manager : Loading World(main_world)
+<17:15:13> [075AB92F] Vegetation Manager : Loading World - Done (total 3055 vegetations)
+<17:15:13> [000004EE][Error] CTerrain::LoadWorldSurfaces: Error loading material: materials/Terrain/gweonidforest/w_forest_road_a1
+<17:15:13> [59CBED13][Warning] Cannot load texture textures/aa_terrain/canyon/tr_canyon_rock3d_405a_ddn.dds, file missing [File=textures/aa_terrain/canyon/tr_canyon_rock3d_405a_ddn.dds]
+<17:15:13> [751FFB9E][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find detail texture
+'game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga' in path '' [File=game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga]
+<17:15:13> [B9410AA1] total 600 terrain world surfaces loaded
+<17:15:13> [280A47E3] Precached total 4 materials
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 6), (L4, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 6), (L5, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 7), (L4, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 5), (L4, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 7), (L5, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 5), (L5, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 6), (L3, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 7), (L3, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 5), (L3, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 6), (L6, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 7), (L6, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 8), (L4, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 5), (L6, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 4), (L4, 2)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 8), (L5, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 4), (L5, 2)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W6, 6), (L2, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 8), (L3, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 4), (L3, 2)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W6, 7), (L2, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W6, 5), (L2, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 8), (L6, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 4), (L6, 2)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W11, 6), (L7, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W11, 7), (L7, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W11, 5), (L7, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 9), (L4, 7)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W6, 8), (L2, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 9), (L5, 7)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W8, 3), (L4, 1)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W9, 3), (L5, 1)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W7, 9), (L3, 7)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W5, 6), (L1, 4)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W11, 8), (L7, 6)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W11, 4), (L7, 2)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W5, 7), (L1, 5)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 9), (L6, 7)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W5, 5), (L1, 3)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W10, 3), (L6, 1)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W6, 9), (L2, 7)
+<17:15:13> [7B1A973B] seamless loading cell terrain(W5, 8), (L1, 6)
+<17:15:13> [3EF08C47] seamless loading cell object(W8, 6), (L4, 4)
+<17:15:13> [D8EA1A9D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds]
+<17:15:13> [7D77A4D2][Warning] Not a normal map texture tried to be used as a normal map: game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_df.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_df.dds]
+<17:15:13> [586BCE46][Warning] Non 3dc normal map used (wrong on DX10): game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds]
+<17:15:13> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/001_hcom/hcom_cart_b.cgf [:] LOD1 of geometry hcom_cart_b contains too many polygons comparing to the LOD0 [770 against 1114] :
+<17:15:13> [0AD0E100][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds]
+<17:15:13> [3EF08C47] seamless loading cell object(W9, 6), (L5, 4)
+<17:15:13> [3EF08C47] seamless loading cell object(W8, 7), (L4, 5)
+<17:15:13> [A5DDEC33][Warning] Warning: CShaderMan::mfForName: NULL name
+<17:15:14> [3EF08C47] seamless loading cell object(W8, 5), (L4, 3)
+<17:15:14> [3EF08C47] seamless loading cell object(W9, 7), (L5, 5)
+<17:15:14> [3EF08C47] seamless loading cell object(W9, 5), (L5, 3)
+<17:15:14> [3EF08C47] seamless loading cell object(W7, 6), (L3, 4)
+<17:15:14> [3EF08C47] seamless loading cell object(W7, 7), (L3, 5)
+<17:15:14> Loading Particle Library: X2_EFFECTS_P
+<17:15:14> [3EF08C47] seamless loading cell object(W7, 5), (L3, 3)
+<17:15:14> [3EF08C47] seamless loading cell object(W10, 6), (L6, 4)
+<17:15:14> [3EF08C47] seamless loading cell object(W10, 7), (L6, 5)
+<17:15:14> [3EF08C47] seamless loading cell object(W8, 8), (L4, 6)
+<17:15:14> [3EF08C47] seamless loading cell object(W10, 5), (L6, 3)
+<17:15:14> [3EF08C47] seamless loading cell object(W8, 4), (L4, 2)
+<17:15:14> [3EF08C47] seamless loading cell object(W9, 8), (L5, 6)
+<17:15:14> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ncom/ncom_woodfish.cgf [:] non-uniform scale(1.00, 1.00, 0.90) at node(proxy)
+<17:15:15> [3EF08C47] seamless loading cell object(W9, 4), (L5, 2)
+<17:15:15> [3EF08C47] seamless loading cell object(W6, 6), (L2, 4)
+<17:15:15> [3EF08C47] seamless loading cell object(W7, 8), (L3, 6)
+<17:15:15> [188BF914][Warning] [EntityLoader] invalid entity pos(0.298, -2.719, 0.001) name(B_gear_light)
+<17:15:15> [3EF08C47] seamless loading cell object(W7, 4), (L3, 2)
+<17:15:15> [3EF08C47] seamless loading cell object(W6, 7), (L2, 5)
+<17:15:15> [3EF08C47] seamless loading cell object(W6, 5), (L2, 3)
+<17:15:15> [12409CCC] Load Zone Finished
+<17:15:15> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(6411.5,2342.7,2816.1), aabb center=(142.0,1019.8,-2.3)
+<17:15:15> [82321C2B][Warning] [net 21:15:15.512] [time] remote time estimation restarted; estimate accumulator age was 3.729265
+<17:15:15> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/animals/osprey/Material #0.mtl)
+<17:15:15> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/abillity_skill_table_m.xml)
+<17:15:15> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.wild.shock_form2', from unknown 
+<17:15:15> [2BFDEC33][Error] realstep 8, not match unit req
+<17:15:15> [A39C1725] Level System - Loading Complete
+<17:15:15> [9BE3F673] total 0 CGF files are precached
+<17:15:15> [27293DED] -----------------------------------------------------
+<17:15:15> [120C18F5] * LOADING: 'w_tornado_mea' loading time: 4.08 seconds
+<17:15:15> [27293DED] -----------------------------------------------------
+<17:15:15> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<17:15:16> [CA175C82][Warning] non-stream IO. system(CGF), filePath(game/objects/env/01_nuia/001_housing/housing_farm/metal_pumpkin_body_a.cgf)
+<17:15:16> [62232BEA][Warning] deferred xml stream error - game/animations/animals/piggy/lmg_files/normal_run.lmg : f0000003
+<17:15:17> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd
+<17:15:17> Loading Particle Library: x2_sounds
+<17:15:19> [437E3168][Warning] Cannot load texture game/objects/characters/monster/phoenix_white/phoenix_white2_df.dds, file missing [File=game/objects/characters/monster/phoenix_white/phoenix_white2_df.dds]
+<17:15:19> [637AF710][Warning] missing chr material : game/objects/characters/nuian/male/parts/hm/obj/nu_m_hm_cloth999.mtl (chr: game/objects/characters/nuian/male/parts/hm/obj/nu_m_1hm121.chr)
+<17:15:22> [09F46B9D]     cl_fov = 90 []
+<17:15:22> [09F46B9D]     camera_max_dist = 180 []
+<17:15:22> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<17:15:22> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<17:15:22> [000004EE][Warning] [Lua Error] Failed to load script file scriptsbin/x2ui/assignment/form.alb
+<17:15:22> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<17:15:22> [B5A61D8F] Chat Channel(0) Color is not found.
+<17:15:22> [000004EE][Warning] [Lua Error] ...ts/x2ui/loginstage/character_create/locale/en_us.lua:524: attempt to index a nil value
+<17:15:22> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/x2ui/loginstage/character_create/locale/en_us.alb
+<17:15:23> [000004EE][Warning] [Lua] invalid style type...  / brown
+<17:15:23> [82321C2B][Warning] [net 21:15:23.354] [time] remote time estimation restarted; estimate accumulator age was 1.091968
+<17:15:23> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 18)
+<17:15:42> [CE0EF930][Warning] failed to stream cgf : default
+<17:15:42> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/making/ndeco_making_rock01_second.mtl)
+<17:15:47> [E126B923][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn, file missing [File=game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn]
+<17:15:48> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/house.door_anp node=AnimObject_1
+<17:15:50> [CE0EF930][Warning] failed to stream cgf : default
+<17:15:58> [09F46B9D]     cl_fov = 90 []
+<17:15:58> [09F46B9D]     camera_max_dist = 180 []
+<17:15:58> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<17:15:58> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<17:15:58> [7CC1A260] Save Game Option
+<17:16:04> [09F46B9D]     cl_fov = 90 []
+<17:16:04> [09F46B9D]     camera_max_dist = 180 []
+<17:16:04> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<17:16:04> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<17:16:04> [7CC1A260] Save Game Option
+<17:16:04> [D2121932] Change resolution: 2560x1440x32 (Windowed)
+<17:16:04> [FD3FC76F] resetting terrain texture cache
+<17:16:04> [FD3FC76F] resetting terrain texture cache
+<17:16:04> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<17:16:04> [B0F7CF3E] Window Rect 0, 3, 2560x1440, 2560x1440
+<17:16:04> [583D6F38] Final resolution: 2554x1408x32 (Windowed)
+<17:16:04> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<17:16:04> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<17:16:04> [09F46B9D]     cl_fov = 90 []
+<17:16:04> [09F46B9D]     camera_max_dist = 180 []
+<17:16:04> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<17:16:04> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<17:16:05> [000004EE][Warning] [Lua Error] Failed to load script file scriptsbin/x2ui/assignment/form.alb
+<17:16:05> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<17:16:05> [B5A61D8F] Chat Channel(0) Color is not found.
+<17:16:05> [000004EE][Warning] [Lua Error] ...ts/x2ui/loginstage/character_create/locale/en_us.lua:524: attempt to index a nil value
+<17:16:05> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/x2ui/loginstage/character_create/locale/en_us.alb
+<17:16:05> [73AFCD09][Warning] Cannot load texture ui/map/frame_map_2.dds, file missing [File=ui/map/frame_map_2.dds]
+<17:16:05> [000004EE][Warning] [Lua] invalid style type...  / brown
+<17:16:06> [82321C2B][Warning] [net 21:16:06.174] [time] remote time estimation restarted; estimate accumulator age was 1.709746
+<17:16:06> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 21)
+<17:16:10> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4aeefc04e8c803c0
+<17:16:10> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/housing/ncom_zareba.mtl)
+<17:16:13> [5F89E60D][Warning] non cached CDF(game/objects/characters/warborn/female/parts/hm/leather/hm_leather167/wa_f_hm_leather167.cdf)
+<17:16:13> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/hm/leather/hm_leather167/wa_f_hm_leather167.mtl)
+<17:16:13> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/hm/obj/wa_f_hm_leather179.mtl (chr: game/objects/characters/warborn/female/parts/hm/obj/wa_f_2hm109.chr)
+<17:16:13> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/hair/wa_f_hair_common/wa_f_hair_common0102s_type3.mtl (chr: game/objects/characters/warborn/female/hair/wa_f_hair_common/wa_f_hair_common0102s_type3.chr)
+<17:16:24> [584C4FFD] [net 21:16:24.150] -- Client will disconnect; cause=18 desc=graceful exit
+<17:16:24> [05D024BA] System:Quit

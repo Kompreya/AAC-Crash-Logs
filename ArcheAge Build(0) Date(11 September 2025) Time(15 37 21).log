@@ -1,0 +1,454 @@
+[801989E0] BackupNameAttachment=" Build(0) Date(11 September 2025) Time(15 37 21)"  -- used by backup system
+[00000020]  
+[38F38F32] Log Started at #c
+[0232BD25] Running 32 bit version
+[7AB6F5FE] Executable: C:\Games\AAClassic\bin32\archeage.exe
+[E5C771AC] FileVersion: 3.5.0.0
+[F799D55F] ProductVersion: 3.5.3.0
+[1F1D6B13] Using Microsoft (tm) C++ Standard Library implementation
+[00000020]  
+[C7D96C80] Revision: 350000
+[00000020]  
+[64533E3E] this is the first client
+<15:37:27> [B9197FD5][Error] ConsoleVariableGroup[option_effect] key[e_particles_lod_onoff] has no default
+<15:37:27> [76666E6D] 
+--- CPU detection ---
+<15:37:28> [F4D992D8] CPU: AMD AMD Ryzen 7 7800X3D 8-Core Processor           
+<15:37:28> [3F649B02] Family: 15, Model: 1, Stepping: 2
+<15:37:28> [83D12E0B] FPU: On-Chip
+<15:37:28> [50919DA0] CPU Speed (estimated): 4192.004905 MHz
+<15:37:28> [C73FD83A] MMX: not present
+<15:37:28> [89D1077A] SSE: present
+<15:37:28> [64E2B6F1] 3DNow!: present
+<15:37:28> [27B7AC6E] Serial number not present or disabled
+<15:37:28> [1D2D8E5B] Number of logical processors: 16
+<15:37:28> [FA658084] Number of available logical processors: 16
+<15:37:28> [A1F061C2] Invariant Time Stamp Counter : yes
+<15:37:28> [FA0251ED] ---------------------
+
+<15:37:28> [03E7D838] Device Info
+<15:37:28> [9F603516] Device Info - 1
+<15:37:28> [9F603517] Device Info - 2
+<15:37:28> [9F603518] Device Info - 3
+<15:37:28> [9F603519] Device Info - 4
+<15:37:28> [9F60351A] Device Info - 5
+<15:37:28> [9F60351B] Device Info - 6
+<15:37:28> [9F60351C] Device Info - 7
+<15:37:28> [E98ECC28] Video Memory Info
+<15:37:28> [D5FBE664] Video Memory - 1
+<15:37:28> [D5FBE665] Video Memory - 2
+<15:37:28> [D5FBE666] Video Memory - 3
+<15:37:28> [D5FBE667] Video Memory - 4
+<15:37:28> [D5FBE668] Video Memory - 5
+<15:37:28> [D5FBE669] Video Memory - 6
+<15:37:28> [D5FBE66A] Video Memory - 7
+<15:37:28> [D5FBE66B] Video Memory - 8
+<15:37:28> [3A4D54A2][Warning] config/gpu/amd.txt line 55 contains a multiple defined GPU rating!
+<15:37:28> [D20872C0] InitThreadAffinities
+<15:37:28> [2F28A434] UpdateMainThreadAffinity
+<15:37:28> [16962512] Windows 8 64 bit (build 6.2.9200)
+<15:37:28> [38DFF081] System language: English
+<15:37:28> [861A0178] Windows Directory: "C:\windows"
+<15:37:28> [341B54F1] Prerequisites...
+<15:37:28> [5D1B3C9C] * Installation of KB940105 hotfix required: no! (either not needed or already installed)
+<15:37:28> [95ADC769] Local time is 15:37:28 09/11/25, system running for 1323 minutes
+<15:37:28> [EC9431FE] 63426MB physical memory installed, 17066MB available, 4095MB virtual memory installed, 73 percent of memory in use
+<15:37:28> [31259232] PageFile usage: 
+<15:37:28> [453F0D1B] Current display mode is 2560x1440x32
+<15:37:28> [8A64FCCC] IBM enhanced (101/102-key) keyboard and 3+ button mouse installed
+<15:37:28> [CE30556B] ----- GPU Detection -----------------
+<15:37:28> [03E7D838] Device Info
+<15:37:28> [9F603516] Device Info - 1
+<15:37:28> [9F603517] Device Info - 2
+<15:37:28> [9F603518] Device Info - 3
+<15:37:28> [9F603519] Device Info - 4
+<15:37:28> [9F60351A] Device Info - 5
+<15:37:28> [9F60351B] Device Info - 6
+<15:37:28> [9F60351C] Device Info - 7
+<15:37:28> [E98ECC28] Video Memory Info
+<15:37:28> [D5FBE664] Video Memory - 1
+<15:37:28> [D5FBE665] Video Memory - 2
+<15:37:28> [D5FBE666] Video Memory - 3
+<15:37:28> [D5FBE667] Video Memory - 4
+<15:37:28> [D5FBE668] Video Memory - 5
+<15:37:28> [D5FBE669] Video Memory - 6
+<15:37:28> [D5FBE66A] Video Memory - 7
+<15:37:28> [D5FBE66B] Video Memory - 8
+<15:37:28> [99EA404A]  AMD Radeon RX 7800 XT (RADV NAVI32) (vendor = 0x1002, device = 0x747e, subSys = 0x00000000)
+<15:37:28> [77718B6A] -- Video memory: 4081 MB
+<15:37:28> [30DF1863] -- Minimum SM 2.0 support: yes
+<15:37:28> [13E11956] -- DX11 supported: yes
+<15:37:28> [50B60100] --------------------------------------------------------------------------------
+<15:37:28> [5921EDBE] Stream Engine Initialization
+<15:37:28> [BA0D559B] Splash: Initializing Stream Engine...
+<15:37:28> [939F6EBB] Enable Resolutions : 0
+<15:37:28> [A30A84B6] can't enum display resolution modes
+<15:37:28> [B324CD25] Screen Resolution - 1024x768
+<15:37:28> [3778EA0B] Screen Resolution - 1 (2560x1440)
+<15:37:28> [A1B107F0] Screen Resolution - Test OK (2560x1440)
+<15:37:28> [A9E4B0F2] Network initialization
+<15:37:28> [BA0D559B] Splash: Initializing Network System...
+<15:37:28> [14FAD233] Socket I/O by iocp
+<15:37:28> [E36A4FB9] Physics initialization
+<15:37:28> [BA0D559B] Splash: Initializing Physics...
+<15:37:28> [2462D581] MovieSystem initialization
+<15:37:28> [BA0D559B] Splash: Initializing Movie System...
+<15:37:28> [93287AEC] Renderer initialization - Start
+<15:37:28> [BA0D559B] Splash: Initializing Renderer...
+<15:37:28> [91207680] Renderer initialization - Open
+<15:37:28> [4377E7CB] Renderer initialization - DLL Load(CryRenderD3D10.dll)
+<15:37:28> [71203A94] Renderer initialization - DLL Done
+<15:37:28> [71227C22] Renderer initialization - DLL Init
+<15:37:28> [C653D9CB] Renderer initialization - Instance
+<15:37:29> [F4516946] D3D Adapter: Description: AMD Radeon RX 7800 XT (RADV NAVI32)
+<15:37:29> [A39C3A75] D3D Adapter: Driver version (UMD): 32.00.65535.65535
+<15:37:29> [BC8C1ACB] D3D Adapter: VendorId = 0x1002
+<15:37:29> [B6A10CFD] D3D Adapter: DeviceId = 0x747E
+<15:37:29> [0678E702] D3D Adapter: SubSysId = 0x00000000
+<15:37:29> [F2243F02] D3D Adapter: Revision = 0
+<15:37:29> [A18DEBFF] Attempting to open TXAA context...
+<15:37:29> [763FCAEF] TXAA startup failed -- status (1)
+<15:37:29> [E571CFEE] Shader manager initialization
+<15:37:30> [05BAAEF6] CResFile allocations incurred by user cache preload: (17198.86k)
+<15:37:30> [911B73B8] Renderer initialization - Done
+<15:37:30> [8E444EA9] Console initialization
+<15:37:30> [2904A233] Time initialization
+<15:37:30> [3650CFD6] Input initialization
+<15:37:30> [BA0D559B] Splash: Initializing Input System...
+<15:37:30> Initializing Keyboard
+<15:37:30> [99640BF1] Sound initialization
+<15:37:30> [BA0D559B] Splash: Initializing Sound System...
+<15:37:30> [2C33885C] Sound - Initializing AudioDevice now!
+<15:37:30> [E46760A9] <Sound> Initialize FMOD with dynamic memory callbacks
+<15:37:32> [D6755BFD] <Sound> Starting to initialize Windows Audio Session API output! 
+<15:37:32> [F7E8E3CD] <Sound> Drivers found: 6
+<15:37:32> [9B899242] <Sound> Available drivers:
+	1.	PulseAudio Output (PulseAudio Output)
+	2.	Blue Microphones Analog Stereo (Blue Microphones Analog Stereo)
+	3.	soundcore Liberty 4 NC (soundcore Liberty 4 NC)
+	4.	Wireless Controller (Wireless Controller)
+	5.	Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Navi 31 HDMI/DP Audio Digital Stereo (HDMI))
+	6.	Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo)
+<15:37:32> [A0BBF7E1] <Sound> FmodEx-AudioDevice: Now running on driver: PulseAudio Output (PulseAudio Output)
+<15:37:32> [14D8EFE1] <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<15:37:32> [E79C27E5] <Sound> Initializing FMOD-EX now!
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 0 PulseAudio Input (PulseAudio Input) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 1 soundcore Liberty 4 NC (soundcore Liberty 4 NC) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 2 Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 3 Wireless Controller (Wireless Controller) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 4 Blue Microphones Analog Stereo (Blue Microphones Analog Stereo) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 5 Monitor of Family 17h/19h/1ah HD Audio Controller (Monitor of Family 17h/19h/1ah HD Audio Controller) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 6 Monitor of Blue Microphones Analog Stereo (Monitor of Blue Microphones Analog Stereo) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 7 Wireless Controller (Wireless Controller) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 8 Monitor of soundcore Liberty 4 NC (Monitor of soundcore Liberty 4 NC) !
+<15:37:32> [E2A9FE08] <Sound> Available record drivers: 9 Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI)) !
+<15:37:32> [6841BE38] <Sound> Record config is set to autodetect using record driver 0
+<15:37:32> [7808B4C4] <Sound> Using FMOD version: 00044414 and internal 00044414!
+<15:37:33> [2A2815C7] <Sound> Initialized FMOD-EX
+<15:37:33> [BE4EF52E] Sound - Initializing SoundSystem now!
+<15:37:33> [0D547471] Font initialization
+<15:37:33> [BA0D559B] Splash: Initializing Fonts...
+<15:37:33> [C194F7C8][Warning] Cannot load texture textures/defaults/replacemecm.tif, file missing [File=textures/defaults/replacemecm.dds]
+<15:37:33> [84206398] AI initialization
+<15:37:33> [1BC221DE] Initializing Animation System
+<15:37:33> [BA0D559B] Splash: Initializing Animation System...
+<15:37:33> [9E592EFE] Initializing 3D Engine
+<15:37:33> [BA0D559B] Splash: Initializing 3D Engine...
+<15:37:34> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/nude/Standard_22.mtl (chr: game/objects/characters/ferre/female/nude/fe_f_base.chr)
+<15:37:34> [91F5AEEC][Warning] number of bones mismatch! game/objects/characters/ferre/female/nude/fe_f_base.chr=195 game/objects/characters/ferre/female/nude/fe_f_base_lod1.chr=185
+<15:37:35> [7415A452] CHR PreCaching 25 Done
+<15:37:35> [E7AD4E53] AddSharedMorphTargets - Failed to load objects/characters/dwarf/male/face/dw_m_face00.chr
+<15:37:35> [61AD1790] MorphTargetPreCaching - objects/characters/dwarf/male/face/dw_m_face00.chr Add Failed
+<15:37:35> [A4A6E4C6] MorphTarget PreCaching 11 Done
+<15:37:35> [5ACB40E2] Init Face Makers
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<15:37:35> [4ABB03EB] game/objects/characters/ferre/female/face/fe_f_face01_low.chr(303) - objects/characters/ferre/female/face/fe_f_face00.chr(3063) SharedMorph is not matched
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_SeptumVol target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_NasalZposition target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dwEarSize target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : dwarf_Morph target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Forehead target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_DoubleEyelidShape target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowXposition target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowZposition target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Nostril target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_SeptumZposition target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_End target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipVolume target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipVolume target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipOpen target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipOpen target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_MouthOpen target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Size target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_TeethZposition target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard1 target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard2 target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard3 target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_max ex target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllLowerY target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllRotate target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllY target not exist
+<15:37:35> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_min target not exist
+<15:37:35> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_max ex target not exist
+<15:37:35> [E320B5CE] Init Face Makers - Done!
+<15:37:35> [581CA53C] Script System Initialization
+<15:37:35> [BA0D559B] Splash: Initializing Script System...
+<15:37:35> [000004EE][Warning] [Lua Error] 1_3_0/scripts/common.lua:276: attempt to index global 'Script' (a nil value)
+<15:37:35> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/common.alb
+<15:37:35> [D8B2BA54] Entity system initialization
+<15:37:35> [BA0D559B] Splash: Initializing Entity System...
+<15:37:35> [D55F91B2][Warning] [CEntityClassRegistry] LoadClassDescription failed, Entity Class name Chick already registered
+<15:37:35> [BA0D559B] Splash: Initializing AI System...
+<15:37:35> [DA019954] Initializing AI System
+<15:37:35> [2546BCC5] Initializing Budgeting System
+<15:37:35> [C0E19025] Initializing Seamless System
+<15:37:36> [BA0D559B] Splash: Loading Game Data...
+<15:37:37> [90B8EC50][Warning] too many ranges: aoe_shapes descs 10156(10156) threshold 100 ranges 12
+<15:37:38> [BA4AD6CE] Loading portal list
+<15:37:38> [92597454] Portal added, enter: 3891, exit: 6629
+<15:37:38> [92597454] Portal added, enter: 21448, exit: 21449
+<15:37:38> [92597454] Portal added, enter: 21450, exit: 21451
+<15:37:38> [92597454] Portal added, enter: 21452, exit: 21453
+<15:37:38> [92597454] Portal added, enter: 21698, exit: 21699
+<15:37:38> [92597454] Portal added, enter: 22023, exit: 22024
+<15:37:38> [92597454] Portal added, enter: 22042, exit: 22066
+<15:37:38> [92597454] Portal added, enter: 22136, exit: 22137
+<15:37:38> [92597454] Portal added, enter: 22163, exit: 22164
+<15:37:38> [92597454] Portal added, enter: 22184, exit: 22185
+<15:37:38> [92597454] Portal added, enter: 22336, exit: 22337
+<15:37:38> [92597454] Portal added, enter: 9000063, exit: 9000064
+<15:37:38> [1C664009] End loading portal list
+<15:37:38> [937812F7] loaded DDCMS (1396969 descs, 719156 links (17 page 16.95MB size) string) from game\db\compact.sqlite3 in 1432 ms
+<15:37:38> [BA0D559B] Splash: Initializing Game System...
+<15:37:38> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:37:39> [0ADE3294][Warning] [MFX] Effect 'collisions:grenade' already present. Overriding.
+<15:37:39> [311630D1][Warning] MFX WARNING: Material not found: mat_ice_breakable
+<15:37:39>  
+<15:37:39>    sys_spec = Custom (assuming 4)
+<15:37:39>      option_anti_aliasing = 2 expected:3
+<15:37:39>  
+<15:37:39> [BA0D559B] Splash: Preparing Screen...
+<15:37:39> [3778EA0B] Screen Resolution - 1 (2560x1440)
+<15:37:39> [A1B107F0] Screen Resolution - Test OK (2560x1440)
+<15:37:39> [963385F6] Level System - Loading Start
+<15:37:39> [806B6F8D] precaching world entities ..
+<15:37:39> [7E39E0DE] precaching world entities .. done!  total (0) objects
+<15:37:39> [D2B280D6] Vegetation Manager : Loading World(login2)
+<15:37:39> [075AB92F] Vegetation Manager : Loading World - Done (total 36 vegetations)
+<15:37:39> [B9410AA1] total 20 terrain world surfaces loaded
+<15:37:39> Loading Particle Library: collisions
+<15:37:39> Loading Particle Library: water
+<15:37:39> Loading Particle Library: misc
+<15:37:40> Loading Particle Library: ability_skill_table
+<15:37:40> Loading Particle Library: ability_skill_table_k
+<15:37:40> Loading Particle Library: abillity_skill_table_m
+<15:37:40> Loading Particle Library: machinima
+<15:37:40> Loading Particle Library: x2_effects
+<15:37:40> Loading Particle Library: x2_effects_k
+<15:37:41> [280A47E3] Precached total 2 materials
+<15:37:41> [7B1A973B] seamless loading cell terrain(W0, 1), (L0, 0)
+<15:37:41> [3EF08C47] seamless loading cell object(W0, 1), (L0, 0)
+<15:37:41> [584C4FFD] [net 19:37:28.861]  dns ip:192.168.1.202
+<15:37:41> [584C4FFD] [net 19:37:28.861]  dns ip:172.19.0.1
+<15:37:41> [584C4FFD] [net 19:37:28.861]  dns ip:172.18.0.1
+<15:37:41> [584C4FFD] [net 19:37:28.861]  dns ip:172.17.0.1
+<15:37:41> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<15:37:41> [13A58BA0][Error] CryAnimation: character-definition not found: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<15:37:41> [4DD44108] Start DaruCommon Extension
+<15:37:41> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_Amount
+<15:37:41> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_MaskTexName
+<15:37:41> [1B425DA5] Duplicated post effect param! pszName = FilterChromaShift_User_Amount
+<15:37:41> [1B425DA5] Duplicated post effect param! pszName = FilterGrain_Amount
+<15:37:41> [8F6BAA6C][Warning] Couldn't find console variable 'e_water_ocean_fft'
+<15:37:41> [D2121932] Change resolution: 2560x1440x32 (Fullscreen)
+<15:37:41> [583D6F38] Final resolution: 2560x1440x32 (Fullscreen)
+<15:37:41> Loading Particle Library: wind
+<15:37:41> Loading Particle Library: X2_EFFECT_O
+<15:37:41> [000004EE][Warning] Particle effect not found: '                                                                ', from ParticleEffect fx_land_green
+<15:37:41> [12409CCC] Load Zone Finished
+<15:37:41> [A39C1725] Level System - Loading Complete
+<15:37:41> [27293DED] -----------------------------------------------------
+<15:37:41> [120C18F5] * LOADING: 'loginbg4' loading time: 2.04 seconds
+<15:37:41> [27293DED] -----------------------------------------------------
+<15:37:41> [000004EE][Warning] [Lua Error] no client player exists
+<15:37:41> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:37:42> [000FABC5][Warning] CAreaGrid::BeginAreas() called before being initialized.
+<15:37:42> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/irradiance_volume/default.mtl)
+<15:37:42> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(515.8,6956.2,547.4), aabb center=(0.0,0.0,-40.0)
+<15:37:42> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:37:42> [09F46B9D]     cl_fov = 90 []
+<15:37:42> [09F46B9D]     camera_max_dist = 120 []
+<15:37:42> [73861D69] Unknown command: name_tag_hp_width_on_bgmode 80
+<15:37:42> [73861D69] Unknown command: name_tag_hp_height_on_bgmode 30
+<15:37:42> [247165BA][Warning] Cannot load texture ui/login_stage/background/game_information.dds, file missing [File=ui/login_stage/background/game_information.dds]
+<15:37:45> [1D01FDCA] Auth: client connected to server
+<15:37:45> [584C4FFD] [net 19:37:45.327]  socket ip:192.168.1.202
+<15:37:45> [4C920A71] mac address : 74-56-3c-fe-52-f3
+<15:37:46> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:37:50> [584C4FFD] [net 19:37:50.915] connection requested to: 192.95.21.64:1239
+<15:37:50> [4ABA7BDB] Auth: client disconnected (reason=0)
+<15:37:50> [0F08E548] [NetConnection] connect completed (succeeded:true)
+<15:37:51> [48F7BDF2] invalid world id in world queue packet
+<15:37:51> [26623ECA] ucc info.. 0 0
+<15:37:51> [B71BF2A9] remove ucc data.. version
+<15:37:51> [4516816D] pay method: person
+<15:37:51> [4AA30841] pay location: person
+<15:37:51> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<15:37:51> [6486A277] pay end: 1900-1-1 00:00:00
+<15:37:51> [FFF6198C] premium point: 0
+<15:37:51> [481C0862] premium grade: premium_0
+<15:37:51> [88D9AB0C] real pay time: 142022748930048
+<15:37:51> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [camera_max_dist] is already registered
+<15:37:51> [34CCC219] stream: connected to world server
+<15:37:51> [06A46B5B] stream: authorized by world server
+<15:37:51> [4516816D] pay method: person
+<15:37:51> [4AA30841] pay location: person
+<15:37:51> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<15:37:51> [6486A277] pay end: 2037-12-31 16:00:00
+<15:37:51> [FFF6198C] premium point: 0
+<15:37:51> [481C0862] premium grade: premium_0
+<15:37:51> [88D9AB0C] real pay time: -1
+<15:37:51> [82321C2B][Warning] [net 19:37:51.783] [time] remote time estimation restarted; estimate accumulator age was 79420.843750
+<15:37:53> [5F89E60D][Warning] non cached CDF(game/objects/characters/nuian/male/nude/nu_m.cdf)
+<15:37:53> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/nuian/male/face/nu_m_face00.mtl)
+<15:37:53> [2363981C][Warning] chr material is not precached : game/objects/characters/nuian/male/hair/nu_m_hair011/nu_m_hair011.mtl (chr: game/objects/characters/nuian/male/hair/nu_m_hair011/nu_m_hair011.chr)
+<15:37:53> [637AF710][Warning] missing chr material : game/objects/characters/elf/male/parts/ar/obj/el_m_ar_leather218.mtl (chr: game/objects/characters/elf/male/parts/ar/obj/el_m_1ar310_1arm011.chr)
+<15:37:53> [491B3718][Warning] Cannot load texture objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds, file missing [File=objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds]
+<15:37:53> [5243B464][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds' in path '' [File=objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds]
+<15:37:54> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:37:54> [09F46B9D]     cl_fov = 90 []
+<15:37:54> [09F46B9D]     camera_max_dist = 120 []
+<15:37:54> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:37:54> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:37:54> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:37:54> [3305346E][Warning] Can't load image ''. 
+<15:37:54> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:38:02> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:38:09> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:38:14> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:38:38> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:38:53> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:01> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:07> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:18> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:31> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:45> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:39:53> [7CE9426C][Warning] Failed to Load Character file [File=game/objects/characters/warborn/female/wing/wa_f_wing.chr]
+<15:39:53> [B2370F66][Error] CryAnimation: no character created: game/objects/characters/warborn/female/transformation001/wa_f_transformation001.cdf
+<15:40:17> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/oeffect/p_ref_ring_04a.mtl)
+<15:40:26> [5F89E60D][Warning] non cached CDF(game/objects/characters/warborn/female/parts/ar/cloth/ar_cloth182/wa_f_ar_cloth182.cdf)
+<15:40:26> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/ar/cloth/ar_cloth182/wa_f_ar_cloth182.mtl)
+<15:40:26> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/ar/obj/wa_f_ar_cloth182.mtl (chr: game/objects/characters/warborn/female/parts/ar/obj/wa_f_1ac015_1ar911_1arm028_1bt020.chr)
+<15:40:26> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/hair/wa_f_hair014/wa_f_hair014.mtl (chr: game/objects/characters/warborn/female/hair/wa_f_hair014/wa_f_hair014.chr)
+<15:40:26> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 2b6f52ec process called multiple times a frame
+<15:40:30> [A181AEBC][Warning] Anim events cannot find effect "", requested by animation "animations/warborn/female/loginstage/loginstage_class_healer.caf".
+<15:40:31> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 2b6f52ec process called multiple times a frame
+<15:40:54> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/parts/all/metal/metal098/wa_f_ar_metal098.mtl (chr: game/objects/characters/warborn/female/parts/all/metal/metal098/wa_f_ar_metal098.chr)
+<15:40:54> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/all/metal/metal098/wa_f_ar_metal098.mtl)
+<15:40:54> [000004EE][Warning] Particle effect not found: 'X2_EFFECT_O.Interaction.login_tribe_select_melee_a', from ParticleEffect 04_melee_cast
+<15:40:54> [000004EE][Warning] RenderMesh not assigned game/objects/box_nodraw.cgf
+<15:40:54> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 50f4469c process called multiple times a frame
+<15:40:59> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 50f4469c process called multiple times a frame
+<15:41:08> [5F89E60D][Warning] non cached CDF(game/objects/characters/warborn/female/parts/all/cloth/cloth095/wa_f_ar_cloth095.cdf)
+<15:41:08> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/all/cloth/cloth095/wa_f_ar_cloth095.mtl)
+<15:41:08> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/parts/all/cloth/cloth097/wa_f_ar_cloth097.mtl (chr: game/objects/characters/warborn/female/parts/all/cloth/cloth097/wa_f_ar_cloth097.chr)
+<15:41:08> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 23dcc264 process called multiple times a frame
+<15:41:13> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 23dd0464 process called multiple times a frame
+<15:41:26> [5F89E60D][Warning] non cached CDF(game/objects/characters/warborn/female/parts/all/leather/leather095/wa_f_hm_leather095.cdf)
+<15:41:26> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/all/leather/leather095/wa_f_hm_leather095.mtl)
+<15:41:26> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/parts/all/leather/leather098/wa_f_hm_leather098.mtl (chr: game/objects/characters/warborn/female/parts/all/leather/leather098/wa_f_hm_leather098.chr)
+<15:41:26> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 4e457cd4 process called multiple times a frame
+<15:41:39> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/all/cloth/cloth095/wa_f_ar_cloth095.mtl)
+<15:41:39> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 281d138c process called multiple times a frame
+<15:41:44> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 281d138c process called multiple times a frame
+<15:42:29> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:42:29> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:42:29> [09F46B9D]     cl_fov = 90 []
+<15:42:29> [09F46B9D]     camera_max_dist = 120 []
+<15:42:29> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:42:29> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:42:29> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:42:29> [45A30EC6] Toggling full screen : off
+<15:42:29> [D2121932] Change resolution: 2560x1440x32 (Windowed)
+<15:42:29> [583D6F38] Final resolution: 2554x1408x32 (Windowed)
+<15:42:37> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:42:37> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:42:37> [09F46B9D]     cl_fov = 90 []
+<15:42:37> [09F46B9D]     camera_max_dist = 120 []
+<15:42:37> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:42:37> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:42:37> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:42:37> [45A30EC6] Toggling full screen : on
+<15:42:37> [D2121932] Change resolution: 2560x1440x32 (Fullscreen)
+<15:42:37> [583D6F38] Final resolution: 2560x1440x32 (Fullscreen)
+<15:42:58> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:42:58> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/ar/cloth/ar_cloth182/wa_f_ar_cloth182.mtl)
+<15:42:58> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/ar/obj/wa_f_ar_cloth182.mtl (chr: game/objects/characters/warborn/female/parts/ar/obj/wa_f_1ac015_1ar911_1arm028_1bt020.chr)
+<15:42:58> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/hair/wa_f_hair006/wa_f_hair006.mtl (chr: game/objects/characters/warborn/female/hair/wa_f_hair006/wa_f_hair006.chr)
+<15:42:58> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 23dd6a8c process called multiple times a frame
+<15:43:02> [A181AEBC][Warning] Anim events cannot find effect "", requested by animation "animations/warborn/female/loginstage/loginstage_class_healer.caf".
+<15:43:03> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 23dd6a8c process called multiple times a frame
+<15:43:13> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/all/leather/leather095/wa_f_hm_leather095.mtl)
+<15:43:13> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/parts/all/leather/leather098/wa_f_hm_leather098.mtl (chr: game/objects/characters/warborn/female/parts/all/leather/leather098/wa_f_hm_leather098.chr)
+<15:43:13> [076B0E50][Warning] CSkeletonAnim::ProcessAnimations game/objects/characters/warborn/female/nude/wa_f.cdf 2809875c process called multiple times a frame
+<15:43:16> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:43:16> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:43:16> [09F46B9D]     cl_fov = 90 []
+<15:43:16> [09F46B9D]     camera_max_dist = 120 []
+<15:43:16> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:43:16> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:43:16> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:43:16> [45A30EC6] Toggling full screen : off
+<15:43:16> [D2121932] Change resolution: 2560x1440x32 (Windowed)
+<15:43:16> [583D6F38] Final resolution: 2554x1408x32 (Windowed)
+<15:43:33> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:43:33> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:43:33> [09F46B9D]     cl_fov = 90 []
+<15:43:33> [09F46B9D]     camera_max_dist = 120 []
+<15:43:33> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:43:33> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:43:33> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:43:33> [45A30EC6] Toggling full screen : on
+<15:43:33> [D2121932] Change resolution: 2560x1440x32 (Fullscreen)
+<15:43:33> [583D6F38] Final resolution: 2560x1440x32 (Fullscreen)
+<15:43:39> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:43:39> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:43:39> [09F46B9D]     cl_fov = 90 []
+<15:43:39> [09F46B9D]     camera_max_dist = 120 []
+<15:43:39> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:43:39> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:43:39> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:43:39> [06E6A3E9][Warning] Cannot load texture ui/login_stage/queue.dds, file missing [File=ui/login_stage/queue.dds]
+<15:43:47> [7CC1A260] Save Game Option
+<15:43:47> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<15:43:47> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<15:43:47> [09F46B9D]     cl_fov = 90 []
+<15:43:47> [09F46B9D]     camera_max_dist = 120 []
+<15:43:47> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<15:43:47> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<15:43:47> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<15:43:47> [06E6A3E9][Warning] Cannot load texture ui/login_stage/queue.dds, file missing [File=ui/login_stage/queue.dds]
+<15:43:47> [D2121932] Change resolution: 2560x1440x32 (Windowed)
+<15:43:47> [B0F7CF3E] Window Rect 0, 0, 2560x1440, 2560x1440
+<15:43:47> [583D6F38] Final resolution: 2554x1408x32 (Windowed)
+<15:44:03> [7CC1A260] Save Game Option
+<15:44:05> [584C4FFD] [net 19:44:05.816] -- Client will disconnect; cause=18 desc=graceful exit
+<15:44:05> [05D024BA] System:Quit

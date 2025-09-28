@@ -1,0 +1,950 @@
+[801989E0] BackupNameAttachment=" Build(0) Date(25 September 2025) Time(10 53 06)"  -- used by backup system
+[00000020]  
+[38F38F32] Log Started at #c
+[0232BD25] Running 32 bit version
+[7AB6F5FE] Executable: C:\Games\AAClassic\bin32\archeage.exe
+[E5C771AC] FileVersion: 3.5.0.0
+[F799D55F] ProductVersion: 3.5.3.0
+[1F1D6B13] Using Microsoft (tm) C++ Standard Library implementation
+[00000020]  
+[C7D96C80] Revision: 350000
+[00000020]  
+[64533E3E] this is the first client
+<10:53:13> [B9197FD5][Error] ConsoleVariableGroup[option_effect] key[e_particles_lod_onoff] has no default
+<10:53:13> [76666E6D] 
+--- CPU detection ---
+<10:53:13> [F4D992D8] CPU: AMD AMD Ryzen 7 7800X3D 8-Core Processor           
+<10:53:13> [3F649B02] Family: 15, Model: 1, Stepping: 2
+<10:53:13> [83D12E0B] FPU: On-Chip
+<10:53:13> [50919DA0] CPU Speed (estimated): 4191.859120 MHz
+<10:53:13> [C73FD83A] MMX: not present
+<10:53:13> [89D1077A] SSE: present
+<10:53:13> [64E2B6F1] 3DNow!: present
+<10:53:13> [27B7AC6E] Serial number not present or disabled
+<10:53:13> [1D2D8E5B] Number of logical processors: 16
+<10:53:13> [FA658084] Number of available logical processors: 16
+<10:53:13> [A1F061C2] Invariant Time Stamp Counter : yes
+<10:53:13> [FA0251ED] ---------------------
+
+<10:53:13> [03E7D838] Device Info
+<10:53:13> [9F603516] Device Info - 1
+<10:53:13> [9F603517] Device Info - 2
+<10:53:13> [9F603518] Device Info - 3
+<10:53:13> [9F603519] Device Info - 4
+<10:53:13> [9F60351A] Device Info - 5
+<10:53:13> [9F60351B] Device Info - 6
+<10:53:13> [9F60351C] Device Info - 7
+<10:53:13> [E98ECC28] Video Memory Info
+<10:53:13> [D5FBE664] Video Memory - 1
+<10:53:13> [D5FBE665] Video Memory - 2
+<10:53:13> [D5FBE666] Video Memory - 3
+<10:53:13> [D5FBE667] Video Memory - 4
+<10:53:13> [D5FBE668] Video Memory - 5
+<10:53:13> [D5FBE669] Video Memory - 6
+<10:53:13> [D5FBE66A] Video Memory - 7
+<10:53:13> [D5FBE66B] Video Memory - 8
+<10:53:13> [3A4D54A2][Warning] config/gpu/amd.txt line 55 contains a multiple defined GPU rating!
+<10:53:13> [D20872C0] InitThreadAffinities
+<10:53:13> [2F28A434] UpdateMainThreadAffinity
+<10:53:13> [16962512] Windows 8 64 bit (build 6.2.9200)
+<10:53:13> [38DFF081] System language: English
+<10:53:13> [861A0178] Windows Directory: "C:\windows"
+<10:53:13> [341B54F1] Prerequisites...
+<10:53:13> [5D1B3C9C] * Installation of KB940105 hotfix required: no! (either not needed or already installed)
+<10:53:13> [9AF49D24] Local time is 10:53:13 09/25/25, system running for 5421 minutes
+<10:53:13> [9758B5C5] 63426MB physical memory installed, 21037MB available, 4095MB virtual memory installed, 66 percent of memory in use
+<10:53:13> [31259232] PageFile usage: 
+<10:53:13> [453F0D1B] Current display mode is 2560x1440x32
+<10:53:13> [8A64FCCC] IBM enhanced (101/102-key) keyboard and 3+ button mouse installed
+<10:53:13> [CE30556B] ----- GPU Detection -----------------
+<10:53:13> [03E7D838] Device Info
+<10:53:13> [9F603516] Device Info - 1
+<10:53:13> [9F603517] Device Info - 2
+<10:53:13> [9F603518] Device Info - 3
+<10:53:13> [9F603519] Device Info - 4
+<10:53:13> [9F60351A] Device Info - 5
+<10:53:13> [9F60351B] Device Info - 6
+<10:53:13> [9F60351C] Device Info - 7
+<10:53:13> [E98ECC28] Video Memory Info
+<10:53:13> [D5FBE664] Video Memory - 1
+<10:53:13> [D5FBE665] Video Memory - 2
+<10:53:13> [D5FBE666] Video Memory - 3
+<10:53:13> [D5FBE667] Video Memory - 4
+<10:53:13> [D5FBE668] Video Memory - 5
+<10:53:13> [D5FBE669] Video Memory - 6
+<10:53:13> [D5FBE66A] Video Memory - 7
+<10:53:13> [D5FBE66B] Video Memory - 8
+<10:53:13> [99EA404A]  AMD Radeon RX 7800 XT (RADV NAVI32) (vendor = 0x1002, device = 0x747e, subSys = 0x00000000)
+<10:53:13> [77718B6A] -- Video memory: 4081 MB
+<10:53:13> [30DF1863] -- Minimum SM 2.0 support: yes
+<10:53:13> [13E11956] -- DX11 supported: yes
+<10:53:13> [50B60100] --------------------------------------------------------------------------------
+<10:53:13> [5921EDBE] Stream Engine Initialization
+<10:53:13> [BA0D559B] Splash: Initializing Stream Engine...
+<10:53:13> [939F6EBB] Enable Resolutions : 0
+<10:53:13> [A30A84B6] can't enum display resolution modes
+<10:53:13> [B324CD25] Screen Resolution - 1024x768
+<10:53:13> [3778EA0B] Screen Resolution - 0 (2560x1440)
+<10:53:13> [A1B107F0] Screen Resolution - Test OK (2560x1440)
+<10:53:14> [A9E4B0F2] Network initialization
+<10:53:14> [BA0D559B] Splash: Initializing Network System...
+<10:53:14> [14FAD233] Socket I/O by iocp
+<10:53:14> [E36A4FB9] Physics initialization
+<10:53:14> [BA0D559B] Splash: Initializing Physics...
+<10:53:14> [2462D581] MovieSystem initialization
+<10:53:14> [BA0D559B] Splash: Initializing Movie System...
+<10:53:14> [93287AEC] Renderer initialization - Start
+<10:53:14> [BA0D559B] Splash: Initializing Renderer...
+<10:53:14> [91207680] Renderer initialization - Open
+<10:53:14> [4377E7CB] Renderer initialization - DLL Load(CryRenderD3D9.dll)
+<10:53:14> [71203A94] Renderer initialization - DLL Done
+<10:53:14> [71227C22] Renderer initialization - DLL Init
+<10:53:14> [C653D9CB] Renderer initialization - Instance
+<10:53:14> [44D9754D] D3D Adapter: Driver name: aticfx32.dll
+<10:53:14> [82BE8322] D3D Adapter: Driver description: AMD Radeon RX 7800 XT (RADV NAVI32)
+<10:53:14> [2224501A] D3D Adapter: Driver version: 32767.65535.65535.65535
+<10:53:14> [E8D1E30D] D3D Adapter: Driver GUID: 00000000-0003-0000-0000000000000000
+<10:53:14> [BC8C1ACB] D3D Adapter: VendorId = 0x1002
+<10:53:14> [B6A10CFD] D3D Adapter: DeviceId = 0x747E
+<10:53:14> [0678E702] D3D Adapter: SubSysId = 0x00000000
+<10:53:14> [F2243F0E] D3D Adapter: Revision = 0
+<10:53:14> [E571CFEE] Shader manager initialization
+<10:53:16> [05BAAEF6] CResFile allocations incurred by user cache preload: (21525.81k)
+<10:53:16> [911B73B8] Renderer initialization - Done
+<10:53:16> [8E444EA9] Console initialization
+<10:53:16> [2904A233] Time initialization
+<10:53:16> [3650CFD6] Input initialization
+<10:53:16> [BA0D559B] Splash: Initializing Input System...
+<10:53:16> Initializing Keyboard
+<10:53:16> [99640BF1] Sound initialization
+<10:53:16> [BA0D559B] Splash: Initializing Sound System...
+<10:53:16> [2C33885C] Sound - Initializing AudioDevice now!
+<10:53:16> [E46760A9] <Sound> Initialize FMOD with dynamic memory callbacks
+<10:53:17> [D6755BFD] <Sound> Starting to initialize Windows Audio Session API output! 
+<10:53:17> [F7E8E3CD] <Sound> Drivers found: 6
+<10:53:17> [9B899242] <Sound> Available drivers:
+	1.	PulseAudio Output (PulseAudio Output)
+	2.	Blue Microphones Analog Stereo (Blue Microphones Analog Stereo)
+	3.	soundcore Liberty 4 NC (soundcore Liberty 4 NC)
+	4.	Wireless Controller (Wireless Controller)
+	5.	Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Navi 31 HDMI/DP Audio Digital Stereo (HDMI))
+	6.	Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo)
+<10:53:17> [A0BBF7E1] <Sound> FmodEx-AudioDevice: Now running on driver: PulseAudio Output (PulseAudio Output)
+<10:53:17> [14D8EFE1] <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<10:53:17> [E79C27E5] <Sound> Initializing FMOD-EX now!
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 0 PulseAudio Input (PulseAudio Input) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 1 soundcore Liberty 4 NC (soundcore Liberty 4 NC) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 2 Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 3 Wireless Controller (Wireless Controller) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 4 Blue Microphones Analog Stereo (Blue Microphones Analog Stereo) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 5 Monitor of Family 17h/19h/1ah HD Audio Controller (Monitor of Family 17h/19h/1ah HD Audio Controller) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 6 Monitor of Blue Microphones Analog Stereo (Monitor of Blue Microphones Analog Stereo) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 7 Wireless Controller (Wireless Controller) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 8 Monitor of soundcore Liberty 4 NC (Monitor of soundcore Liberty 4 NC) !
+<10:53:17> [E2A9FE08] <Sound> Available record drivers: 9 Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI) (Monitor of Navi 31 HDMI/DP Audio Digital Stereo (HDMI)) !
+<10:53:17> [6841BE38] <Sound> Record config is set to autodetect using record driver 0
+<10:53:17> [7808B4C4] <Sound> Using FMOD version: 00044414 and internal 00044414!
+<10:53:17> [2A2815C7] <Sound> Initialized FMOD-EX
+<10:53:17> [BE4EF52E] Sound - Initializing SoundSystem now!
+<10:53:17> [0D547471] Font initialization
+<10:53:17> [BA0D559B] Splash: Initializing Fonts...
+<10:53:17> [C194F7C8][Warning] Cannot load texture textures/defaults/replacemecm.tif, file missing [File=textures/defaults/replacemecm.dds]
+<10:53:18> [84206398] AI initialization
+<10:53:18> [1BC221DE] Initializing Animation System
+<10:53:18> [BA0D559B] Splash: Initializing Animation System...
+<10:53:18> [9E592EFE] Initializing 3D Engine
+<10:53:18> [BA0D559B] Splash: Initializing 3D Engine...
+<10:53:19> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/nude/Standard_22.mtl (chr: game/objects/characters/ferre/female/nude/fe_f_base.chr)
+<10:53:19> [91F5AEEC][Warning] number of bones mismatch! game/objects/characters/ferre/female/nude/fe_f_base.chr=195 game/objects/characters/ferre/female/nude/fe_f_base_lod1.chr=185
+<10:53:20> [7415A452] CHR PreCaching 25 Done
+<10:53:20> [E7AD4E53] AddSharedMorphTargets - Failed to load objects/characters/dwarf/male/face/dw_m_face00.chr
+<10:53:20> [61AD1790] MorphTargetPreCaching - objects/characters/dwarf/male/face/dw_m_face00.chr Add Failed
+<10:53:20> [A4A6E4C6] MorphTarget PreCaching 11 Done
+<10:53:20> [5ACB40E2] Init Face Makers
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:53:20> [4ABB03EB] game/objects/characters/ferre/female/face/fe_f_face01_low.chr(303) - objects/characters/ferre/female/face/fe_f_face00.chr(3063) SharedMorph is not matched
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_SeptumVol target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_NasalZposition target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dwEarSize target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : dwarf_Morph target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Forehead target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_DoubleEyelidShape target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowXposition target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowZposition target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Nostril target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_SeptumZposition target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_End target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipVolume target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipVolume target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipOpen target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipOpen target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_MouthOpen target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Size target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_TeethZposition target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard1 target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard2 target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard3 target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_max ex target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllLowerY target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllRotate target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllY target not exist
+<10:53:20> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_min target not exist
+<10:53:20> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_max ex target not exist
+<10:53:20> [E320B5CE] Init Face Makers - Done!
+<10:53:20> [581CA53C] Script System Initialization
+<10:53:20> [BA0D559B] Splash: Initializing Script System...
+<10:53:20> [000004EE][Warning] [Lua Error] 1_3_0/scripts/common.lua:276: attempt to index global 'Script' (a nil value)
+<10:53:20> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/common.alb
+<10:53:20> [D8B2BA54] Entity system initialization
+<10:53:20> [BA0D559B] Splash: Initializing Entity System...
+<10:53:20> [D55F91B2][Warning] [CEntityClassRegistry] LoadClassDescription failed, Entity Class name Chick already registered
+<10:53:20> [BA0D559B] Splash: Initializing AI System...
+<10:53:20> [DA019954] Initializing AI System
+<10:53:20> [2546BCC5] Initializing Budgeting System
+<10:53:20> [C0E19025] Initializing Seamless System
+<10:53:21> [BA0D559B] Splash: Loading Game Data...
+<10:53:23> [90B8EC50][Warning] too many ranges: aoe_shapes descs 10156(10156) threshold 100 ranges 12
+<10:53:23> [BA4AD6CE] Loading portal list
+<10:53:23> [92597454] Portal added, enter: 3891, exit: 6629
+<10:53:23> [92597454] Portal added, enter: 21448, exit: 21449
+<10:53:23> [92597454] Portal added, enter: 21450, exit: 21451
+<10:53:23> [92597454] Portal added, enter: 21452, exit: 21453
+<10:53:23> [92597454] Portal added, enter: 21698, exit: 21699
+<10:53:23> [92597454] Portal added, enter: 22023, exit: 22024
+<10:53:23> [92597454] Portal added, enter: 22042, exit: 22066
+<10:53:23> [92597454] Portal added, enter: 22136, exit: 22137
+<10:53:23> [92597454] Portal added, enter: 22163, exit: 22164
+<10:53:23> [92597454] Portal added, enter: 22184, exit: 22185
+<10:53:23> [92597454] Portal added, enter: 22336, exit: 22337
+<10:53:23> [92597454] Portal added, enter: 9000063, exit: 9000064
+<10:53:23> [1C664009] End loading portal list
+<10:53:24> [937812F7] loaded DDCMS (1396969 descs, 719156 links (17 page 16.95MB size) string) from game\db\compact.sqlite3 in 1496 ms
+<10:53:24> [BA0D559B] Splash: Initializing Game System...
+<10:53:24> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<10:53:24> [0ADE3294][Warning] [MFX] Effect 'collisions:grenade' already present. Overriding.
+<10:53:24> [311630D1][Warning] MFX WARNING: Material not found: mat_ice_breakable
+<10:53:24>  
+<10:53:24>    sys_spec = Custom (assuming 4)
+<10:53:24>      option_animation = 5 expected:4
+<10:53:24>      option_anti_aliasing = 2 expected:3
+<10:53:24>      option_character_lod = 5 expected:4
+<10:53:24>      option_effect = 5 expected:4
+<10:53:24>      option_shader_quality = 5 expected:4
+<10:53:24>      option_shadow_dist = 5 expected:4
+<10:53:24>      option_shadow_view_dist_ratio = 5 expected:4
+<10:53:24>      option_shadow_view_dist_ratio_character = 5 expected:4
+<10:53:24>      option_terrain_detail = 5 expected:4
+<10:53:24>      option_terrain_lod = 5 expected:4
+<10:53:24>      option_texture_bg = 5 expected:4
+<10:53:24>      option_texture_character = 5 expected:4
+<10:53:24>      option_view_dist_ratio = 5 expected:4
+<10:53:24>      option_view_dist_ratio_vegetation = 5 expected:4
+<10:53:24>      option_view_distance = 5 expected:4
+<10:53:24>      option_volumetric_effect = 5 expected:4
+<10:53:24>      option_water = 5 expected:4
+<10:53:24>  
+<10:53:24> [BA0D559B] Splash: Preparing Screen...
+<10:53:24> [963385F6] Level System - Loading Start
+<10:53:25> [806B6F8D] precaching world entities ..
+<10:53:25> [7E39E0DE] precaching world entities .. done!  total (0) objects
+<10:53:25> [D2B280D6] Vegetation Manager : Loading World(login2)
+<10:53:25> [075AB92F] Vegetation Manager : Loading World - Done (total 36 vegetations)
+<10:53:25> [B9410AA1] total 20 terrain world surfaces loaded
+<10:53:25> Loading Particle Library: collisions
+<10:53:25> Loading Particle Library: water
+<10:53:25> Loading Particle Library: misc
+<10:53:25> Loading Particle Library: ability_skill_table
+<10:53:25> Loading Particle Library: ability_skill_table_k
+<10:53:25> Loading Particle Library: abillity_skill_table_m
+<10:53:25> Loading Particle Library: machinima
+<10:53:25> Loading Particle Library: x2_effects
+<10:53:26> Loading Particle Library: x2_effects_k
+<10:53:26> [280A47E3] Precached total 2 materials
+<10:53:26> [7B1A973B] seamless loading cell terrain(W0, 1), (L0, 0)
+<10:53:26> [3EF08C47] seamless loading cell object(W0, 1), (L0, 0)
+<10:53:26> [584C4FFD] [net 14:53:14.165]  dns ip:192.168.1.202
+<10:53:26> [584C4FFD] [net 14:53:14.165]  dns ip:172.18.0.1
+<10:53:26> [584C4FFD] [net 14:53:14.165]  dns ip:172.19.0.1
+<10:53:26> [584C4FFD] [net 14:53:14.165]  dns ip:172.17.0.1
+<10:53:26> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<10:53:26> [13A58BA0][Error] CryAnimation: character-definition not found: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<10:53:26> [4DD44108] Start DaruCommon Extension
+<10:53:26> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_Amount
+<10:53:26> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_MaskTexName
+<10:53:26> [1B425DA5] Duplicated post effect param! pszName = FilterChromaShift_User_Amount
+<10:53:26> [1B425DA5] Duplicated post effect param! pszName = FilterGrain_Amount
+<10:53:26> [8F6BAA6C][Warning] Couldn't find console variable 'e_water_ocean_fft'
+<10:53:26> Loading Particle Library: wind
+<10:53:26> Loading Particle Library: X2_EFFECT_O
+<10:53:26> [000004EE][Warning] Particle effect not found: '                                                                ', from ParticleEffect fx_land_green
+<10:53:26> [12409CCC] Load Zone Finished
+<10:53:26> [A39C1725] Level System - Loading Complete
+<10:53:26> [27293DED] -----------------------------------------------------
+<10:53:26> [120C18F5] * LOADING: 'loginbg4' loading time: 1.88 seconds
+<10:53:26> [27293DED] -----------------------------------------------------
+<10:53:26> [000004EE][Warning] [Lua Error] no client player exists
+<10:53:26> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:53:27> [000FABC5][Warning] CAreaGrid::BeginAreas() called before being initialized.
+<10:53:31> [1D01FDCA] Auth: client connected to server
+<10:53:31> [584C4FFD] [net 14:53:31.995]  socket ip:192.168.1.202
+<10:53:32> [4C920A71] mac address : 74-56-3c-fe-52-f3
+<10:53:33> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:53:34> [584C4FFD] [net 14:53:34.932] connection requested to: 192.95.21.64:1239
+<10:53:34> [4ABA7BDB] Auth: client disconnected (reason=0)
+<10:53:34> [0F08E548] [NetConnection] connect completed (succeeded:true)
+<10:53:35> [48F7BDF2] invalid world id in world queue packet
+<10:53:35> [26623ECA] ucc info.. 5 0
+<10:53:35> [4516816D] pay method: person
+<10:53:35> [4AA30841] pay location: person
+<10:53:35> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<10:53:35> [6486A277] pay end: 1900-1-1 00:00:00
+<10:53:35> [FFF6198C] premium point: 0
+<10:53:35> [481C0862] premium grade: premium_0
+<10:53:35> [88D9AB0C] real pay time: 0
+<10:53:35> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [camera_max_dist] is already registered
+<10:53:35> [34CCC219] stream: connected to world server
+<10:53:35> [06A46B5B] stream: authorized by world server
+<10:53:35> [4516816D] pay method: person
+<10:53:35> [4AA30841] pay location: person
+<10:53:35> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<10:53:35> [6486A277] pay end: 2037-12-31 16:00:00
+<10:53:35> [FFF6198C] premium point: 0
+<10:53:35> [481C0862] premium grade: premium_0
+<10:53:35> [88D9AB0C] real pay time: -1
+<10:53:35> [82321C2B][Warning] [net 14:53:35.725] [time] remote time estimation restarted; estimate accumulator age was 325284.281250
+<10:53:37> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/ar/obj/wa_f_ar_leather181.mtl (chr: game/objects/characters/warborn/female/parts/ar/obj/wa_f_1ac014_1ar117_2ar602_2arm004_2bt005_2pv002.chr)
+<10:53:37> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<10:53:37> [09F46B9D]     cl_fov = 90 []
+<10:53:37> [09F46B9D]     camera_max_dist = 180 []
+<10:53:37> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<10:53:37> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<10:53:38> [06E6A3E9][Warning] Cannot load texture ui/login_stage/queue.dds, file missing [File=ui/login_stage/queue.dds]
+<10:53:51> [DA579B6C][Error] can't load client driven connect info.. Kompy
+<10:53:56> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<10:53:57> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<10:53:57> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/returned/female/nude/re_f.cdf
+<10:53:57> [6FF68EA5] SetInstantTime: type 0 time 0
+<10:53:57> [6FF68EA5] SetInstantTime: type 1 time 1758741899
+<10:53:57> [6FF68EA5] SetInstantTime: type 2 time 1758736008
+<10:53:57> [6FF68EA5] SetInstantTime: type 3 time 0
+<10:53:57> [6FF68EA5] SetInstantTime: type 4 time 0
+<10:53:57> [6FF68EA5] SetInstantTime: type 5 time 0
+<10:53:57> [6FF68EA5] SetInstantTime: type 6 time 0
+<10:53:57> [6FF68EA5] SetInstantTime: type 7 time 1758806967
+<10:53:57> [82321C2B][Warning] [net 14:53:57.515] [time] remote time estimation restarted; estimate accumulator age was 3.613092
+<10:53:57> [0E61BD35] ExpeditionMember 2 added
+<10:53:57> [51CFCC4C] ExpeditionMember count matched. total 2
+<10:53:57> [966861E8][Warning] GetAllPolicies empty
+<10:53:57> [67B7DD8A][Warning] my ExpeditionMemberDesc not exist
+<10:53:57> [7AB931CE] seamless unloading cell object(W0, 0), (L0, 0)
+<10:53:57> [4B1E8B22] unload cell object count : 1511
+<10:53:57> [B866A294] seamless unloading cell terrain(W0, 0), (L0, 0)
+<10:53:57> [963385F6] Level System - Loading Start
+<10:53:57> [E0E0EDAE][Warning] failed to load zone time of day from game/worlds/main_world/zone/225//time_of_day.xml
+<10:53:57> [AB17243B][Warning] failed to load zone environment from game/worlds/main_world/zone/309//env.xml
+<10:53:57> [35D4413E][Warning] failed to load zone clouds from game/worlds/main_world/zone/309//clouds.xml
+<10:53:58> [806B6F8D] precaching world entities ..
+<10:53:58> [7E39E0DE] precaching world entities .. done!  total (1778) objects
+<10:53:58> [D2B280D6] Vegetation Manager : Loading World(main_world)
+<10:53:58> [075AB92F] Vegetation Manager : Loading World - Done (total 3055 vegetations)
+<10:53:58> [000004EE][Error] CTerrain::LoadWorldSurfaces: Error loading material: materials/Terrain/gweonidforest/w_forest_road_a1
+<10:53:59> [59CBED13][Warning] Cannot load texture textures/aa_terrain/canyon/tr_canyon_rock3d_405a_ddn.dds, file missing [File=textures/aa_terrain/canyon/tr_canyon_rock3d_405a_ddn.dds]
+<10:53:59> [751FFB9E][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find detail texture
+'game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga' in path '' [File=game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga]
+<10:53:59> [B9410AA1] total 600 terrain world surfaces loaded
+<10:53:59> [280A47E3] Precached total 4 materials
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 6), (L4, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 6), (L5, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 7), (L4, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 7), (L5, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 5), (L4, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 5), (L5, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 6), (L3, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 7), (L3, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 6), (L6, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 5), (L3, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 7), (L6, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 8), (L4, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 8), (L5, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 5), (L6, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 4), (L4, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 4), (L5, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 8), (L3, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 6), (L2, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 7), (L2, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 8), (L6, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 4), (L3, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 5), (L2, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 6), (L7, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 4), (L6, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 7), (L7, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 9), (L4, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 5), (L7, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 9), (L5, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 8), (L2, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 9), (L3, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 3), (L4, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 4), (L2, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 3), (L5, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 8), (L7, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 9), (L6, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 6), (L1, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 3), (L3, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 4), (L7, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 7), (L1, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 5), (L1, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 3), (L6, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 9), (L2, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 8), (L1, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 9), (L7, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 3), (L2, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 4), (L1, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 3), (L7, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W22, 2), (L4, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W23, 2), (L5, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 6), (L0, 4)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W21, 2), (L3, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 9), (L1, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 7), (L0, 5)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W24, 2), (L6, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 5), (L0, 3)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 3), (L1, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 8), (L0, 6)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W20, 2), (L2, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 4), (L0, 2)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W25, 2), (L7, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 9), (L0, 7)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W19, 2), (L1, 0)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 3), (L0, 1)
+<10:53:59> [7B1A973B] seamless loading cell terrain(W18, 2), (L0, 0)
+<10:53:59> [3EF08C47] seamless loading cell object(W22, 6), (L4, 4)
+<10:53:59> [A5DDEC33][Warning] Warning: CShaderMan::mfForName: NULL name
+<10:53:59> [3EF08C47] seamless loading cell object(W23, 6), (L5, 4)
+<10:53:59> Loading Particle Library: X2_EFFECTS_P
+<10:54:00> [3EF08C47] seamless loading cell object(W22, 7), (L4, 5)
+<10:54:00> [3EF08C47] seamless loading cell object(W23, 7), (L5, 5)
+<10:54:00> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/001_hcom/hcom_cart_b.cgf [:] LOD1 of geometry hcom_cart_b contains too many polygons comparing to the LOD0 [770 against 1114] :
+<10:54:00> [3EF08C47] seamless loading cell object(W22, 5), (L4, 3)
+<10:54:00> [3EF08C47] seamless loading cell object(W23, 5), (L5, 3)
+<10:54:00> [3EF08C47] seamless loading cell object(W21, 6), (L3, 4)
+<10:54:00> [3EF08C47] seamless loading cell object(W21, 7), (L3, 5)
+<10:54:00> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_people/hs_people_roof_a.cgf [:] Duplicate LOD helper $lod2 hs_people_roof_a
+<10:54:01> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_guild/nuia_h_guild_door_b_back.cga [:] non-uniform scale(1.00, 1.39, 1.00) at node(nuia_h_guild_door_b01_back)
+<10:54:01> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/03_ti/ti_factorymain_a.cga [:] Invalid BBox : has Invalid BBox node(Object32)
+<10:54:01> Loading Particle Library: x2_sounds
+<10:54:01> [3EF08C47] seamless loading cell object(W24, 6), (L6, 4)
+<10:54:01> [745BAE2F][Warning] failed to stream material xml(game/rock_06.mtl)
+<10:54:01> [3EF08C47] seamless loading cell object(W21, 5), (L3, 3)
+<10:54:01> [000004EE][Warning] Particle effect not found: 'X2_EFFECTS.e_effect.smoke_slow', from ParticleEffect ParticleEffect_2760
+<10:54:01> [3EF08C47] seamless loading cell object(W24, 7), (L6, 5)
+<10:54:01> [3EF08C47] seamless loading cell object(W22, 8), (L4, 6)
+<10:54:01> [3EF08C47] seamless loading cell object(W23, 8), (L5, 6)
+<10:54:01> [3C93550B][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom texture 'objects/env/01_nuia/06_mari/mari_wood04_ddobjects/env/01_nuia/06_mari/mari_wood04_sp.dds' in path '' [File=objects/env/01_nuia/06_mari/mari_wood04_ddobjects/env/01_nuia/06_mari/mari_wood04_sp.dds]
+<10:54:01> [3EF08C47] seamless loading cell object(W24, 5), (L6, 3)
+<10:54:01> [3EF08C47] seamless loading cell object(W22, 4), (L4, 2)
+<10:54:01> [3EF08C47] seamless loading cell object(W23, 4), (L5, 2)
+<10:54:01> [3EF08C47] seamless loading cell object(W21, 8), (L3, 6)
+<10:54:01> [3EF08C47] seamless loading cell object(W20, 6), (L2, 4)
+<10:54:02> [3EF08C47] seamless loading cell object(W20, 7), (L2, 5)
+<10:54:02> [3EF08C47] seamless loading cell object(W24, 8), (L6, 6)
+<10:54:02> [3EF08C47] seamless loading cell object(W21, 4), (L3, 2)
+<10:54:02> [3EF08C47] seamless loading cell object(W20, 5), (L2, 3)
+<10:54:02> [3EF08C47] seamless loading cell object(W24, 4), (L6, 2)
+<10:54:02> [3EF08C47] seamless loading cell object(W20, 8), (L2, 6)
+<10:54:02> [3EF08C47] seamless loading cell object(W22, 3), (L4, 1)
+<10:54:02> [3EF08C47] seamless loading cell object(W20, 4), (L2, 2)
+<10:54:02> [3EF08C47] seamless loading cell object(W23, 3), (L5, 1)
+<10:54:02> [3EF08C47] seamless loading cell object(W19, 6), (L1, 4)
+<10:54:02> [3EF08C47] seamless loading cell object(W21, 3), (L3, 1)
+<10:54:02> [3EF08C47] seamless loading cell object(W19, 7), (L1, 5)
+<10:54:02> [3EF08C47] seamless loading cell object(W19, 5), (L1, 3)
+<10:54:02> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/04_su/su_incinerator_tower_b.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [742 against 1060] :
+<10:54:02> [3EF08C47] seamless loading cell object(W24, 3), (L6, 1)
+<10:54:02> [3EF08C47] seamless loading cell object(W19, 8), (L1, 6)
+<10:54:03> [3EF08C47] seamless loading cell object(W20, 3), (L2, 1)
+<10:54:03> [3EF08C47] seamless loading cell object(W19, 4), (L1, 2)
+<10:54:03> [3EF08C47] seamless loading cell object(W19, 3), (L1, 1)
+<10:54:03> [12409CCC] Load Zone Finished
+<10:54:03> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(6411.5,2342.7,2816.1), aabb center=(142.0,1019.8,-2.3)
+<10:54:03> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/10_fa/fa_trainingfield_flag_a.chr [:] invalid render mesh is found. case 2
+<10:54:03> [82321C2B][Warning] [net 14:54:03.560] [time] remote time estimation restarted; estimate accumulator age was 5.986272
+<10:54:03> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 19)
+<10:54:03> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/abillity_skill_table_m.xml)
+<10:54:03> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.wild.shock_form2', from unknown 
+<10:54:03> [2BFDEC33][Error] realstep 8, not match unit req
+<10:54:03> [A39C1725] Level System - Loading Complete
+<10:54:03> [9BE3F673] total 0 CGF files are precached
+<10:54:03> [27293DED] -----------------------------------------------------
+<10:54:03> [120C18F5] * LOADING: 'e_steppe_belt_1' loading time: 6.42 seconds
+<10:54:03> [27293DED] -----------------------------------------------------
+<10:54:04> [CE0EF930][Warning] failed to stream cgf : game/objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:54:06> [09F46B9D]     cl_fov = 90 []
+<10:54:06> [09F46B9D]     camera_max_dist = 180 []
+<10:54:06> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<10:54:06> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<10:54:06> [000004EE][Warning] [Lua Error] Failed to load script file scriptsbin/x2ui/assignment/form.alb
+<10:54:06> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:54:06> [B5A61D8F] Chat Channel(0) Color is not found.
+<10:54:07> [000004EE][Warning] [Lua Error] ...ts/x2ui/loginstage/character_create/locale/en_us.lua:524: attempt to index a nil value
+<10:54:07> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/x2ui/loginstage/character_create/locale/en_us.alb
+<10:54:07> [73AFCD09][Warning] Cannot load texture ui/map/frame_map_2.dds, file missing [File=ui/map/frame_map_2.dds]
+<10:54:07> [000004EE][Warning] [Lua] invalid style type...  / brown
+<10:54:08> [BB790A81] origin change campos : 4085.27, 5124.842773
+<10:54:08> [00000020]  
+<10:54:08> [00000020]  
+<10:54:08> [A581FA6D] -----------------------------------------------------------------------------
+<10:54:08> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(18,2) -> New(18,3)
+<10:54:08> [A581FA6D] -----------------------------------------------------------------------------
+<10:54:08> [00000020]  
+<10:54:08> [00000020]  
+<10:54:08> [B866A294] seamless unloading cell terrain(W18, 18), (L0, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W19, 18), (L1, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W20, 18), (L2, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W21, 18), (L3, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W22, 18), (L4, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W23, 18), (L5, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W24, 18), (L6, 0)
+<10:54:08> [B866A294] seamless unloading cell terrain(W25, 18), (L7, 0)
+<10:54:08> [9CAE9693] Starting In World Loading
+<10:54:08> [7B1A973B] seamless loading cell terrain(W21, 10), (L3, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W22, 10), (L4, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W20, 10), (L2, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W23, 10), (L5, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W19, 10), (L1, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W24, 10), (L6, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W18, 10), (L0, 7)
+<10:54:08> [7B1A973B] seamless loading cell terrain(W25, 10), (L7, 7)
+<10:54:08> [3EF08C47] seamless loading cell object(W21, 9), (L3, 6)
+<10:54:08> [3EF08C47] seamless loading cell object(W22, 9), (L4, 6)
+<10:54:08> [3EF08C47] seamless loading cell object(W20, 9), (L2, 6)
+<10:54:08> [3EF08C47] seamless loading cell object(W23, 9), (L5, 6)
+<10:54:08> [3EF08C47] seamless loading cell object(W19, 9), (L1, 6)
+<10:54:08> [3EF08C47] seamless loading cell object(W24, 9), (L6, 6)
+<10:54:08> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/ndeco_backpack_fertilizer.mtl)
+<10:54:08> [BF0124EC][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find decal texture 'game/objects/Env/01_nuia/001_housing/housing_house/housing_house_equipment_glow.dds' in path '' [File=game/objects/Env/01_nuia/001_housing/housing_house/housing_house_equipment_glow.dds]
+<10:54:09> [B42C333F] In World Loading Finished
+<10:54:10> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ndeco/collect/ndeco_collect_geyser01.cgf [:] non-uniform scale(1.48, 1.48, 1.00) at node(proxy)
+<10:54:10> [000004EE][Warning] RenderMesh not assigned game/objects/box_nodraw.cgf
+<10:54:11> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 224)
+<10:54:13> [B95EE41B][Error] invalid parent unit id(95967)
+<10:54:13> [CE0EF930][Warning] failed to stream cgf : game/objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:54:20> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ndeco/making/ndeco_powerfulmaking.cga [:] LOD1 of geometry parts01 contains too many polygons comparing to the LOD0 [1592 against 1130] :
+<10:54:20> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 324)
+<10:54:20> [CE0EF930][Warning] failed to stream cgf : default
+<10:54:25> [CE0EF930][Warning] failed to stream cgf : default
+<10:54:26> [B95EE41B][Error] invalid parent unit id(95967)
+<10:54:26> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_3" from file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_3.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_1.caf". Please use another animation alias.
+<10:54:30> [63ABB424][Warning] Facial sequence "all_re_combat_hit_r" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<10:54:30> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_b.xml/quest.ferre_machine1 node=AnimObject_41
+<10:54:31> [CE0EF930][Warning] failed to stream cgf : default
+<10:54:31> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 169)
+<10:54:32> [0E5C1F7F][Warning] Cannot load texture game/objects/characters/ferre/male/hair/fe_m_hair02/fe_m_hair02_blu_df.dds, file missing [File=game/objects/characters/ferre/male/hair/fe_m_hair02/fe_m_hair02_blu_df.dds]
+<10:54:36> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth250.mtl)
+<10:54:36> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth250.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt900.chr)
+<10:54:38> [04FA8364][Warning] Cannot load texture game/objects/characters/nuian/male/hair/hair_texture/, file missing [File=game/objects/characters/nuian/male/hair/hair_texture/]
+<10:54:40> [CE0EF930][Warning] failed to stream cgf : default
+<10:54:42> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/gv/obj/ha_m_gv_metal224.mtl)
+<10:54:42> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/gv/obj/ha_m_gv_metal224.mtl (chr: game/objects/characters/hariharan/male/parts/gv/obj/ha_m_3gv101.chr)
+<10:54:42> [000004EE][Warning] Particle effect not found: 'game/x2_effects.p_effect.st1000c', from unknown 
+<10:54:42> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 280)
+<10:54:47> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_d.xml/tool.lever_right node=AnimObject_1
+<10:54:47> [CE0EF930][Warning] failed to stream cgf : default
+<10:54:47> [7F01D4DF][Warning] Cannot load texture game/textures/p_effects/spider_net_04_ddn.dds, file missing [File=game/textures/p_effects/spider_net_04_ddn.dds]
+<10:54:47> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 42222a7c0462d0a5
+<10:54:47> [62232BEA][Warning] deferred xml stream error - game/animations/animals/chick/lmg_files/normal_run.lmg : f0000003
+<10:54:48> [EFC67A6D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find detail texture
+'game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_tree07_ddn.dds' in path '' [File=game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_tree07_ddn.dds]
+<10:54:48> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/ar/obj/Material #66.mtl)
+<10:54:48> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/parts/ar/obj/nu_f_ar_cloth495.mtl (chr: game/objects/characters/nuian/female/parts/ar/obj/nu_f_1ar906_1arm012_1sh010_n.chr)
+<10:54:54> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 510)
+<10:54:54> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_vocation.vaulting_smoke_launch', from unknown 
+<10:54:54> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl)
+<10:54:54> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl (chr: game/objects/characters/hariharan/male/parts/hm/obj/ha_m_1hm104.chr)
+<10:54:57> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/x2_effect_o.xml)
+<10:54:58> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction_c.xml/furniture.aquarium_a_fish node=AnimObject_38
+<10:54:58> [4554E71F][Warning] Cannot load texture users/xlgames/desktop/11 copy.dds, file missing [File=users/xlgames/desktop/11 copy.dds]
+<10:55:00> [FF6D52B4][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/animals/cat_baby_cat/cat_baby_siamese_pet_df.dds' in path '' [File=game/objects/characters/animals/cat_baby_cat/cat_baby_siamese_pet_df.dds]
+<10:55:00> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_house/housing_hari_2t.mtl)
+<10:55:00> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2791.5,5938.4,1975.4), aabb center=(3752.6,4147.3,253.2)
+<10:55:01> [CA175C82][Warning] non-stream IO. system(CGF), filePath(Objects/Env/01_nuia/001_housing/housing_house/housing_tree_spider.cgf)
+<10:55:02> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_d.cgf [:] LOD1 of geometry hs_f_safe_d contains too many polygons comparing to the LOD0 [1606 against 2318] :
+<10:55:03> [CE0EF930][Warning] failed to stream cgf : default
+<10:55:05> [C9209D07][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_house/hs_addon_a_sp.dds, file missing [File=game/objects/env/01_nuia/001_housing/housing_house/hs_addon_a_sp.dds]
+<10:55:05> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/ar/obj/ha_f_ar_leather498.mtl)
+<10:55:05> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/ar/obj/ha_f_ar_leather498.mtl (chr: game/objects/characters/hariharan/female/parts/ar/obj/ha_f_1ar904_1arm006.chr)
+<10:55:06> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_house/housing_addon_roof_a.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2104 against 3035] :
+<10:55:08> [F9376E0D][Warning] [flow] FG-0x93AEAD4C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:55:08> [A8F1529E][Warning] [flow] Pending nodes:
+<10:55:11> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2880.8,5992.6,1956.8), aabb center=(3659.2,4174.2,247.4)
+<10:55:14> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:55:14> [CE0EF930][Warning] failed to stream cgf : default
+<10:55:17> [04FA8364][Warning] Cannot load texture game/objects/characters/nuian/male/hair/hair_texture/, file missing [File=game/objects/characters/nuian/male/hair/hair_texture/]
+<10:55:19> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_e.cgf [:] non-uniform scale(1.00, 1.03, 1.00) at node(hs_f_safe_e)
+<10:55:19> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/housing/mari_city_noryette_mansion.mtl)
+<10:55:22> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl (chr: game/objects/characters/hariharan/male/parts/hm/obj/ha_m_1hm107.chr)
+<10:55:25> [CE0EF930][Warning] failed to stream cgf : default
+<10:55:25> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/carriage.xml/carriage.carriageb node=AnimObject_55
+<10:55:26> [745BAE2F][Warning] failed to stream material xml(game/materials/aa_terrain/decals/quest_golddust.mtl)
+<10:55:26> [E46B221E][Warning] Cannot load texture game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds, file missing [File=game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds]
+<10:55:27> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2999.2,6064.3,1941.8), aabb center=(3535.6,4213.1,247.9)
+<10:55:27> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_leather205.mtl (chr: game/objects/characters/hariharan/female/parts/pt/obj/ha_f_1pt101.chr)
+<10:55:30> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4ca5ff5e052ee9c3
+<10:55:33> [383B4859][Warning] Cannot load texture game/objects/characters/animals/cat_baby_cat/cat_baby_threecolors_pet_df.dds, file missing [File=game/objects/characters/animals/cat_baby_cat/cat_baby_threecolors_pet_df.dds]
+<10:55:33> [5E1D008D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/animals/cat_baby_cat/cat_baby_threecolors_pet_df.dds' in path '' [File=game/objects/characters/animals/cat_baby_cat/cat_baby_threecolors_pet_df.dds]
+<10:55:34> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/ar/obj/ha_m_ar_cloth274.mtl)
+<10:55:34> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/ar/obj/ha_m_ar_cloth274.mtl (chr: game/objects/characters/hariharan/male/parts/ar/obj/ha_m_1ar904_1arm018_1bt017.chr)
+<10:55:35> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3066.0,6105.8,1927.0), aabb center=(3465.1,4231.8,243.9)
+<10:55:36> [CE0EF930][Warning] failed to stream cgf : default
+<10:55:38> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction_c.xml/misc.artifact_f node=AnimObject_61
+<10:55:40> [CA175C82][Warning] non-stream IO. system(CGF), filePath(Objects/Env/01_nuia/001_housing/housing_house/housing_tree_spider.cgf)
+<10:55:40> [F9376E0D][Warning] [flow] FG-0x86AF1F1C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:55:40> [A8F1529E][Warning] [flow] Pending nodes:
+<10:55:41> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_house/gw_elfremain_b.mtl)
+<10:55:42> [CE0EF930][Warning] failed to stream cgf : default
+<10:55:42> [E9F2E683][Warning] Cannot load texture textures/terrain/bump_detail/detail_bump_wood_007_ddn.dds, file missing [File=textures/terrain/bump_detail/detail_bump_wood_007_ddn.dds]
+<10:55:42> [4655D2D5][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find detail texture
+'textures/terrain/bump_detail/detail_bump_wood_007_ddn.dds' in path '' [File=textures/terrain/bump_detail/detail_bump_wood_007_ddn.dds]
+<10:55:43> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd
+<10:55:46> [62232BEA][Warning] deferred xml stream error - game/animations/monster/polarbear/lmg_files/normal_run.lmg : f0000003
+<10:55:48> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3158.2,6213.9,1906.1), aabb center=(3365.9,4298.8,242.2)
+<10:55:54> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction_c.xml/furniture.aquarium_c_fish node=AnimObject_38
+<10:55:55> [73EB452A][Warning] Cannot load texture game/objects/env/01_nuia/06_mari/mari_city_templein_relic_a_ddn.dds, file missing [File=game/objects/env/01_nuia/06_mari/mari_city_templein_relic_a_ddn.dds]
+<10:56:04> [F9376E0D][Warning] [flow] FG-0x8DDB23BC-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:56:04> [A8F1529E][Warning] [flow] Pending nodes:
+<10:56:11> [F9376E0D][Warning] [flow] FG-0x86C216B4-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:56:11> [A8F1529E][Warning] [flow] Pending nodes:
+<10:56:11> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 48e58100dfffb673
+<10:56:12> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.fight.slash', from unknown 
+<10:56:22> [F9376E0D][Warning] [flow] FG-0x86AF5864-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:56:22> [A8F1529E][Warning] [flow] Pending nodes:
+<10:56:25> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/bo/obj/ha_m_bo_cloth140.mtl)
+<10:56:25> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/bo/obj/ha_m_bo_cloth140.mtl (chr: game/objects/characters/hariharan/male/parts/bo/obj/ha_m_1bo201.chr)
+<10:56:25> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_3" from file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_3.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_1.caf". Please use another animation alias.
+<10:56:26> [04FA8364][Warning] Cannot load texture game/objects/characters/nuian/male/hair/hair_texture/, file missing [File=game/objects/characters/nuian/male/hair/hair_texture/]
+<10:56:28> [CE0EF930][Warning] failed to stream cgf : default
+<10:56:28> [BB790A81] origin change campos : 3071.83, 4377.216797
+<10:56:28> [00000020]  
+<10:56:28> [00000020]  
+<10:56:28> [A581FA6D] -----------------------------------------------------------------------------
+<10:56:28> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(18,3) -> New(17,3)
+<10:56:28> [A581FA6D] -----------------------------------------------------------------------------
+<10:56:28> [00000020]  
+<10:56:28> [00000020]  
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 18), (L7, 0)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 19), (L7, 1)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 20), (L7, 2)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 21), (L7, 3)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 22), (L7, 4)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 23), (L7, 5)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 24), (L7, 6)
+<10:56:28> [B866A294] seamless unloading cell terrain(W25, 25), (L7, 7)
+<10:56:28> [7B1A973B] seamless loading cell terrain(W17, 7), (L0, 4)
+<10:56:28> [3EF08C47] seamless loading cell object(W18, 7), (L1, 4)
+<10:56:28> [1054BE80][Warning] WaterVolume Origin Change error : Err(-1024.0, 0.0), CurrPos(20028.3, 5730.4), Origin Frame(1, 2)
+<10:56:28> [7B1A973B] seamless loading cell terrain(W17, 6), (L0, 3)
+<10:56:28> [3EF08C47] seamless loading cell object(W18, 6), (L1, 3)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 8), (L0, 5)
+<10:56:29> [3EF08C47] seamless loading cell object(W18, 8), (L1, 5)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 5), (L0, 2)
+<10:56:29> [3EF08C47] seamless loading cell object(W18, 5), (L1, 2)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 9), (L0, 6)
+<10:56:29> [3EF08C47] seamless loading cell object(W18, 9), (L1, 6)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 4), (L0, 1)
+<10:56:29> [3EF08C47] seamless loading cell object(W18, 4), (L1, 1)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 10), (L0, 7)
+<10:56:29> [7B1A973B] seamless loading cell terrain(W17, 3), (L0, 0)
+<10:56:29> [DE0DD398][Warning] test ik bone is not right(Bip01 L Clavicle)
+<10:56:30> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:56:30> [745BAE2F][Warning] failed to stream material xml(game/objects/env/06_unit/01_ship/w_middleship/galleon_01.mtl)
+<10:56:31> [62232BEA][Warning] deferred xml stream error - game/animations/animals/pangolin_baby/lmg_files/normal_run.lmg : f0000003
+<10:56:31> [48F1D8BC][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/animals/pangolin_baby/pangolin_red_baby/pangolin_red_baby_sss.dds' in path '' [File=game/objects/characters/animals/pangolin_baby/pangolin_red_baby/pangolin_red_baby_sss.dds]
+<10:56:31> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/01_ma/ma_top05.cgf [:] non-uniform scale(0.70, 1.00, 0.70) at node(Box11)
+<10:56:32> [637AF710][Warning] missing chr material : game/objects/env/06_unit/01_ship/w_middleship/galleon_01.mtl (chr: game/objects/env/06_unit/01_ship/w_middleship/w_middleship_sail_b.chr)
+<10:56:39> [CE0EF930][Warning] failed to stream cgf : default
+<10:56:39> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/bo/obj/nu_f_bo_cloth142.mtl)
+<10:56:39> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/parts/ar/obj/nu_f_ar_cloth495.mtl (chr: game/objects/characters/nuian/female/parts/ar/obj/nu_f_1ar906_1arm012_1sh010_n.chr)
+<10:56:39> [F9376E0D][Warning] [flow] FG-0x86AF60EC-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:56:39> [A8F1529E][Warning] [flow] Pending nodes:
+<10:56:40> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_d.xml/tool.lever_right node=AnimObject_1
+<10:56:45> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_cloth213.mtl)
+<10:56:45> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_cloth213.mtl (chr: game/objects/characters/hariharan/female/parts/gv/obj/ha_f_1gv301.chr)
+<10:56:50> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_leather205.mtl)
+<10:56:50> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_leather205.mtl (chr: game/objects/characters/hariharan/female/parts/pt/obj/ha_f_1pt101.chr)
+<10:56:56> [7CE2B2CC] DrawRayOnGrid, dir.x(-3846.9), dir.y(-4339.9)
+<10:56:56> [7CE2B2CC] DrawRayOnGrid, dir.x(-3846.9), dir.y(-4339.9)
+<10:57:11> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_cloth034.mtl)
+<10:57:11> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_cloth034.mtl (chr: game/objects/characters/hariharan/female/parts/hm/obj/ha_f_1hm105.chr)
+<10:57:43> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_adament.def_attack_launch_lv1', from unknown 
+<10:57:51> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<10:57:51> [C9209D07][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_house/hs_addon_a_sp.dds, file missing [File=game/objects/env/01_nuia/001_housing/housing_house/hs_addon_a_sp.dds]
+<10:57:51> [637AF710][Warning] missing chr material : game/objects/characters/nuian/male/parts/hm/obj/nu_m_hm_cloth001.mtl (chr: game/objects/characters/nuian/male/parts/hm/obj/nu_m_4hm138.chr)
+<10:57:52> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_house/housing_addon_roof_a.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2104 against 3035] :
+<10:57:53> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_e.cgf [:] non-uniform scale(1.00, 1.03, 1.00) at node($lod1 hs_f_safe_e)
+<10:57:54> [5132FEDE][Warning] invalid attached position(29.14, 5.15, -4.59)
+<10:57:54> [755A3546][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds' in path '' [File=game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds]
+<10:57:56> [E46B221E][Warning] Cannot load texture game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds, file missing [File=game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds]
+<10:57:56> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/elf/female/parts/pt/obj/el_f_pt_leather160.mtl)
+<10:57:57> [637AF710][Warning] missing chr material : game/objects/characters/elf/female/parts/gv/obj/el_f_gv_cloth214.mtl (chr: game/objects/characters/elf/female/parts/gv/obj/el_f_1gf001_1gv201.chr)
+<10:57:57> [62232BEA][Warning] deferred xml stream error - game/animations/animals/kid/lmg_files/normal_run.lmg : f0000003
+<10:58:04> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction_c.xml/furniture.aquarium_b_fish node=AnimObject_38
+<10:58:04> [65FCEDA3][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_furniture/rava_bed_sp.dds, file missing [File=game/objects/env/01_nuia/001_housing/housing_furniture/rava_bed_sp.dds]
+<10:58:07> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<10:58:09> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:58:11> [5132FEDE][Warning] invalid attached position(20.95, 20.99, -0.69)
+<10:58:11> [CA175C82][Warning] non-stream IO. system(CGF), filePath(Objects/Env/01_nuia/001_housing/housing_house/housing_tree_spider.cgf)
+<10:58:11> [BF8BE32F][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_house/housing_tree_base_sp.dds, file missing [File=game/objects/env/01_nuia/001_housing/housing_house/housing_tree_base_sp.dds]
+<10:58:12> [755A3546][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds' in path '' [File=game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds]
+<10:58:12> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_house/gw_elfremain_b.mtl)
+<10:58:15> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:58:16> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/furniture.baby_cat_b node=AnimObject_144
+<10:58:17> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3245.9,6904.7,1688.4), aabb center=(3201.4,4623.3,196.2)
+<10:58:19> [4ABF8F2E][Warning] Cannot load texture game/objects/env/02_harihara/001_hdeco/quest/hdeco_quest_book_a_ddn.dds, file missing [File=game/objects/env/02_harihara/001_hdeco/quest/hdeco_quest_book_a_ddn.dds]
+<10:58:19> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl)
+<10:58:19> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth250.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt900.chr)
+<10:58:20> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:58:21> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_d.cgf [:] LOD1 of geometry hs_f_safe_d contains too many polygons comparing to the LOD0 [1606 against 2318] :
+<10:58:21> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ndeco/ndeco_dboss.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2373 against 3082] :
+<10:58:22> Loading Particle Library: ljs_particle_fx
+<10:58:22> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/toy.slotmachine_ca node=AnimObject_64
+<10:58:22> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 452)
+<10:58:23> [910643CC][Warning] cutter mesh is not correctly triangulated. source=[game/objects/characters/animals/fish/fish_tropical_greenhouse/fish_tropical_greenhouse_small.chr, Indices:3]
+<10:58:23> [EFA8E813][Warning] cutter mesh is zero indices
+<10:58:25> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_house/housing_witch_2t/housing_witch_vine.mtl)
+<10:58:26> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/ar/obj/ha_f_ar_cloth048.mtl (chr: game/objects/characters/hariharan/female/parts/ar/obj/ha_f_1ar110_1arm010.chr)
+<10:58:27> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.fight.restrict_clear_launch', from unknown 
+<10:58:27> [00DCF04C][Warning] Cannot load texture game/objects/characters/ferre/female/test/fe_f_nude_fur_df.dds, file missing [File=game/objects/characters/ferre/female/test/fe_f_nude_fur_df.dds]
+<10:58:28> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4b2fb81ffe6b0dc9
+<10:58:28> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant2_yellow_l.mtl)
+<10:58:31> [F9376E0D][Warning] [flow] FG-0xA476BCBC-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:58:31> [A8F1529E][Warning] [flow] Pending nodes:
+<10:58:33> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<10:58:33> [CCFBC94A][Warning] Cannot load texture game/objects/characters/animals/cat_baby_cat/cat_baby_black_pet_df.dds, file missing [File=game/objects/characters/animals/cat_baby_cat/cat_baby_black_pet_df.dds]
+<10:58:33> [8BC8B87E][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/animals/cat_baby_cat/cat_baby_black_pet_df.dds' in path '' [File=game/objects/characters/animals/cat_baby_cat/cat_baby_black_pet_df.dds]
+<10:58:33> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3365.4,6992.6,1655.1), aabb center=(3070.9,4667.2,183.5)
+<10:58:34> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/furniture.kraken_prop_a node=AnimObject_144
+<10:58:36> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:58:37> [BB790A81] origin change campos : 3071.79, 4666.026367
+<10:58:37> [00000020]  
+<10:58:37> [00000020]  
+<10:58:37> [A581FA6D] -----------------------------------------------------------------------------
+<10:58:37> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(17,3) -> New(16,4)
+<10:58:37> [A581FA6D] -----------------------------------------------------------------------------
+<10:58:37> [00000020]  
+<10:58:37> [00000020]  
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 17), (L7, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 17), (L7, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 18), (L7, 1)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 18), (L7, 1)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 19), (L7, 2)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 19), (L7, 2)
+<10:58:37> [4B1E8B22] unload cell object count : 1
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 20), (L7, 3)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 20), (L7, 3)
+<10:58:37> [4B1E8B22] unload cell object count : 619
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 21), (L7, 4)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 21), (L7, 4)
+<10:58:37> [4B1E8B22] unload cell object count : 1029
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 22), (L7, 5)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 22), (L7, 5)
+<10:58:37> [4B1E8B22] unload cell object count : 4581
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 23), (L7, 6)
+<10:58:37> [7AB931CE] seamless unloading cell object(W24, 23), (L7, 6)
+<10:58:37> [4B1E8B22] unload cell object count : 6106
+<10:58:37> [B866A294] seamless unloading cell terrain(W24, 24), (L7, 7)
+<10:58:37> [B866A294] seamless unloading cell terrain(W23, 17), (L6, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W23, 17), (L6, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W22, 17), (L5, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W22, 17), (L5, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W21, 17), (L4, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W21, 17), (L4, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W20, 17), (L3, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W20, 17), (L3, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W19, 17), (L2, 0)
+<10:58:37> [7AB931CE] seamless unloading cell object(W19, 17), (L2, 0)
+<10:58:37> [4B1E8B22] unload cell object count : 0
+<10:58:37> [B866A294] seamless unloading cell terrain(W18, 17), (L1, 0)
+<10:58:37> [B866A294] seamless unloading cell terrain(W17, 17), (L0, 0)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 7), (L0, 3)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 7), (L1, 3)
+<10:58:38> [188BF914][Warning] [EntityLoader] invalid entity pos(1172.249, 2147.883, 0.000) name(AAC_Mahadevi_Ext_1)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 8), (L0, 4)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 8), (L1, 4)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 6), (L0, 2)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 6), (L1, 2)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W19, 11), (L3, 7)
+<10:58:38> [3EF08C47] seamless loading cell object(W19, 10), (L3, 6)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W20, 11), (L4, 7)
+<10:58:38> [3EF08C47] seamless loading cell object(W20, 10), (L4, 6)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 9), (L0, 5)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 9), (L1, 5)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 5), (L0, 1)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 5), (L1, 1)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W18, 11), (L2, 7)
+<10:58:38> [3EF08C47] seamless loading cell object(W18, 10), (L2, 6)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W21, 11), (L5, 7)
+<10:58:38> [3EF08C47] seamless loading cell object(W21, 10), (L5, 6)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 10), (L0, 6)
+<10:58:38> [3EF08C47] seamless loading cell object(W17, 10), (L1, 6)
+<10:58:38> [745BAE2F][Warning] failed to stream material xml(Default.mtl)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 4), (L0, 0)
+<10:58:38> [3EF08C47] seamless loading cell object(W22, 10), (L6, 6)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W17, 11), (L1, 7)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W22, 11), (L6, 7)
+<10:58:38> [9684057F][Warning] Cannot load texture game/objects/env/01_nuia/001_ndeco/old/rope_a_ddn.dds, file missing [File=game/objects/env/01_nuia/001_ndeco/old/rope_a_ddn.dds]
+<10:58:38> [7B1A973B] seamless loading cell terrain(W16, 11), (L0, 7)
+<10:58:38> [7B1A973B] seamless loading cell terrain(W23, 11), (L7, 7)
+<10:58:40> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee03 node=AnimObject_2
+<10:58:42> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_love.recovery_seed_form', from unknown 
+<10:58:42> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/x2_effects_k.xml)
+<10:58:43> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4aeefc04e8c803c0
+<10:58:43> [F9376E0D][Warning] [flow] FG-0x86C2130C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:58:43> [A8F1529E][Warning] [flow] Pending nodes:
+<10:58:44> [4ABF8F2E][Warning] Cannot load texture game/objects/env/02_harihara/001_hdeco/quest/hdeco_quest_book_a_ddn.dds, file missing [File=game/objects/env/02_harihara/001_hdeco/quest/hdeco_quest_book_a_ddn.dds]
+<10:58:46> [62232BEA][Warning] deferred xml stream error - game/animations/monster/polarbear/lmg_files/normal_run.lmg : f0000003
+<10:58:46> [CE0EF930][Warning] failed to stream cgf : default
+<10:58:46> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/furniture.baby_cat_b node=AnimObject_144
+<10:58:47> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_2" from file "animations/animals/welsh_corgi_baby/fist/fist_ba_relaxed_idle_rand.caf" into the animation container. Such animation alias already exists and uses file "animations/animals/welsh_corgi_baby/fist/fist_ba_relaxed_idle_rand_2.caf". Please use another animation alias.
+<10:58:47> [000004EE][Warning] [CGF Error] game/objects/item/interaction/dragon_statue/dragon_tree_statue.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1622 against 2418] :
+<10:58:47> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant3_silver_m.mtl)
+<10:58:49> Loading Particle Library: X2_EFFECT_SYH
+<10:58:50> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 368)
+<10:58:50> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/jjc_effect/01___Default.mtl)
+<10:58:54> [5132FEDE][Warning] invalid attached position(-20.98, 20.99, -0.37)
+<10:58:54> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction_c.xml/furniture.aquarium_b_fish node=AnimObject_38
+<10:58:54> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2467.7,6091.8,1625.0), aabb center=(3955.2,3714.7,177.5)
+<10:58:55> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ncom/ncom_xmas_musicbox.cga [:] Duplicate LOD helper $lod1 ncom_xmas_musicbox_top
+<10:58:56> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_farm/ncom_pumpkin_streetlamp.mtl)
+<10:58:59> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 224)
+<10:59:00> Loading Particle Library: pino_effect
+<10:59:01> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd
+<10:59:01> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/furniture.kraken_prop_a node=AnimObject_144
+<10:59:01> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:05> [5132FEDE][Warning] invalid attached position(-20.93, -20.87, -4.13)
+<10:59:05> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<10:59:06> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:07> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:59:10> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<10:59:11> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:13> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2591.7,6139.5,1603.9), aabb center=(3818.5,3715.4,178.2)
+<10:59:14> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:59:16> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:18> [F9376E0D][Warning] [flow] FG-0xA6773C44-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:18> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:19> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:59:22> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:24> [F9376E0D][Warning] [flow] FG-0x86AF5FB4-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:24> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:27> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:30> [F9376E0D][Warning] [flow] FG-0x8DDB3C1C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:30> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:30> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:59:33> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:37> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee03 node=AnimObject_2
+<10:59:38> [F9376E0D][Warning] [flow] FG-0xA47690DC-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:38> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:38> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:43> [F9376E0D][Warning] [flow] FG-0xA4768854-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:43> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:44> [CFFE1C46][Error] Error streaming texture: Error 'Offset out of range', Texture: game/objects/characters/animals/cat_baby_pet/cat_baby_pet_df.dds
+<10:59:48> [F9376E0D][Warning] [flow] FG-0x8DDB3AE4-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:48> [A8F1529E][Warning] [flow] Pending nodes:
+<10:59:49> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:59:54> [7F89A202][Warning] AI: Warning: AIPoint is not inside Navigation Modifier. pos(3134.6, 3948.6, 253.1)
+<10:59:56> [F9376E0D][Warning] [flow] FG-0xA6732E1C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:59:56> [A8F1529E][Warning] [flow] Pending nodes:
+<11:00:08> [F9376E0D][Warning] [flow] FG-0xA6778CB4-Entity 'AnimObject_48' was destroyed with pending updates/activations. Report follows...
+<11:00:08> [A8F1529E][Warning] [flow] Pending nodes:
+<11:00:14> [7F89A202][Warning] AI: Warning: AIPoint is not inside Navigation Modifier. pos(3134.6, 3948.6, 253.1)
+<11:00:26> [000004EE][Warning] Particle effect not found: 'game/x2_effect_o.mon_effects.mon_groundshake_launch', from unknown 
+<11:00:49> [7F89A202][Warning] AI: Warning: AIPoint is not inside Navigation Modifier. pos(3074.2, 4072.0, 221.3)
+<11:01:27> [CA175C82][Warning] non-stream IO. system(CGF), filePath(Objects/Env/01_nuia/001_housing/housing_house/housing_tree_spider.cgf)
+<11:01:27> [BF8BE32F][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_house/housing_tree_base_sp.dds, file missing [File=game/objects/env/01_nuia/001_housing/housing_house/housing_tree_base_sp.dds]
+<11:01:27> [755A3546][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds' in path '' [File=game/objects/env/01_nuia/001_housing/housing_house/nuia_housing_treemossy03_ddn.dds]
+<11:01:27> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_housing/housing_house/gw_elfremain_b.mtl)
+<11:01:28> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3218.4,6801.4,1486.1), aabb center=(3089.9,4047.6,212.8)
+<11:01:30> [5132FEDE][Warning] invalid attached position(17.04, -24.13, -0.33)
+<11:01:30> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/furniture.kraken_prop_am node=AnimObject_144
+<11:01:30> [000004EE][Warning] [CGF Error] game/objects/item/interaction/dragon_statue/dragon_tree_statue.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1622 against 2418] :
+<11:01:33> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-3227.9,6856.5,1477.9), aabb center=(3074.1,4084.6,212.8)
+<11:01:34> [4554E71F][Warning] Cannot load texture users/xlgames/desktop/11 copy.dds, file missing [File=users/xlgames/desktop/11 copy.dds]
+<11:01:34> [FF6D52B4][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/animals/cat_baby_cat/cat_baby_siamese_pet_df.dds' in path '' [File=game/objects/characters/animals/cat_baby_cat/cat_baby_siamese_pet_df.dds]
+<11:01:34> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_d.cgf [:] LOD1 of geometry hs_f_safe_d contains too many polygons comparing to the LOD0 [1606 against 2318] :
+<11:01:34> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_safe_e.cgf [:] non-uniform scale(1.00, 1.03, 1.00) at node($lod1 hs_f_safe_e)
+<11:01:36> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<11:01:36> [637AF710][Warning] missing chr material : game/objects/characters/nuian/male/parts/hm/obj/nu_m_hm_cloth001.mtl (chr: game/objects/characters/nuian/male/parts/hm/obj/nu_m_4hm138.chr)
+<11:01:36> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_house/housing_addon_roof_a.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2104 against 3035] :
+<11:01:38> [BB790A81] origin change campos : 3071.92, 4088.396240
+<11:01:38> [00000020]  
+<11:01:38> [00000020]  
+<11:01:38> [A581FA6D] -----------------------------------------------------------------------------
+<11:01:38> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(16,4) -> New(15,4)
+<11:01:38> [A581FA6D] -----------------------------------------------------------------------------
+<11:01:38> [00000020]  
+<11:01:38> [00000020]  
+<11:01:38> [B866A294] seamless unloading cell terrain(W23, 16), (L7, 0)
+<11:01:38> [7AB931CE] seamless unloading cell object(W23, 16), (L7, 0)
+<11:01:38> [4B1E8B22] unload cell object count : 0
+<11:01:38> [B866A294] seamless unloading cell terrain(W23, 17), (L7, 1)
+<11:01:38> [7AB931CE] seamless unloading cell object(W23, 17), (L7, 1)
+<11:01:38> [4B1E8B22] unload cell object count : 1
+<11:01:38> [B866A294] seamless unloading cell terrain(W23, 18), (L7, 2)
+<11:01:38> [7AB931CE] seamless unloading cell object(W23, 18), (L7, 2)
+<11:01:38> [4B1E8B22] unload cell object count : 994
+<11:01:38> [B866A294] seamless unloading cell terrain(W23, 19), (L7, 3)
+<11:01:38> [7AB931CE] seamless unloading cell object(W23, 19), (L7, 3)
+<11:01:38> [4B1E8B22] unload cell object count : 6412
+<11:01:39> [B866A294] seamless unloading cell terrain(W23, 20), (L7, 4)
+<11:01:39> [7AB931CE] seamless unloading cell object(W23, 20), (L7, 4)
+<11:01:39> [4B1E8B22] unload cell object count : 20553
+<11:01:39> [B866A294] seamless unloading cell terrain(W23, 21), (L7, 5)
+<11:01:39> [7AB931CE] seamless unloading cell object(W23, 21), (L7, 5)
+<11:01:39> [4B1E8B22] unload cell object count : 17555
+<11:01:39> [B866A294] seamless unloading cell terrain(W23, 22), (L7, 6)
+<11:01:39> [B866A294] seamless unloading cell terrain(W23, 23), (L7, 7)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 7), (L0, 3)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 7), (L1, 3)
+<11:01:39> [1054BE80][Warning] WaterVolume Origin Change error : Err(-1024.0, 0.0), CurrPos(19738.2, 8968.7), Origin Frame(3, 4)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 8), (L0, 4)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 8), (L1, 4)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 6), (L0, 2)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 6), (L1, 2)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 9), (L0, 5)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 9), (L1, 5)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 5), (L0, 1)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 5), (L1, 1)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 10), (L0, 6)
+<11:01:39> [3EF08C47] seamless loading cell object(W16, 10), (L1, 6)
+<11:01:39> [7B1A973B] seamless loading cell terrain(W15, 4), (L0, 0)
+<11:01:40> [7B1A973B] seamless loading cell terrain(W15, 11), (L0, 7)
+<11:01:42> [5132FEDE][Warning] invalid attached position(-20.98, -20.95, -0.20)
+<11:01:42> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(-2220.9,6937.1,1470.0), aabb center=(4073.3,4143.0,215.0)
+<11:01:42> [745BAE2F][Warning] failed to stream material xml(game/$picking.mtl)
+<11:01:44> [CE0EF930][Warning] failed to stream cgf : default
+<11:01:46> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<11:01:46> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth250.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt900.chr)
+<11:01:46> [E126B923][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn, file missing [File=game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn]
+<11:01:47> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd

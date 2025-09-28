@@ -1,0 +1,2428 @@
+[801989E0] BackupNameAttachment=" Build(0) Date(27 September 2025) Time(10 33 45)"  -- used by backup system
+[00000020]  
+[38F38F32] Log Started at #c
+[0232BD25] Running 32 bit version
+[7AB6F5FE] Executable: C:\Games\AAClassic\bin32\archeage.exe
+[E5C771AC] FileVersion: 3.5.0.0
+[F799D55F] ProductVersion: 3.5.3.0
+[1F1D6B13] Using Microsoft (tm) C++ Standard Library implementation
+[00000020]  
+[C7D96C80] Revision: 350000
+[00000020]  
+[64533E3E] this is the first client
+<10:33:51> [B9197FD5][Error] ConsoleVariableGroup[option_effect] key[e_particles_lod_onoff] has no default
+<10:33:51> [76666E6D] 
+--- CPU detection ---
+<10:33:51> [F4D992D8] CPU: AMD AMD Ryzen 7 7800X3D 8-Core Processor           
+<10:33:51> [3F649B02] Family: 15, Model: 1, Stepping: 2
+<10:33:51> [83D12E0B] FPU: On-Chip
+<10:33:51> [50919DA0] CPU Speed (estimated): 4192.064280 MHz
+<10:33:51> [C73FD83A] MMX: not present
+<10:33:51> [89D1077A] SSE: present
+<10:33:51> [64E2B6F1] 3DNow!: present
+<10:33:51> [27B7AC6E] Serial number not present or disabled
+<10:33:51> [1D2D8E5B] Number of logical processors: 16
+<10:33:51> [FA658084] Number of available logical processors: 16
+<10:33:51> [A1F061C2] Invariant Time Stamp Counter : yes
+<10:33:51> [FA0251ED] ---------------------
+
+<10:33:51> [03E7D838] Device Info
+<10:33:51> [9F603516] Device Info - 1
+<10:33:51> [9F603517] Device Info - 2
+<10:33:51> [9F603518] Device Info - 3
+<10:33:51> [9F603519] Device Info - 4
+<10:33:51> [9F60351A] Device Info - 5
+<10:33:51> [9F60351B] Device Info - 6
+<10:33:51> [9F60351C] Device Info - 7
+<10:33:51> [E98ECC28] Video Memory Info
+<10:33:51> [D5FBE664] Video Memory - 1
+<10:33:51> [D5FBE665] Video Memory - 2
+<10:33:51> [D5FBE666] Video Memory - 3
+<10:33:51> [D5FBE667] Video Memory - 4
+<10:33:51> [D5FBE668] Video Memory - 5
+<10:33:51> [D5FBE669] Video Memory - 6
+<10:33:51> [D5FBE66A] Video Memory - 7
+<10:33:51> [D5FBE66B] Video Memory - 8
+<10:33:51> [3A4D54A2][Warning] config/gpu/amd.txt line 55 contains a multiple defined GPU rating!
+<10:33:51> [D20872C0] InitThreadAffinities
+<10:33:51> [2F28A434] UpdateMainThreadAffinity
+<10:33:51> [16962512] Windows 8 64 bit (build 6.2.9200)
+<10:33:51> [38DFF081] System language: English
+<10:33:51> [861A0178] Windows Directory: "C:\windows"
+<10:33:51> [341B54F1] Prerequisites...
+<10:33:51> [5D1B3C9C] * Installation of KB940105 hotfix required: no! (either not needed or already installed)
+<10:33:51> [6933F219] Local time is 10:33:51 09/27/25, system running for 7121 minutes
+<10:33:51> [86986040] 63426MB physical memory installed, 22240MB available, 4095MB virtual memory installed, 64 percent of memory in use
+<10:33:51> [31259232] PageFile usage: 
+<10:33:51> [453F0D1B] Current display mode is 2560x1440x32
+<10:33:51> [8A64FCCC] IBM enhanced (101/102-key) keyboard and 3+ button mouse installed
+<10:33:51> [CE30556B] ----- GPU Detection -----------------
+<10:33:51> [03E7D838] Device Info
+<10:33:51> [9F603516] Device Info - 1
+<10:33:51> [9F603517] Device Info - 2
+<10:33:51> [9F603518] Device Info - 3
+<10:33:51> [9F603519] Device Info - 4
+<10:33:51> [9F60351A] Device Info - 5
+<10:33:51> [9F60351B] Device Info - 6
+<10:33:51> [9F60351C] Device Info - 7
+<10:33:51> [E98ECC28] Video Memory Info
+<10:33:51> [D5FBE664] Video Memory - 1
+<10:33:51> [D5FBE665] Video Memory - 2
+<10:33:51> [D5FBE666] Video Memory - 3
+<10:33:51> [D5FBE667] Video Memory - 4
+<10:33:51> [D5FBE668] Video Memory - 5
+<10:33:51> [D5FBE669] Video Memory - 6
+<10:33:51> [D5FBE66A] Video Memory - 7
+<10:33:51> [D5FBE66B] Video Memory - 8
+<10:33:51> [99EA404A]  AMD Radeon RX 7800 XT (RADV NAVI32) (vendor = 0x1002, device = 0x747e, subSys = 0x00000000)
+<10:33:51> [77718B6A] -- Video memory: 4081 MB
+<10:33:51> [30DF1863] -- Minimum SM 2.0 support: yes
+<10:33:51> [13E11956] -- DX11 supported: yes
+<10:33:51> [50B60100] --------------------------------------------------------------------------------
+<10:33:51> [5921EDBE] Stream Engine Initialization
+<10:33:51> [BA0D559B] Splash: Initializing Stream Engine...
+<10:33:51> [939F6EBB] Enable Resolutions : 0
+<10:33:51> [A30A84B6] can't enum display resolution modes
+<10:33:51> [B324CD25] Screen Resolution - 1024x768
+<10:33:51> [3778EA0B] Screen Resolution - 0 (2560x1440)
+<10:33:51> [A1B107F0] Screen Resolution - Test OK (2560x1440)
+<10:33:51> [A9E4B0F2] Network initialization
+<10:33:51> [BA0D559B] Splash: Initializing Network System...
+<10:33:51> [14FAD233] Socket I/O by iocp
+<10:33:51> [E36A4FB9] Physics initialization
+<10:33:51> [BA0D559B] Splash: Initializing Physics...
+<10:33:51> [2462D581] MovieSystem initialization
+<10:33:51> [BA0D559B] Splash: Initializing Movie System...
+<10:33:51> [93287AEC] Renderer initialization - Start
+<10:33:51> [BA0D559B] Splash: Initializing Renderer...
+<10:33:51> [91207680] Renderer initialization - Open
+<10:33:51> [4377E7CB] Renderer initialization - DLL Load(CryRenderD3D9.dll)
+<10:33:51> [71203A94] Renderer initialization - DLL Done
+<10:33:51> [71227C22] Renderer initialization - DLL Init
+<10:33:51> [C653D9CB] Renderer initialization - Instance
+<10:33:52> [44D9754D] D3D Adapter: Driver name: aticfx32.dll
+<10:33:52> [82BE8322] D3D Adapter: Driver description: AMD Radeon RX 7800 XT (RADV NAVI32)
+<10:33:52> [2224501A] D3D Adapter: Driver version: 32767.65535.65535.65535
+<10:33:52> [E8D1E30D] D3D Adapter: Driver GUID: 00000000-0003-0000-0000000000000000
+<10:33:52> [BC8C1ACB] D3D Adapter: VendorId = 0x1002
+<10:33:52> [B6A10CFD] D3D Adapter: DeviceId = 0x747E
+<10:33:52> [0678E702] D3D Adapter: SubSysId = 0x00000000
+<10:33:52> [F2243F0E] D3D Adapter: Revision = 0
+<10:33:52> [E571CFEE] Shader manager initialization
+<10:33:53> [05BAAEF6] CResFile allocations incurred by user cache preload: (24998.05k)
+<10:33:53> [911B73B8] Renderer initialization - Done
+<10:33:53> [8E444EA9] Console initialization
+<10:33:53> [2904A233] Time initialization
+<10:33:53> [3650CFD6] Input initialization
+<10:33:53> [BA0D559B] Splash: Initializing Input System...
+<10:33:53> Initializing Keyboard
+<10:33:53> [99640BF1] Sound initialization
+<10:33:53> [BA0D559B] Splash: Initializing Sound System...
+<10:33:53> [2C33885C] Sound - Initializing AudioDevice now!
+<10:33:53> [E46760A9] <Sound> Initialize FMOD with dynamic memory callbacks
+<10:33:54> [D6755BFD] <Sound> Starting to initialize Windows Audio Session API output! 
+<10:33:54> [F7E8E3CD] <Sound> Drivers found: 4
+<10:33:54> [32CDA16B] <Sound> Available drivers:
+	1.	PulseAudio Output (PulseAudio Output)
+	2.	Blue Microphones Analog Stereo (Blue Microphones Analog Stereo)
+	3.	Wireless Controller (Wireless Controller)
+	4.	Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo)
+<10:33:54> [A0BBF7E1] <Sound> FmodEx-AudioDevice: Now running on driver: PulseAudio Output (PulseAudio Output)
+<10:33:54> [14D8EFE1] <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<10:33:54> [E79C27E5] <Sound> Initializing FMOD-EX now!
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 0 PulseAudio Input (PulseAudio Input) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 1 Family 17h/19h/1ah HD Audio Controller Analog Stereo (Family 17h/19h/1ah HD Audio Controller Analog Stereo) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 2 Wireless Controller (Wireless Controller) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 3 Blue Microphones Analog Stereo (Blue Microphones Analog Stereo) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 4 Monitor of Family 17h/19h/1ah HD Audio Controller (Monitor of Family 17h/19h/1ah HD Audio Controller) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 5 Monitor of Blue Microphones Analog Stereo (Monitor of Blue Microphones Analog Stereo) !
+<10:33:54> [E2A9FE08] <Sound> Available record drivers: 6 Wireless Controller (Wireless Controller) !
+<10:33:54> [6841BE38] <Sound> Record config is set to autodetect using record driver 0
+<10:33:54> [7808B4C4] <Sound> Using FMOD version: 00044414 and internal 00044414!
+<10:33:54> [2A2815C7] <Sound> Initialized FMOD-EX
+<10:33:54> [BE4EF52E] Sound - Initializing SoundSystem now!
+<10:33:54> [0D547471] Font initialization
+<10:33:54> [BA0D559B] Splash: Initializing Fonts...
+<10:33:54> [C194F7C8][Warning] Cannot load texture textures/defaults/replacemecm.tif, file missing [File=textures/defaults/replacemecm.dds]
+<10:33:54> [84206398] AI initialization
+<10:33:54> [1BC221DE] Initializing Animation System
+<10:33:54> [BA0D559B] Splash: Initializing Animation System...
+<10:33:54> [9E592EFE] Initializing 3D Engine
+<10:33:54> [BA0D559B] Splash: Initializing 3D Engine...
+<10:33:55> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/nude/Standard_22.mtl (chr: game/objects/characters/ferre/female/nude/fe_f_base.chr)
+<10:33:55> [91F5AEEC][Warning] number of bones mismatch! game/objects/characters/ferre/female/nude/fe_f_base.chr=195 game/objects/characters/ferre/female/nude/fe_f_base_lod1.chr=185
+<10:33:56> [7415A452] CHR PreCaching 25 Done
+<10:33:56> [E7AD4E53] AddSharedMorphTargets - Failed to load objects/characters/dwarf/male/face/dw_m_face00.chr
+<10:33:56> [61AD1790] MorphTargetPreCaching - objects/characters/dwarf/male/face/dw_m_face00.chr Add Failed
+<10:33:56> [A4A6E4C6] MorphTarget PreCaching 11 Done
+<10:33:56> [5ACB40E2] Init Face Makers
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:33:56> [4ABB03EB] game/objects/characters/ferre/female/face/fe_f_face01_low.chr(303) - objects/characters/ferre/female/face/fe_f_face00.chr(3063) SharedMorph is not matched
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_SeptumVol target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_NasalZposition target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dwEarSize target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : dwarf_Morph target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Forehead target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_DoubleEyelidShape target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowXposition target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowZposition target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Nostril target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_SeptumZposition target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_End target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipVolume target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipVolume target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipOpen target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipOpen target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_MouthOpen target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Size target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_TeethZposition target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard1 target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard2 target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard3 target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_max ex target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllLowerY target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllRotate target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllY target not exist
+<10:33:56> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_min target not exist
+<10:33:56> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_max ex target not exist
+<10:33:56> [E320B5CE] Init Face Makers - Done!
+<10:33:56> [581CA53C] Script System Initialization
+<10:33:56> [BA0D559B] Splash: Initializing Script System...
+<10:33:56> [000004EE][Warning] [Lua Error] 1_3_0/scripts/common.lua:276: attempt to index global 'Script' (a nil value)
+<10:33:56> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/common.alb
+<10:33:56> [D8B2BA54] Entity system initialization
+<10:33:56> [BA0D559B] Splash: Initializing Entity System...
+<10:33:56> [D55F91B2][Warning] [CEntityClassRegistry] LoadClassDescription failed, Entity Class name Chick already registered
+<10:33:56> [BA0D559B] Splash: Initializing AI System...
+<10:33:56> [DA019954] Initializing AI System
+<10:33:56> [2546BCC5] Initializing Budgeting System
+<10:33:56> [C0E19025] Initializing Seamless System
+<10:33:56> [BA0D559B] Splash: Loading Game Data...
+<10:33:58> [90B8EC50][Warning] too many ranges: aoe_shapes descs 10156(10156) threshold 100 ranges 12
+<10:33:59> [BA4AD6CE] Loading portal list
+<10:33:59> [92597454] Portal added, enter: 3891, exit: 6629
+<10:33:59> [92597454] Portal added, enter: 21448, exit: 21449
+<10:33:59> [92597454] Portal added, enter: 21450, exit: 21451
+<10:33:59> [92597454] Portal added, enter: 21452, exit: 21453
+<10:33:59> [92597454] Portal added, enter: 21698, exit: 21699
+<10:33:59> [92597454] Portal added, enter: 22023, exit: 22024
+<10:33:59> [92597454] Portal added, enter: 22042, exit: 22066
+<10:33:59> [92597454] Portal added, enter: 22136, exit: 22137
+<10:33:59> [92597454] Portal added, enter: 22163, exit: 22164
+<10:33:59> [92597454] Portal added, enter: 22184, exit: 22185
+<10:33:59> [92597454] Portal added, enter: 22336, exit: 22337
+<10:33:59> [92597454] Portal added, enter: 9000063, exit: 9000064
+<10:33:59> [1C664009] End loading portal list
+<10:33:59> [937812F7] loaded DDCMS (1396969 descs, 719156 links (17 page 16.95MB size) string) from game\db\compact.sqlite3 in 997 ms
+<10:33:59> [BA0D559B] Splash: Initializing Game System...
+<10:33:59> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<10:33:59> [0ADE3294][Warning] [MFX] Effect 'collisions:grenade' already present. Overriding.
+<10:33:59> [311630D1][Warning] MFX WARNING: Material not found: mat_ice_breakable
+<10:33:59>  
+<10:33:59>    sys_spec = Custom (assuming 4)
+<10:33:59>      option_view_dist_ratio = 2 expected:4
+<10:33:59>  
+<10:33:59> [BA0D559B] Splash: Preparing Screen...
+<10:33:59> [963385F6] Level System - Loading Start
+<10:34:00> [806B6F8D] precaching world entities ..
+<10:34:00> [7E39E0DE] precaching world entities .. done!  total (0) objects
+<10:34:00> [D2B280D6] Vegetation Manager : Loading World(login2)
+<10:34:00> [075AB92F] Vegetation Manager : Loading World - Done (total 36 vegetations)
+<10:34:00> [B9410AA1] total 20 terrain world surfaces loaded
+<10:34:00> Loading Particle Library: collisions
+<10:34:00> Loading Particle Library: water
+<10:34:00> Loading Particle Library: misc
+<10:34:00> Loading Particle Library: ability_skill_table
+<10:34:00> Loading Particle Library: ability_skill_table_k
+<10:34:00> Loading Particle Library: abillity_skill_table_m
+<10:34:00> Loading Particle Library: machinima
+<10:34:00> Loading Particle Library: x2_effects
+<10:34:00> Loading Particle Library: x2_effects_k
+<10:34:00> [280A47E3] Precached total 2 materials
+<10:34:00> [7B1A973B] seamless loading cell terrain(W0, 1), (L0, 0)
+<10:34:00> [3EF08C47] seamless loading cell object(W0, 1), (L0, 0)
+<10:34:01> [584C4FFD] [net 14:33:51.956]  dns ip:192.168.1.202
+<10:34:01> [584C4FFD] [net 14:33:51.956]  dns ip:172.18.0.1
+<10:34:01> [584C4FFD] [net 14:33:51.956]  dns ip:172.19.0.1
+<10:34:01> [584C4FFD] [net 14:33:51.956]  dns ip:172.17.0.1
+<10:34:01> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<10:34:01> [13A58BA0][Error] CryAnimation: character-definition not found: game/objects/characters/elf/female/nude/el_f_kyprosa.cdf
+<10:34:01> [4DD44108] Start DaruCommon Extension
+<10:34:01> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_Amount
+<10:34:01> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_MaskTexName
+<10:34:01> [1B425DA5] Duplicated post effect param! pszName = FilterChromaShift_User_Amount
+<10:34:01> [1B425DA5] Duplicated post effect param! pszName = FilterGrain_Amount
+<10:34:01> [8F6BAA6C][Warning] Couldn't find console variable 'e_water_ocean_fft'
+<10:34:01> Loading Particle Library: wind
+<10:34:01> Loading Particle Library: X2_EFFECT_O
+<10:34:01> [000004EE][Warning] Particle effect not found: '                                                                ', from ParticleEffect fx_land_green
+<10:34:01> [12409CCC] Load Zone Finished
+<10:34:01> [A39C1725] Level System - Loading Complete
+<10:34:01> [27293DED] -----------------------------------------------------
+<10:34:01> [120C18F5] * LOADING: 'loginbg4' loading time: 1.50 seconds
+<10:34:01> [27293DED] -----------------------------------------------------
+<10:34:01> [000004EE][Warning] [Lua Error] no client player exists
+<10:34:01> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:34:01> [000FABC5][Warning] CAreaGrid::BeginAreas() called before being initialized.
+<10:34:09> [11E02DA3][Warning] Cannot load texture textures/defaults/16_12.dds, file missing [File=textures/defaults/16_12.dds]
+<10:34:10> [1D01FDCA] Auth: client connected to server
+<10:34:10> [584C4FFD] [net 14:34:10.662]  socket ip:192.168.1.202
+<10:34:10> [4C920A71] mac address : 74-56-3c-fe-52-f3
+<10:34:12> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:34:14> [584C4FFD] [net 14:34:14.184] connection requested to: 192.95.21.64:1239
+<10:34:14> [4ABA7BDB] Auth: client disconnected (reason=0)
+<10:34:14> [0F08E548] [NetConnection] connect completed (succeeded:true)
+<10:34:14> [48F7BDF2] invalid world id in world queue packet
+<10:34:14> [26623ECA] ucc info.. 5 0
+<10:34:14> [4516816D] pay method: person
+<10:34:14> [4AA30841] pay location: person
+<10:34:14> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<10:34:14> [6486A277] pay end: 1900-1-1 00:00:00
+<10:34:14> [FFF6198C] premium point: 0
+<10:34:14> [481C0862] premium grade: premium_0
+<10:34:14> [88D9AB0C] real pay time: 0
+<10:34:14> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [camera_max_dist] is already registered
+<10:34:14> [34CCC219] stream: connected to world server
+<10:34:14> [06A46B5B] stream: authorized by world server
+<10:34:14> [4516816D] pay method: person
+<10:34:14> [4AA30841] pay location: person
+<10:34:14> [ADF1C07E] pay start: 1900-1-1 00:00:00
+<10:34:14> [6486A277] pay end: 2037-12-31 16:00:00
+<10:34:14> [FFF6198C] premium point: 0
+<10:34:14> [481C0862] premium grade: premium_0
+<10:34:14> [88D9AB0C] real pay time: -1
+<10:34:14> [82321C2B][Warning] [net 14:34:14.978] [time] remote time estimation restarted; estimate accumulator age was 427318.531250
+<10:34:16> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/ar/obj/wa_f_ar_leather181.mtl (chr: game/objects/characters/warborn/female/parts/ar/obj/wa_f_1ac014_1ar117_2ar602_2arm004_2bt005_2pv002.chr)
+<10:34:17> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<10:34:17> [09F46B9D]     cl_fov = 90 []
+<10:34:17> [09F46B9D]     camera_max_dist = 180 []
+<10:34:17> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<10:34:17> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<10:34:17> [06E6A3E9][Warning] Cannot load texture ui/login_stage/queue.dds, file missing [File=ui/login_stage/queue.dds]
+<10:34:17> [000004EE][Warning] RenderMesh not assigned game/objects/box_nodraw.cgf
+<10:34:18> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:34:18> [DA579B6C][Error] can't load client driven connect info.. Kompy
+<10:34:23> [9FC303B8][Error] [CVARS]: [DUPLICATE] CXConsole::RegisterFloat(): variable [ui_double_click_interval] is already registered
+<10:34:23> [0DE3FA89][Error] CryAnimation: character-definition creation failed: game/objects/characters/returned/female/nude/re_f.cdf
+<10:34:23> [82321C2B][Warning] [net 14:34:23.785] [time] remote time estimation restarted; estimate accumulator age was 2.674255
+<10:34:23> [6FF68EA5] SetInstantTime: type 0 time 0
+<10:34:23> [6FF68EA5] SetInstantTime: type 1 time 1758904169
+<10:34:23> [6FF68EA5] SetInstantTime: type 2 time 1758902829
+<10:34:23> [6FF68EA5] SetInstantTime: type 3 time 0
+<10:34:23> [6FF68EA5] SetInstantTime: type 4 time 0
+<10:34:23> [6FF68EA5] SetInstantTime: type 5 time 0
+<10:34:23> [6FF68EA5] SetInstantTime: type 6 time 0
+<10:34:23> [6FF68EA5] SetInstantTime: type 7 time 1758895883
+<10:34:23> [0E61BD35] ExpeditionMember 20 added
+<10:34:23> [0E61BD35] ExpeditionMember 20 added
+<10:34:23> [0E61BD35] ExpeditionMember 20 added
+<10:34:23> [0E61BD35] ExpeditionMember 20 added
+<10:34:23> [0E61BD35] ExpeditionMember 15 added
+<10:34:23> [51CFCC4C] ExpeditionMember count matched. total 95
+<10:34:23> [6FF68EA5] SetInstantTime: type 7 time 1758983660
+<10:34:23> [7AB931CE] seamless unloading cell object(W0, 0), (L0, 0)
+<10:34:23> [4B1E8B22] unload cell object count : 1511
+<10:34:23> [B866A294] seamless unloading cell terrain(W0, 0), (L0, 0)
+<10:34:23> [963385F6] Level System - Loading Start
+<10:34:24> [E0E0EDAE][Warning] failed to load zone time of day from game/worlds/main_world/zone/225//time_of_day.xml
+<10:34:24> [AB17243B][Warning] failed to load zone environment from game/worlds/main_world/zone/309//env.xml
+<10:34:24> [35D4413E][Warning] failed to load zone clouds from game/worlds/main_world/zone/309//clouds.xml
+<10:34:24> [806B6F8D] precaching world entities ..
+<10:34:24> [7E39E0DE] precaching world entities .. done!  total (1778) objects
+<10:34:24> [D2B280D6] Vegetation Manager : Loading World(main_world)
+<10:34:24> [075AB92F] Vegetation Manager : Loading World - Done (total 3055 vegetations)
+<10:34:24> [000004EE][Error] CTerrain::LoadWorldSurfaces: Error loading material: materials/Terrain/gweonidforest/w_forest_road_a1
+<10:34:24> [751FFB9E][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find detail texture
+'game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga' in path '' [File=game/textures/aa_terrain/canyon/tr_canyon_rock_616a_ddn.tga]
+<10:34:25> [B9410AA1] total 600 terrain world surfaces loaded
+<10:34:25> [280A47E3] Precached total 4 materials
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 25), (L4, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 26), (L4, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 25), (L5, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 26), (L5, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 25), (L3, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 24), (L4, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 26), (L3, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 24), (L5, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 27), (L4, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 25), (L6, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 24), (L3, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 27), (L5, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 26), (L6, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 27), (L3, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 24), (L6, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 25), (L2, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 26), (L2, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 23), (L4, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 27), (L6, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 23), (L5, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 24), (L2, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 23), (L3, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 28), (L4, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 28), (L5, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 27), (L2, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 25), (L7, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 26), (L7, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 28), (L3, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 23), (L6, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 24), (L7, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 28), (L6, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 23), (L2, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 27), (L7, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W16, 25), (L1, 4)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W16, 26), (L1, 5)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W19, 22), (L4, 1)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W20, 22), (L5, 1)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W17, 28), (L2, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W16, 24), (L1, 3)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W18, 22), (L3, 1)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W16, 27), (L1, 6)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 23), (L7, 2)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W21, 22), (L6, 1)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W22, 28), (L7, 7)
+<10:34:25> [7B1A973B] seamless loading cell terrain(W16, 23), (L1, 2)
+<10:34:25> [3EF08C47] seamless loading cell object(W19, 25), (L4, 4)
+<10:34:25> [3EF08C47] seamless loading cell object(W19, 26), (L4, 5)
+<10:34:25> [000004EE][Warning] [CGF Error] game/objects/env/03_origin_continent/25_shining_shore/o_shining_ostcamp_column_b.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [488 against 684] :
+<10:34:25> [FCC3CF4D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/Env/01_nuia/001_ncom/ncom_city_old_multi_in_prison_cave_rock_aa_df.dds' in path '' [File=game/objects/Env/01_nuia/001_ncom/ncom_city_old_multi_in_prison_cave_rock_aa_df.dds]
+<10:34:25> [3EF08C47] seamless loading cell object(W20, 25), (L5, 4)
+<10:34:25> [3EF08C47] seamless loading cell object(W20, 26), (L5, 5)
+<10:34:25> [3EF08C47] seamless loading cell object(W18, 25), (L3, 4)
+<10:34:25> [3EF08C47] seamless loading cell object(W19, 24), (L4, 3)
+<10:34:25> Loading Particle Library: X2_EFFECTS_P
+<10:34:25> [3EF08C47] seamless loading cell object(W18, 26), (L3, 5)
+<10:34:26> [3EF08C47] seamless loading cell object(W20, 24), (L5, 3)
+<10:34:26> [3EF08C47] seamless loading cell object(W19, 27), (L4, 6)
+<10:34:26> [A5DDEC33][Warning] Warning: CShaderMan::mfForName: NULL name
+<10:34:26> [3EF08C47] seamless loading cell object(W21, 25), (L6, 4)
+<10:34:26> [3EF08C47] seamless loading cell object(W18, 24), (L3, 3)
+<10:34:26> [3EF08C47] seamless loading cell object(W20, 27), (L5, 6)
+<10:34:26> [3EF08C47] seamless loading cell object(W21, 26), (L6, 5)
+<10:34:26> [3EF08C47] seamless loading cell object(W18, 27), (L3, 6)
+<10:34:26> [3EF08C47] seamless loading cell object(W21, 24), (L6, 3)
+<10:34:26> [3EF08C47] seamless loading cell object(W17, 25), (L2, 4)
+<10:34:26> [3EF08C47] seamless loading cell object(W17, 26), (L2, 5)
+<10:34:26> Loading Particle Library: x2_sounds
+<10:34:26> [3EF08C47] seamless loading cell object(W19, 23), (L4, 2)
+<10:34:26> [3EF08C47] seamless loading cell object(W21, 27), (L6, 6)
+<10:34:26> [3EF08C47] seamless loading cell object(W20, 23), (L5, 2)
+<10:34:26> [12409CCC] Load Zone Finished
+<10:34:26> [000004EE][Warning] I3DEngine::RegisterEntity: entity reports invalid position: Name: LightEntityName (), Class: LightEntityClass, Pos=(6411.5,2342.7,2816.1), aabb center=(142.0,1019.8,-2.3)
+<10:34:27> [A369EADC][Warning] failed to register sound listener. no actor. lets wait more...
+<10:34:27> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/abillity_skill_table_m.xml)
+<10:34:27> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.wild.shock_form2', from unknown 
+<10:34:27> [2BFDEC33][Error] realstep 11, not match unit req
+<10:34:27> [A39C1725] Level System - Loading Complete
+<10:34:27> [9BE3F673] total 0 CGF files are precached
+<10:34:27> [27293DED] -----------------------------------------------------
+<10:34:27> [120C18F5] * LOADING: 'o_shining_shore_2' loading time: 3.72 seconds
+<10:34:27> [27293DED] -----------------------------------------------------
+<10:34:27> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 21)
+<10:34:28> [CA175C82][Warning] non-stream IO. system(CGF), filePath(objects/Env/01_nuia/001_housing/housing_house/housing_m_work_d.cgf)
+<10:34:28> [62232BEA][Warning] deferred xml stream error - game/animations/animals/owl_postman/lmg_files/normal_run.lmg : f0000003
+<10:34:28> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/animals/owl_postman/aaa_picking.mtl)
+<10:34:29> [94DB4391][Warning] Cannot load texture game/objects/characters/animals/cat_baby_cat/cat_baby_stripes_pet_df.dds, file missing [File=game/objects/characters/animals/cat_baby_cat/cat_baby_stripes_pet_df.dds]
+<10:34:30> [CE0EF930][Warning] failed to stream cgf : default
+<10:34:31> [09F46B9D]     cl_fov = 90 []
+<10:34:31> [09F46B9D]     camera_max_dist = 180 []
+<10:34:31> [09F46B9D]     name_tag_hp_width_on_bgmode = 80 []
+<10:34:31> [09F46B9D]     name_tag_hp_height_on_bgmode = 30 []
+<10:34:31> [000004EE][Warning] [Lua Error] Failed to load script file scriptsbin/x2ui/assignment/form.alb
+<10:34:32> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:34:32> [B5A61D8F] Chat Channel(0) Color is not found.
+<10:34:32> [000004EE][Warning] [Lua Error] ...ts/x2ui/loginstage/character_create/locale/en_us.lua:524: attempt to index a nil value
+<10:34:32> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/x2ui/loginstage/character_create/locale/en_us.alb
+<10:34:32> [000004EE][Warning] [Lua] invalid style type...  / brown
+<10:34:32> [82321C2B][Warning] [net 14:34:32.892] [time] remote time estimation restarted; estimate accumulator age was 0.973809
+<10:34:38> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 52)
+<10:34:38> [7B1A973B] seamless loading cell terrain(W17, 22), (L2, 1)
+<10:34:45> [43951EFD][Warning] Cannot load texture game/objects/env/01_nuia/001_ndeco/collect/ndeco_collect_geyser02_df.dd, file missing [File=game/objects/env/01_nuia/001_ndeco/collect/ndeco_collect_geyser02_df.dd]
+<10:34:46> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/origin_continent.xml/tower.safezone_down node=AnimObject_51
+<10:34:46> [CE0EF930][Warning] failed to stream cgf : objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:34:48> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/climb/ndeco_do_ladder_add.mtl)
+<10:34:48> [637AF710][Warning] missing chr material : game/objects/characters/people/girl03/girl01_cloth004.mtl (chr: game/objects/characters/people/girl03/girl03.chr)
+<10:34:53> [CE0EF930][Warning] failed to stream cgf : default
+<10:34:55> [9DC28BAD][Warning] Cannot load texture game/objects/env/05_nature/10_origin/origin_nation_tree_a01_sp.dds, file missing [File=game/objects/env/05_nature/10_origin/origin_nation_tree_a01_sp.dds]
+<10:34:56> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/origin_continent.xml/tower.safezone_down node=AnimObject_51
+<10:34:57> [A5DDEC33][Warning] Warning: CShaderMan::mfForName: NULL name
+<10:34:58> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 49f4f73d578ac428
+<10:34:58> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/animals/seagull/Material #0.mtl)
+<10:35:00> [CE0EF930][Warning] failed to stream cgf : objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:35:03> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/origin_continent.xml/tower.safezone_down node=AnimObject_51
+<10:35:06> [CE0EF930][Warning] failed to stream cgf : objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:35:08> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/origin_continent.xml/tower.safezone_down node=AnimObject_51
+<10:35:13> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/x2_effects.xml)
+<10:35:13> [000004EE][Warning] Particle effect not found: 'game/x2_effects.sword_trail_test2', from unknown 
+<10:35:13> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:35:15> [5F2B49C4][Warning] cell get sector zone : invalid sector pos (-3, -7)
+<10:35:15> [BB790A81] origin change campos : -6370.82, -14799.014648
+<10:35:15> [00000020]  
+<10:35:15> [00000020]  
+<10:35:15> [A581FA6D] -----------------------------------------------------------------------------
+<10:35:15> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(15,21) -> New(6,4)
+<10:35:15> [A581FA6D] -----------------------------------------------------------------------------
+<10:35:15> [00000020]  
+<10:35:15> [00000020]  
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 22), (L7, 7)
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 21), (L7, 6)
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 20), (L7, 5)
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 19), (L7, 4)
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 18), (L7, 3)
+<10:35:15> [B866A294] seamless unloading cell terrain(W22, 17), (L7, 2)
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 22), (L6, 7)
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 21), (L6, 6)
+<10:35:15> [7AB931CE] seamless unloading cell object(W21, 21), (L6, 6)
+<10:35:15> [4B1E8B22] unload cell object count : 0
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 20), (L6, 5)
+<10:35:15> [7AB931CE] seamless unloading cell object(W21, 20), (L6, 5)
+<10:35:15> [4B1E8B22] unload cell object count : 4408
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 19), (L6, 4)
+<10:35:15> [7AB931CE] seamless unloading cell object(W21, 19), (L6, 4)
+<10:35:15> [4B1E8B22] unload cell object count : 2549
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 18), (L6, 3)
+<10:35:15> [7AB931CE] seamless unloading cell object(W21, 18), (L6, 3)
+<10:35:15> [4B1E8B22] unload cell object count : 15328
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 17), (L6, 2)
+<10:35:15> [B866A294] seamless unloading cell terrain(W21, 16), (L6, 1)
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 22), (L5, 7)
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 21), (L5, 6)
+<10:35:15> [7AB931CE] seamless unloading cell object(W20, 21), (L5, 6)
+<10:35:15> [4B1E8B22] unload cell object count : 0
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 20), (L5, 5)
+<10:35:15> [7AB931CE] seamless unloading cell object(W20, 20), (L5, 5)
+<10:35:15> [4B1E8B22] unload cell object count : 1057
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 19), (L5, 4)
+<10:35:15> [7AB931CE] seamless unloading cell object(W20, 19), (L5, 4)
+<10:35:15> [4B1E8B22] unload cell object count : 4945
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 18), (L5, 3)
+<10:35:15> [7AB931CE] seamless unloading cell object(W20, 18), (L5, 3)
+<10:35:15> [4B1E8B22] unload cell object count : 31789
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 17), (L5, 2)
+<10:35:15> [7AB931CE] seamless unloading cell object(W20, 17), (L5, 2)
+<10:35:15> [4B1E8B22] unload cell object count : 14585
+<10:35:15> [B866A294] seamless unloading cell terrain(W20, 16), (L5, 1)
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 22), (L4, 7)
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 21), (L4, 6)
+<10:35:15> [7AB931CE] seamless unloading cell object(W19, 21), (L4, 6)
+<10:35:15> [4B1E8B22] unload cell object count : 6385
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 20), (L4, 5)
+<10:35:15> [7AB931CE] seamless unloading cell object(W19, 20), (L4, 5)
+<10:35:15> [4B1E8B22] unload cell object count : 2510
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 19), (L4, 4)
+<10:35:15> [7AB931CE] seamless unloading cell object(W19, 19), (L4, 4)
+<10:35:15> [4B1E8B22] unload cell object count : 0
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 18), (L4, 3)
+<10:35:15> [7AB931CE] seamless unloading cell object(W19, 18), (L4, 3)
+<10:35:15> [4B1E8B22] unload cell object count : 32645
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 17), (L4, 2)
+<10:35:15> [7AB931CE] seamless unloading cell object(W19, 17), (L4, 2)
+<10:35:15> [4B1E8B22] unload cell object count : 18944
+<10:35:15> [B866A294] seamless unloading cell terrain(W19, 16), (L4, 1)
+<10:35:15> [B866A294] seamless unloading cell terrain(W18, 22), (L3, 7)
+<10:35:15> [B866A294] seamless unloading cell terrain(W18, 21), (L3, 6)
+<10:35:15> [7AB931CE] seamless unloading cell object(W18, 21), (L3, 6)
+<10:35:15> [4B1E8B22] unload cell object count : 4007
+<10:35:15> [B866A294] seamless unloading cell terrain(W18, 20), (L3, 5)
+<10:35:15> [7AB931CE] seamless unloading cell object(W18, 20), (L3, 5)
+<10:35:15> [4B1E8B22] unload cell object count : 3256
+<10:35:15> [B866A294] seamless unloading cell terrain(W18, 19), (L3, 4)
+<10:35:15> [7AB931CE] seamless unloading cell object(W18, 19), (L3, 4)
+<10:35:15> [4B1E8B22] unload cell object count : 0
+<10:35:15> [B866A294] seamless unloading cell terrain(W18, 18), (L3, 3)
+<10:35:15> [7AB931CE] seamless unloading cell object(W18, 18), (L3, 3)
+<10:35:16> [4B1E8B22] unload cell object count : 2538
+<10:35:16> [B866A294] seamless unloading cell terrain(W18, 17), (L3, 2)
+<10:35:16> [B866A294] seamless unloading cell terrain(W18, 16), (L3, 1)
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 22), (L2, 7)
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 21), (L2, 6)
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 20), (L2, 5)
+<10:35:16> [7AB931CE] seamless unloading cell object(W17, 20), (L2, 5)
+<10:35:16> [4B1E8B22] unload cell object count : 15047
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 19), (L2, 4)
+<10:35:16> [7AB931CE] seamless unloading cell object(W17, 19), (L2, 4)
+<10:35:16> [4B1E8B22] unload cell object count : 0
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 18), (L2, 3)
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 17), (L2, 2)
+<10:35:16> [B866A294] seamless unloading cell terrain(W17, 16), (L2, 1)
+<10:35:16> [B866A294] seamless unloading cell terrain(W16, 21), (L1, 6)
+<10:35:16> [B866A294] seamless unloading cell terrain(W16, 20), (L1, 5)
+<10:35:16> [B866A294] seamless unloading cell terrain(W16, 19), (L1, 4)
+<10:35:16> [B866A294] seamless unloading cell terrain(W16, 18), (L1, 3)
+<10:35:16> [B866A294] seamless unloading cell terrain(W16, 17), (L1, 2)
+<10:35:16> [3623F74F] [Seamless] camera has been warped
+<10:35:16> [9CAE9693] Starting In World Loading
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 6), (L2, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 6), (L3, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 7), (L2, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 5), (L2, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 7), (L3, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 5), (L3, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 6), (L1, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 7), (L1, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 5), (L1, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 6), (L4, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 7), (L4, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 8), (L2, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 5), (L4, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 4), (L2, 0)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 8), (L3, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 4), (L3, 0)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W6, 6), (L0, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 8), (L1, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 4), (L1, 0)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W6, 7), (L0, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W6, 5), (L0, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 8), (L4, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 4), (L4, 0)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W11, 6), (L5, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W11, 7), (L5, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W11, 5), (L5, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 9), (L2, 5)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W6, 8), (L0, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 9), (L3, 5)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W7, 9), (L1, 5)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W11, 8), (L5, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W11, 4), (L5, 0)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 9), (L4, 5)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W12, 6), (L6, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W6, 9), (L0, 5)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W12, 7), (L6, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W12, 5), (L6, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 10), (L2, 6)
+<10:35:16> [3EF08C47] seamless loading cell object(W8, 6), (L2, 2)
+<10:35:16> [3EF08C47] seamless loading cell object(W9, 6), (L3, 2)
+<10:35:16> [3EF08C47] seamless loading cell object(W8, 7), (L2, 3)
+<10:35:16> [3EF08C47] seamless loading cell object(W8, 5), (L2, 1)
+<10:35:16> [3EF08C47] seamless loading cell object(W9, 7), (L3, 3)
+<10:35:16> [3EF08C47] seamless loading cell object(W9, 5), (L3, 1)
+<10:35:16> [3EF08C47] seamless loading cell object(W7, 6), (L1, 2)
+<10:35:16> [3EF08C47] seamless loading cell object(W7, 7), (L1, 3)
+<10:35:16> [3EF08C47] seamless loading cell object(W7, 5), (L1, 1)
+<10:35:16> [3EF08C47] seamless loading cell object(W10, 6), (L4, 2)
+<10:35:16> [3EF08C47] seamless loading cell object(W10, 7), (L4, 3)
+<10:35:16> [3EF08C47] seamless loading cell object(W8, 8), (L2, 4)
+<10:35:16> [3EF08C47] seamless loading cell object(W10, 5), (L4, 1)
+<10:35:16> [3EF08C47] seamless loading cell object(W9, 8), (L3, 4)
+<10:35:16> [3EF08C47] seamless loading cell object(W7, 8), (L1, 4)
+<10:35:16> [B94D8BD1][Warning] Cannot load texture game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds, file missing [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds]
+<10:35:16> [D8EA1A9D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds]
+<10:35:16> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/19_fairy/fairy_tree_ivy.mtl)
+<10:35:16> [05FB5682][Warning] Not a normal map texture tried to be used as a normal map: game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_fx.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_fx.dds]
+<10:35:16> [586BCE46][Warning] Non 3dc normal map used (wrong on DX10): game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds]
+<10:35:16> [0AD0E100][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds]
+<10:35:16> [A5DDEC33][Warning] Warning: CShaderMan::mfForName: NULL name
+<10:35:16> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/001_hcom/hcom_cart_b.cgf [:] LOD1 of geometry hcom_cart_b contains too many polygons comparing to the LOD0 [770 against 1114] :
+<10:35:16> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ncom/ncom_woodfish.cgf [:] non-uniform scale(1.00, 1.00, 0.90) at node(proxy)
+<10:35:16> [BB790A81] origin change campos : 2845.18, 2608.985352
+<10:35:16> [00000020]  
+<10:35:16> [00000020]  
+<10:35:16> [A581FA6D] -----------------------------------------------------------------------------
+<10:35:16> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(6,4) -> New(5,3)
+<10:35:16> [A581FA6D] -----------------------------------------------------------------------------
+<10:35:16> [00000020]  
+<10:35:16> [00000020]  
+<10:35:16> [7B1A973B] seamless loading cell terrain(W8, 3), (L3, 0)
+<10:35:16> [3EF08C47] seamless loading cell object(W8, 4), (L3, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W9, 3), (L4, 0)
+<10:35:16> [3EF08C47] seamless loading cell object(W9, 4), (L4, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W5, 6), (L0, 3)
+<10:35:16> [3EF08C47] seamless loading cell object(W6, 6), (L1, 3)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W5, 7), (L0, 4)
+<10:35:16> [3EF08C47] seamless loading cell object(W7, 4), (L2, 1)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W5, 5), (L0, 2)
+<10:35:16> [3EF08C47] seamless loading cell object(W6, 7), (L1, 4)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W10, 3), (L5, 0)
+<10:35:16> [3EF08C47] seamless loading cell object(W6, 5), (L1, 2)
+<10:35:16> [7B1A973B] seamless loading cell terrain(W5, 8), (L0, 5)
+<10:35:17> [188BF914][Warning] [EntityLoader] invalid entity pos(0.298, -2.719, 0.001) name(B_gear_light)
+<10:35:17> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4fc945cdb2ad3fbb
+<10:35:18> [B42C333F] In World Loading Finished
+<10:35:18> [82321C2B][Warning] [net 14:35:18.217] [time] remote time estimation restarted; estimate accumulator age was 2.421457
+<10:35:18> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 25)
+<10:35:18> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/env/01_nuia/001_housing/housing_farm/housing_farm_pumpkin_a.mtl)
+<10:35:21> [000004EE][Warning] Particle effect not found: 'game/x2_effects.sword_trail_test1', from unknown 
+<10:35:21> [62232BEA][Warning] deferred xml stream error - game/animations/animals/duck/lmg_files/normal_run.lmg : f0000003
+<10:35:21> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/parts/hm/obj/nu_f_hm_cloth164.mtl (chr: game/objects/characters/nuian/female/parts/hm/obj/nu_f_1hm220.chr)
+<10:35:21> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:35:21> [000004EE][Warning] [CGF Error] game/objects/env/06_unit/06_glider/glider_wing_crystal/glider_wing_crystal_back.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2720 against 4064] :
+<10:35:21> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/pt/obj/nu_f_pt_cloth997.mtl)
+<10:35:21> [E46B221E][Warning] Cannot load texture game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds, file missing [File=game/objects/characters/monster/daru/daru_tamer/daru_tamer_sp.dds]
+<10:35:21> [5CE4EF2C][Warning] failed to load particle lib from (Libs/Particles/game/ability_skill_table.xml)
+<10:35:23> [A13C772D][Warning] Cannot load texture ui/font_color.g, Image file format is invalid [File=ui/font_color.g]
+<10:35:24> [82321C2B][Warning] [net 14:35:24.342] [time] remote time estimation restarted; estimate accumulator age was 0.526301
+<10:35:24> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45ee3518f8ea5d5f
+<10:35:24> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 42)
+<10:35:24> [7B1A973B] seamless loading cell terrain(W11, 9), (L6, 6)
+<10:35:27> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/housing/ncom_zareba.mtl)
+<10:35:27> [7B1A973B] seamless loading cell terrain(W9, 10), (L4, 7)
+<10:35:27> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_vocation.nanta_hit', from unknown 
+<10:35:27> [637AF710][Warning] missing chr material : game/objects/characters/nuian/male/parts/gv/obj/nu_m_gv_leather001.mtl (chr: game/objects/characters/nuian/male/parts/gv/obj/nu_m_2gv102.chr)
+<10:35:33> [000004EE][Warning] [Lua] invalid style type...  / brown
+<10:35:35> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/nuian/male/nude/nu_m_base.chr".
+<10:35:36> Loading Particle Library: X2_EFFECT_KSW
+<10:35:36> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/ksw_effect/qilin.mtl)
+<10:35:36> [B95EE41B][Error] invalid parent unit id(61732)
+<10:35:45> [CE0EF930][Warning] failed to stream cgf : default
+<10:35:45> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/making/ndeco_making_rock01_second.mtl)
+<10:35:46> [B95EE41B][Error] invalid parent unit id(61732)
+<10:35:47> [F9376E0D][Warning] [flow] FG-0x6803FD8C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:35:47> [A8F1529E][Warning] [flow] Pending nodes:
+<10:35:49> [E126B923][Warning] Cannot load texture game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn, file missing [File=game/objects/env/01_nuia/001_housing/housing_furniture/hs_f_drums_ddn]
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:50> [0D01BD65] start to parse systm mail
+<10:35:50> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_c.xml/house.door_anp node=AnimObject_1
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:51> [0D01BD65] start to parse systm mail
+<10:35:51> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:52> [0D01BD65] start to parse systm mail
+<10:35:52> [BFBA8B5E] end to parse systm mail
+<10:35:53> [CE0EF930][Warning] failed to stream cgf : default
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [0D01BD65] start to parse systm mail
+<10:35:57> [BFBA8B5E] end to parse systm mail
+<10:35:57> [000004EE][Warning] [Lua Error] 1_3_0/scripts/x2ui/mailbox/mail/read_mail.lua:197: attempt to index local 'bodyInfo' (a nil value)
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:58> [0D01BD65] start to parse systm mail
+<10:35:58> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:35:59> [0D01BD65] start to parse systm mail
+<10:35:59> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:00> [0D01BD65] start to parse systm mail
+<10:36:00> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:02> [0D01BD65] start to parse systm mail
+<10:36:02> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:03> [0D01BD65] start to parse systm mail
+<10:36:03> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:04> [0D01BD65] start to parse systm mail
+<10:36:04> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [0D01BD65] start to parse systm mail
+<10:36:05> [BFBA8B5E] end to parse systm mail
+<10:36:05> [000004EE][Warning] [Lua Error] 1_3_0/scripts/x2ui/mailbox/mail/read_mail.lua:197: attempt to index local 'bodyInfo' (a nil value)
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:06> [0D01BD65] start to parse systm mail
+<10:36:06> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:07> [0D01BD65] start to parse systm mail
+<10:36:07> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:08> [0D01BD65] start to parse systm mail
+<10:36:08> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:09> [0D01BD65] start to parse systm mail
+<10:36:09> [BFBA8B5E] end to parse systm mail
+<10:36:13> [C53E6FFE][Warning] non cached CDF material(objects/Characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl, game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.cdf)
+<10:36:13> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl)
+<10:36:13> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<10:36:13> [B95EE41B][Error] invalid parent unit id(41687)
+<10:36:15> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 440b69a4bd1a8769
+<10:36:16> [745BAE2F][Warning] failed to stream material xml(game/objects/env/01_nuia/001_ndeco/housing/ncom_zareba.mtl)
+<10:36:16> [F9376E0D][Warning] [flow] FG-0x56A2BB04-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:36:16> [A8F1529E][Warning] [flow] Pending nodes:
+<10:36:18> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:36:19> [3EF08C47] seamless loading cell object(W10, 8), (L5, 5)
+<10:36:21> [88A91B4F][Warning] Cannot load texture game/objects/env/03_origin_continent/001_odeco/ndeco_crystal_kraken_ddn.dds, file missing [File=game/objects/env/03_origin_continent/001_odeco/ndeco_crystal_kraken_ddn.dds]
+<10:36:21> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ndeco/ndeco_dboss.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2373 against 3082] :
+<10:36:22> [7B1A973B] seamless loading cell terrain(W11, 3), (L6, 0)
+<10:36:22> [F9376E0D][Warning] [flow] FG-0x6C87887C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:36:22> [A8F1529E][Warning] [flow] Pending nodes:
+<10:36:23> [3EF08C47] seamless loading cell object(W10, 4), (L5, 1)
+<10:36:24> [B95EE41B][Error] invalid parent unit id(41687)
+<10:36:25> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.death.hell_spears_hit', from unknown 
+<10:36:25> [90F4FAEE][Error] AI: Error: Wrong AI area file version - found 20 expected 22 - regenerate triangulation [Design bug]
+<10:36:27> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 72)
+<10:36:29> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 440b69a4bd1a8769
+<10:36:29> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:36:29> [62232BEA][Warning] deferred xml stream error - game/animations/animals/piggy/lmg_files/normal_run.lmg : f0000003
+<10:37:53> [B95EE41B][Error] invalid parent unit id(86833)
+<10:38:29> [B95EE41B][Error] invalid parent unit id(86833)
+<10:39:02> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/nuian/male/nude/nu_m_base.chr".
+<10:39:03> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/ksw_effect/qilin.mtl)
+<10:39:36> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:41:10> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 161)
+<10:43:16> [F9376E0D][Warning] [flow] FG-0x680441CC-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:43:16> [A8F1529E][Warning] [flow] Pending nodes:
+<10:43:19> [3EF08C47] seamless loading cell object(W11, 6), (L6, 3)
+<10:44:25> [90F4FAEE][Error] AI: Error: Wrong AI area file version - found 20 expected 22 - regenerate triangulation [Design bug]
+<10:44:26> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd
+<10:44:43> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_love.cure_spring_form', from unknown 
+<10:44:44> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/elf/male/parts/pt/obj/el_m_pt_leather001.mtl)
+<10:44:44> [637AF710][Warning] missing chr material : game/objects/characters/elf/male/parts/ar/obj/el_m_ar_leather181.mtl (chr: game/objects/characters/elf/male/parts/ar/obj/el_m_1ac014_1ar106_2ar602_2arm004_2bt005_2pv002.chr)
+<10:44:44> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant1_pink_s.mtl)
+<10:45:11> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:45:17> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:45:18> [F9376E0D][Warning] [flow] FG-0x68043E24-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:45:18> [A8F1529E][Warning] [flow] Pending nodes:
+<10:45:41> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:45:55> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/making_bee.xml/making_bee.bee02 node=AnimObject_2
+<10:46:44> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4b2fb81ffe6b0dc9
+<10:46:51> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45671b71c0b06ecd
+<10:47:59> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 51)
+<10:48:21> [B95EE41B][Error] invalid parent unit id(72964)
+<10:48:21> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.illusion.spell_clear_throw', from unknown 
+<10:48:30> [F9376E0D][Warning] [flow] FG-0x7E9FAF2C-Entity 'AnimObject_19' was destroyed with pending updates/activations. Report follows...
+<10:48:30> [A8F1529E][Warning] [flow] Pending nodes:
+<10:48:51> [B95EE41B][Error] invalid parent unit id(72964)
+<10:50:06> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/gv/obj/nu_f_gv_cloth168.mtl)
+<10:50:06> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/parts/gv/obj/nu_f_gv_cloth168.mtl (chr: game/objects/characters/nuian/female/parts/gv/obj/nu_f_2gv302.chr)
+<10:53:54> [B95EE41B][Error] invalid parent unit id(71050)
+<10:53:54> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.fight.full_dot_end', from unknown 
+<10:53:54> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/male/parts/ar/obj/nu_m_ar_metal166.mtl)
+<10:53:54> [637AF710][Warning] missing chr material : game/objects/characters/nuian/male/parts/gv/obj/nu_m_gv_metal166.mtl (chr: game/objects/characters/nuian/male/parts/gv/obj/nu_m_3gv202.chr)
+<10:53:54> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant1_pink_m.mtl)
+<10:54:02> [B95EE41B][Error] invalid parent unit id(71050)
+<10:54:08> [B95EE41B][Error] invalid parent unit id(83392)
+<10:54:31> [B95EE41B][Error] invalid parent unit id(83392)
+<10:54:33> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<10:54:40> [000004EE][Warning] Particle effect not found: 'game/x2_effect_o.pc.skill_hatred_wd_spiritrush_launch', from unknown 
+<10:54:40> [000004EE][Warning] [CGF Error] game/objects/item/spear_1h/spear_1h_monster/spear_1h_baeksojeong_1/spear_1h_baeksojeong_1.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1489 against 1930] :
+<10:54:40> [2363981C][Warning] chr material is not precached : game/objects/characters/elf/male/hair/el_m_hair039/el_m_hair039.mtl (chr: game/objects/characters/elf/male/hair/el_m_hair039/el_m_hair039.chr)
+<10:54:40> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/elf/male/hair/el_m_hair039/el_m_hair039.mtl)
+<10:54:52> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<10:56:12> [6FF68EA5] SetInstantTime: type 0 time 1758985122
+<10:56:15> [B95EE41B][Error] invalid parent unit id(70334)
+<10:56:26> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<10:56:31> [6FF68EA5] SetInstantTime: type 0 time 0
+<10:56:31> [6FF68EA5] SetInstantTime: type 2 time 1758988591
+<10:56:32> [B95EE41B][Error] invalid parent unit id(70334)
+<10:56:32> [BB790A81] origin change campos : 11673.06, 6090.147461
+<10:56:32> [00000020]  
+<10:56:32> [00000020]  
+<10:56:32> [A581FA6D] -----------------------------------------------------------------------------
+<10:56:32> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(5,3) -> New(12,5)
+<10:56:32> [A581FA6D] -----------------------------------------------------------------------------
+<10:56:32> [00000020]  
+<10:56:32> [00000020]  
+<10:56:32> [B866A294] seamless unloading cell terrain(W5, 7), (L0, 2)
+<10:56:32> [B866A294] seamless unloading cell terrain(W5, 8), (L0, 3)
+<10:56:32> [B866A294] seamless unloading cell terrain(W5, 9), (L0, 4)
+<10:56:32> [B866A294] seamless unloading cell terrain(W5, 10), (L0, 5)
+<10:56:32> [B866A294] seamless unloading cell terrain(W6, 7), (L1, 2)
+<10:56:32> [7AB931CE] seamless unloading cell object(W6, 7), (L1, 2)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W6, 8), (L1, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W6, 8), (L1, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W6, 9), (L1, 4)
+<10:56:32> [7AB931CE] seamless unloading cell object(W6, 9), (L1, 4)
+<10:56:32> [4B1E8B22] unload cell object count : 9
+<10:56:32> [B866A294] seamless unloading cell terrain(W6, 10), (L1, 5)
+<10:56:32> [B866A294] seamless unloading cell terrain(W6, 11), (L1, 6)
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 6), (L2, 1)
+<10:56:32> [7AB931CE] seamless unloading cell object(W7, 6), (L2, 1)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 7), (L2, 2)
+<10:56:32> [7AB931CE] seamless unloading cell object(W7, 7), (L2, 2)
+<10:56:32> [4B1E8B22] unload cell object count : 1
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 8), (L2, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W7, 8), (L2, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 1174
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 9), (L2, 4)
+<10:56:32> [7AB931CE] seamless unloading cell object(W7, 9), (L2, 4)
+<10:56:32> [4B1E8B22] unload cell object count : 573
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 10), (L2, 5)
+<10:56:32> [7AB931CE] seamless unloading cell object(W7, 10), (L2, 5)
+<10:56:32> [4B1E8B22] unload cell object count : 8575
+<10:56:32> [B866A294] seamless unloading cell terrain(W7, 11), (L2, 6)
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 5), (L3, 0)
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 6), (L3, 1)
+<10:56:32> [7AB931CE] seamless unloading cell object(W8, 6), (L3, 1)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 7), (L3, 2)
+<10:56:32> [7AB931CE] seamless unloading cell object(W8, 7), (L3, 2)
+<10:56:32> [4B1E8B22] unload cell object count : 1
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 8), (L3, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W8, 8), (L3, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 17799
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 9), (L3, 4)
+<10:56:32> [7AB931CE] seamless unloading cell object(W8, 9), (L3, 4)
+<10:56:32> [4B1E8B22] unload cell object count : 1801
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 10), (L3, 5)
+<10:56:32> [7AB931CE] seamless unloading cell object(W8, 10), (L3, 5)
+<10:56:32> [4B1E8B22] unload cell object count : 12784
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 11), (L3, 6)
+<10:56:32> [B866A294] seamless unloading cell terrain(W8, 12), (L3, 7)
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 5), (L4, 0)
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 6), (L4, 1)
+<10:56:32> [7AB931CE] seamless unloading cell object(W9, 6), (L4, 1)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 7), (L4, 2)
+<10:56:32> [7AB931CE] seamless unloading cell object(W9, 7), (L4, 2)
+<10:56:32> [4B1E8B22] unload cell object count : 1
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 8), (L4, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W9, 8), (L4, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 397
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 9), (L4, 4)
+<10:56:32> [7AB931CE] seamless unloading cell object(W9, 9), (L4, 4)
+<10:56:32> [4B1E8B22] unload cell object count : 31
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 10), (L4, 5)
+<10:56:32> [7AB931CE] seamless unloading cell object(W9, 10), (L4, 5)
+<10:56:32> [4B1E8B22] unload cell object count : 11038
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 11), (L4, 6)
+<10:56:32> [B866A294] seamless unloading cell terrain(W9, 12), (L4, 7)
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 5), (L5, 0)
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 6), (L5, 1)
+<10:56:32> [7AB931CE] seamless unloading cell object(W10, 6), (L5, 1)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 7), (L5, 2)
+<10:56:32> [7AB931CE] seamless unloading cell object(W10, 7), (L5, 2)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 8), (L5, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W10, 8), (L5, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 9), (L5, 4)
+<10:56:32> [7AB931CE] seamless unloading cell object(W10, 9), (L5, 4)
+<10:56:32> [4B1E8B22] unload cell object count : 0
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 10), (L5, 5)
+<10:56:32> [7AB931CE] seamless unloading cell object(W10, 10), (L5, 5)
+<10:56:32> [4B1E8B22] unload cell object count : 2848
+<10:56:32> [B866A294] seamless unloading cell terrain(W10, 11), (L5, 6)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 5), (L6, 0)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 6), (L6, 1)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 7), (L6, 2)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 8), (L6, 3)
+<10:56:32> [7AB931CE] seamless unloading cell object(W11, 8), (L6, 3)
+<10:56:32> [4B1E8B22] unload cell object count : 70
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 9), (L6, 4)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 10), (L6, 5)
+<10:56:32> [B866A294] seamless unloading cell terrain(W11, 11), (L6, 6)
+<10:56:32> [3623F74F] [Seamless] camera has been warped
+<10:56:32> [9CAE9693] Starting In World Loading
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 8), (L4, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 9), (L4, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 8), (L3, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 9), (L3, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 8), (L5, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 9), (L5, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 7), (L4, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 10), (L4, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 7), (L3, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 10), (L3, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 7), (L5, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 10), (L5, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 8), (L2, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 9), (L2, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 8), (L6, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 9), (L6, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 7), (L2, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 6), (L4, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 10), (L2, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 7), (L6, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 11), (L4, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 6), (L3, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 10), (L6, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 6), (L5, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 11), (L3, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 11), (L5, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 8), (L1, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 9), (L1, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 6), (L2, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W19, 8), (L7, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W19, 9), (L7, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 11), (L2, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 6), (L6, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 7), (L1, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 10), (L1, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W18, 11), (L6, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W19, 7), (L7, 2)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 5), (L4, 0)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W19, 10), (L7, 5)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W16, 12), (L4, 7)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 5), (L3, 0)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 5), (L5, 0)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W15, 12), (L3, 7)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W17, 12), (L5, 7)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 6), (L1, 1)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W13, 11), (L1, 6)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W12, 8), (L0, 3)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W14, 5), (L2, 0)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W12, 9), (L0, 4)
+<10:56:32> [7B1A973B] seamless loading cell terrain(W19, 6), (L7, 1)
+<10:56:32> [B866A294] seamless unloading cell terrain(W12, 12), (L0, 0)
+<10:56:32> [B866A294] seamless unloading cell terrain(W12, 13), (L0, 1)
+<10:56:32> [B866A294] seamless unloading cell terrain(W12, 14), (L0, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 8), (L4, 3)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 9), (L4, 4)
+<10:56:32> [3EF08C47] seamless loading cell object(W15, 8), (L3, 3)
+<10:56:32> [3EF08C47] seamless loading cell object(W15, 9), (L3, 4)
+<10:56:32> [3EF08C47] seamless loading cell object(W17, 8), (L5, 3)
+<10:56:32> [3EF08C47] seamless loading cell object(W17, 9), (L5, 4)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 7), (L4, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 10), (L4, 5)
+<10:56:32> [3EF08C47] seamless loading cell object(W15, 7), (L3, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W15, 10), (L3, 5)
+<10:56:32> [3EF08C47] seamless loading cell object(W17, 7), (L5, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W17, 10), (L5, 5)
+<10:56:32> [3EF08C47] seamless loading cell object(W14, 8), (L2, 3)
+<10:56:32> [3EF08C47] seamless loading cell object(W14, 9), (L2, 4)
+<10:56:32> [3EF08C47] seamless loading cell object(W18, 8), (L6, 3)
+<10:56:32> [3EF08C47] seamless loading cell object(W18, 9), (L6, 4)
+<10:56:32> [3EF08C47] seamless loading cell object(W14, 7), (L2, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 6), (L4, 1)
+<10:56:32> [3EF08C47] seamless loading cell object(W14, 10), (L2, 5)
+<10:56:32> [3EF08C47] seamless loading cell object(W18, 7), (L6, 2)
+<10:56:32> [3EF08C47] seamless loading cell object(W16, 11), (L4, 6)
+<10:56:32> [9684057F][Warning] Cannot load texture game/objects/env/01_nuia/001_ndeco/old/rope_a_ddn.dds, file missing [File=game/objects/env/01_nuia/001_ndeco/old/rope_a_ddn.dds]
+<10:56:32> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_housing/housing_people/hs_people_roof_a.cgf [:] Duplicate LOD helper $lod2 hs_people_roof_a
+<10:56:32> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/01_ma/ma_top05.cgf [:] non-uniform scale(0.70, 1.00, 0.70) at node(Box11)
+<10:56:33> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/001_hdeco/hdeco_workprop_b01.cgf [:] LOD1 of geometry hdeco_workprop_b01 contains too many polygons comparing to the LOD0 [408 against 608] :
+<10:56:33> [7F89A202][Warning] AI: Warning: AIPoint is not inside Navigation Modifier. pos(4445.1, 3983.6, 114.4)
+<10:56:33> [188BF914][Warning] [EntityLoader] invalid entity pos(1172.249, 2147.883, 0.000) name(AAC_Mahadevi_Ext_1)
+<10:56:34> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:56:35> [B42C333F] In World Loading Finished
+<10:56:35> [82321C2B][Warning] [net 14:56:35.883] [time] remote time estimation restarted; estimate accumulator age was 3.798444
+<10:56:35> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 11)
+<10:56:36> [5132FEDE][Warning] invalid attached position(0.00, 21.44, 6.09)
+<10:56:36> [745BAE2F][Warning] failed to stream material xml(game/objects/env/06_unit/01_ship/w_middleship/galleon_01.mtl)
+<10:56:36> [637AF710][Warning] missing chr material : game/objects/env/06_unit/01_ship/w_middleship/galleon_01.mtl (chr: game/objects/env/06_unit/01_ship/w_middleship/w_middleship_sail_b.chr)
+<10:56:36> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_love.god_bless_form', from unknown 
+<10:56:36> [CE0EF930][Warning] failed to stream cgf : objects/env/05_nature/08_cry_source/rocks/road_rocks/road_rocks_flat_grey_a.cgf
+<10:56:36> [62232BEA][Warning] deferred xml stream error - game/animations/animals/owl_postman/lmg_files/normal_run.lmg : f0000003
+<10:56:38> [DD6CD685][Warning] grand child physical proxy is not supported. grandpa(Enoan Galleon: Sample), dad(prefab_doodad_model_553077_prefab://Prefabs/galleon.xml/galleon.galleon_helms), child(galleon_helms_1)
+<10:56:39> [B95EE41B][Error] invalid parent unit id(100668)
+<10:56:39> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant2_yellow_m.mtl)
+<10:56:39> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:56:39> [000004EE][Warning] [CGF Error] game/objects/env/06_unit/06_glider/glider_wing_crystal/glider_wing_crystal_back.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2720 against 4064] :
+<10:56:39> [0D885CE8][Warning] Not a normal map texture tried to be used as a normal map: game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_fx_02.dds [File=game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_fx_02.dds]
+<10:56:39> [1F198D91][Warning] Non 3dc normal map used (wrong on DX10): game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_ddn.dds [File=game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_ddn.dds]
+<10:56:39> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<10:56:40> [7B1A973B] seamless loading cell terrain(W19, 11), (L7, 6)
+<10:56:40> [5243B464][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds' in path '' [File=objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds]
+<10:56:40> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/interaction_b.xml/quest.ferre_flag node=AnimObject17
+<10:56:41> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/warborn/male/parts/cp/obj/01 - Default.mtl)
+<10:56:41> [637AF710][Warning] missing chr material : game/objects/characters/warborn/male/parts/cp/obj/01 - Default.mtl (chr: game/objects/characters/warborn/male/parts/cp/obj/wa_m_1cp101.chr)
+<10:56:42> [5F89E60D][Warning] non cached CDF(game/objects/characters/hariharan/female/costume/ha_f_sk_schoollook002/ha_f_sk_schoollook002_h.cdf)
+<10:56:42> Loading Particle Library: ljs_particle_fx
+<10:56:42> [23D38107][Warning] Failed to stream CAF-file [File=animations/item/effect_bone/shield/shield_darkmoon001/default.caf]
+<10:56:42> [2363981C][Warning] chr material is not precached : game/objects/characters/hariharan/male/hair/ha_m_hair026/ha_m_hair026.mtl (chr: game/objects/characters/hariharan/male/hair/ha_m_hair026/ha_m_hair026.chr)
+<10:56:43> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_3" from file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_3.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_1.caf". Please use another animation alias.
+<10:56:44> [99C3DD88][Warning] Not a normal map texture tried to be used as a normal map: game/objects/item/aac/all/aa_valentines/Dagger/aa_valentines_dagger_fx_02.dds [File=game/objects/item/aac/all/aa_valentines/Dagger/aa_valentines_dagger_fx_02.dds]
+<10:56:44> [DE801E31][Warning] Non 3dc normal map used (wrong on DX10): game/objects/item/aac/all/aa_valentines/Dagger/aa_valentines_dagger_ddn.dds [File=game/objects/item/aac/all/aa_valentines/Dagger/aa_valentines_dagger_ddn.dds]
+<10:56:44> [62232BEA][Warning] deferred xml stream error - game/animations/monster/daru_shadow_seller/lmg_files/fist_mo_normal_walk.lmg : f0000003
+<10:56:44> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_mmorpg_red/bow_mmorpg_red.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [680 against 988] :
+<10:56:44> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/effects/keffect/m_enchant2_yellow_s.mtl)
+<10:56:45> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:56:45> [A0AEF1D1][Warning] Cannot load texture game/objects/characters/texture/cp/nu_m_1cp101_c_v01100_ddn.dds, file missing [File=game/objects/characters/texture/cp/nu_m_1cp101_c_v01100_ddn.dds]
+<10:56:45> [CD8829BA][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/characters/test/glider_squirrel/glider_squirrel_df.dds' in path '' [File=game/objects/characters/test/glider_squirrel/glider_squirrel_df.dds]
+<10:56:46> [CE0EF930][Warning] failed to stream cgf : default
+<10:56:46> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:56:46> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/costume/fe_m_sk_lucius001/fe_m_sk_lucius001_brop01.mtl)
+<10:56:47> [5F89E60D][Warning] non cached CDF(game/objects/characters/ferre/female/costume/fe_f_sk_melisara002/fe_f_sk_melisara002_h.cdf)
+<10:56:50> [B95EE41B][Error] invalid parent unit id(100668)
+<10:56:51> [CE0EF930][Warning] failed to stream cgf : default
+<10:56:51> Loading Particle Library: X2_EFFECTS_C1
+<10:56:51> [000004EE][Warning] Particle effect not found: 'X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1', from unknown 
+<10:56:51> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<10:56:52> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/animals/seagull/Material #0.mtl)
+<10:56:53> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/decals/default.mtl)
+<10:56:58> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/ksw_effect/qilin.mtl)
+<10:56:58> [B95EE41B][Error] invalid parent unit id(67696)
+<10:57:00> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:57:05> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/cp/obj/ha_f_cp_leather002.mtl)
+<10:57:05> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/cp/obj/ha_f_cp_leather002.mtl (chr: game/objects/characters/hariharan/female/parts/cp/obj/ha_f_1cp113.chr)
+<10:57:06> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.magic.vital_absorb_form', from unknown 
+<10:57:07> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns007/wa_f_horns007_hc02.mtl)
+<10:57:10> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_K.J_Inter_effects.Glider_rose_back_start", requested by animation "animations/env/glider_rose/fist_ac_gliding_start.caf".
+<10:57:11> [CE0EF930][Warning] failed to stream cgf : default
+<10:57:12> [000004EE][Warning] Particle effect not found: 'X2_EFFECTS_K.J_Inter_effects.Glider_rose_back_end', from unknown 
+<10:57:16> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<10:57:18> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:57:21> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_cloth214.mtl)
+<10:57:21> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/bo/obj/ha_f_bo_cloth142.mtl (chr: game/objects/characters/hariharan/female/parts/bo/obj/ha_f_1bo402.chr)
+<10:57:21> [000004EE][Warning] Particle effect not found: 'game/x2_effects_k.j_pc_effects.skill_hatred_rm_deathlesssong_pc', from unknown 
+<10:57:21> [000004EE][Warning] [CGF Error] game/objects/item/staff_2h/staff_2h_cathero/staff_2h_cathero.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2051 against 2608] :
+<10:57:21> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<10:57:22> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns011/wa_f_horns011_hc03.mtl)
+<10:57:22> [3252FCF3][Warning] Not a normal map texture tried to be used as a normal map: game/objects/item/aac/all/aa_summer/2h_spear/Powerpoint/aa_summer_pool_noodle_df.dds [File=game/objects/item/aac/all/aa_summer/2h_spear/Powerpoint/aa_summer_pool_noodle_df.dds]
+<10:57:22> [4315AF15][Warning] Non 3dc normal map used (wrong on DX10): game/objects/item/aac/all/aa_summer/2h_spear/Powerpoint/aa_summer_pool_noodle_ddn.dds [File=game/objects/item/aac/all/aa_summer/2h_spear/Powerpoint/aa_summer_pool_noodle_ddn.dds]
+<10:57:23> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/hariharan/female/nude/ha_f_base.chr".
+<10:57:24> [4FC35136][Warning] Cannot load texture game/objects/characters/texture/cp/nu_m_cp_cloth044_df.dds, file missing [File=game/objects/characters/texture/cp/nu_m_cp_cloth044_df.dds]
+<10:57:24> [B95EE41B][Error] invalid parent unit id(119114)
+<10:57:25> [2363981C][Warning] chr material is not precached : game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_h.mtl (chr: game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_h.chr)
+<10:57:25> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:57:27> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns006/wa_f_horns006_hc03.mtl)
+<10:57:30> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/parts/bo/metal/bo_metal162/fe_m_bo_metal162_brop01.mtl)
+<10:57:30> [0C909E39][Warning] Cannot load texture game/objects/characters/texture/cp/nu_m_cp_cloth047_df.dds, file missing [File=game/objects/characters/texture/cp/nu_m_cp_cloth047_df.dds]
+<10:57:30> [637AF710][Warning] missing chr material : game/objects/characters/ferre/male/parts/gv/obj/fe_m_gv_metal162.mtl (chr: game/objects/characters/ferre/male/parts/gv/obj/fe_m_4gv701.chr)
+<10:57:31> [B95EE41B][Error] invalid parent unit id(55197)
+<10:57:34> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:57:34> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<10:57:34> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:57:34> [CE0EF930][Warning] failed to stream cgf : default
+<10:57:37> [B95EE41B][Error] invalid parent unit id(119114)
+<10:57:38> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<10:57:38> [000004EE][Warning] [CGF Error] game/objects/item/axe_2h/axe_2h_mmorpg_red/axe_2h_mmorpg_red.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1472 against 2012] :
+<10:57:38> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/male/costume/wa_m_sk_prisoner001/wa_m_sk_prisoner001_h.mtl (chr: game/objects/characters/warborn/male/costume/wa_m_sk_prisoner001/wa_m_sk_prisoner001_h.chr)
+<10:57:38> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/male/costume/wa_m_sk_prisoner001/wa_m_sk_prisoner001_h.mtl)
+<10:57:39> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:57:41> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.front_trail1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_front.caf".
+<10:57:42> [B95EE41B][Error] invalid parent unit id(123255)
+<10:57:42> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:57:43> [745BAE2F][Warning] failed to stream material xml(game/objects/item/bow/bow_obsidian_7/bow_obsidian_7_grap02.mtl)
+<10:57:43> [000004EE][Warning] [Lua] invalid style type...  / brown
+<10:57:53> [B95EE41B][Error] invalid parent unit id(68033)
+<10:57:57> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:58:01> [B95EE41B][Error] invalid parent unit id(125334)
+<10:58:05> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:58:05> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:58:06> [B95EE41B][Error] invalid parent unit id(125334)
+<10:58:12> [B95EE41B][Error] invalid parent unit id(118568)
+<10:58:23> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_metal212.mtl)
+<10:58:23> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_metal212.mtl (chr: game/objects/characters/hariharan/female/parts/gv/obj/ha_f_4gv101.chr)
+<10:58:27> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:58:31> [000004EE][Warning] Particle effect not found: 'game/abillity_skill_table_m.illusion.evil_spawn_form', from unknown 
+<10:58:32> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:58:33> [B95EE41B][Error] invalid parent unit id(55197)
+<10:58:34> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:58:37> [000004EE][Warning] [CGF Error] game/objects/item/staff_2h/staff_2h_cathero/staff_2h_cathero.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2051 against 2608] :
+<10:58:37> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:58:39> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/hariharan/female/nude/ha_f_base.chr".
+<10:58:39> [B95EE41B][Error] invalid parent unit id(82932)
+<10:58:44> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/gv/obj/ha_m_gv_cloth158.mtl)
+<10:58:44> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/gv/obj/ha_m_gv_cloth158.mtl (chr: game/objects/characters/hariharan/male/parts/gv/obj/ha_m_1gv302.chr)
+<10:58:49> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/face/fe_m_face00_grap03.mtl)
+<10:58:50> [637AF710][Warning] missing chr material : game/objects/characters/ferre/male/parts/gv/obj/fe_m_gv_leather001.mtl (chr: game/objects/characters/ferre/male/parts/gv/obj/fe_m_2gv102.chr)
+<10:58:55> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/warborn/female/parts/gv/obj/wa_f_gv_metal160.mtl)
+<10:58:55> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/gv/obj/wa_f_gv_metal160.mtl (chr: game/objects/characters/warborn/female/parts/gv/obj/wa_f_4gv302.chr)
+<10:58:55> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns010/wa_f_horns010_hc01.mtl)
+<10:58:56> [B95EE41B][Error] invalid parent unit id(86311)
+<10:58:57> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:59:08> [B95EE41B][Error] invalid parent unit id(118658)
+<10:59:15> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:59:15> [000004EE][Warning] [Lua Error] 1_3_0/scripts/x2ui/characterinfo/character_info.lua:520: attempt to call method 'AnimForEquipped' (a nil value)
+<10:59:15> [5F89E60D][Warning] non cached CDF(game/objects/characters/warborn/female/parts/bo/leather/bo_leather167/wa_f_bo_leather167.cdf)
+<10:59:15> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/parts/bo/leather/bo_leather167/wa_f_bo_leather167.mtl)
+<10:59:15> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/bo/obj/wa_f_bo_leather179.mtl (chr: game/objects/characters/warborn/female/parts/bo/obj/wa_f_2bo502.chr)
+<10:59:17> [B95EE41B][Error] invalid parent unit id(86311)
+<10:59:19> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<10:59:19> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_leather150.mtl)
+<10:59:20> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/bo/obj/wa_f_bo_cloth023.mtl (chr: game/objects/characters/warborn/female/parts/bo/obj/wa_f_1bo201.chr)
+<10:59:20> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns007/wa_f_horns007_hc02.mtl)
+<10:59:22> [3EF08C47] seamless loading cell object(W15, 6), (L3, 1)
+<10:59:23> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_love.vital_add_launch', from unknown 
+<10:59:24> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.front_trail_idle", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_down.caf".
+<10:59:26> [7B1A973B] seamless loading cell terrain(W18, 5), (L6, 0)
+<10:59:26> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<10:59:26> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/costume/fe_m_sk_blackbear001/fe_m_sk_blackbear001_dyeing_grap02.mtl)
+<10:59:27> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<10:59:27> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_monster/bow_ishtar_003/bow_ishtar_003.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1948 against 2908] :
+<10:59:27> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_1g
+<10:59:28> [000004EE][Warning] [Lua] invalid style type...  / brown
+<10:59:32> [745BAE2F][Warning] failed to stream material xml(game/objects/env/06_unit/06_glider/glider_bx_grap01.mtl)
+<10:59:36> [000004EE][Warning] Particle effect not found: 'game/x2_effects_k.j_pc_effects.skill_hatred_sc_cursegaze_launch', from unknown 
+<10:59:36> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns010/wa_f_horns010_hc01.mtl)
+<10:59:36> [000004EE][Warning] [CGF Error] game/objects/item/axe_2h/axe_2h_mmorpg_red/axe_2h_mmorpg_red.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1472 against 2012] :
+<10:59:36> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<10:59:37> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:59:37> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/ar/obj/ha_m_ar_cloth168.mtl (chr: game/objects/characters/hariharan/male/parts/ar/obj/ha_m_2sh018_5ar204.chr)
+<10:59:40> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/costume/wa_f_sk_metalpriest001/wa_f_sk_metalpriest001_h.mtl (chr: game/objects/characters/warborn/female/costume/wa_f_sk_metalpriest001/wa_f_sk_metalpriest001_h.chr)
+<10:59:40> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<10:59:41> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/parts/gv/cloth/gv_cloth485/fe_f_gv_cloth485_whin01.mtl)
+<10:59:41> [CE0EF930][Warning] failed to stream cgf : default
+<10:59:41> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/male/nude/wa_m_base.chr".
+<10:59:42> [13A1FD5A][Warning] AWD vehicle has different tire size. model type(2159)
+<10:59:42> [C919CFB6][Warning] doodad with no entity can't be attached to vehicle/ship/actor models(Dzemwuz)
+<10:59:42> [B95EE41B][Error] invalid parent unit id(82674)
+<10:59:44> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:59:46> [2363981C][Warning] chr material is not precached : game/objects/characters/hariharan/male/costume/ha_m_sk_metalpriest001/ha_m_sk_metalpriest001_h.mtl (chr: game/objects/characters/hariharan/male/costume/ha_m_sk_metalpriest001/ha_m_sk_metalpriest001_h.chr)
+<10:59:46> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/hariharan/male/costume/ha_m_sk_metalpriest001/ha_m_sk_metalpriest001_h.mtl)
+<10:59:48> [84229360][Warning] Cannot load texture game/objects/characters/monster/daru/daru_pilot/daru_pilot_ddn.dd, file missing [File=game/objects/characters/monster/daru/daru_pilot/daru_pilot_ddn.dd]
+<10:59:48> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_eph_7/bow_eph_7.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [824 against 1214] :
+<10:59:48> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<10:59:48> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_cloth021.mtl)
+<10:59:48> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/ar/obj/ha_f_ar_cloth506.mtl (chr: game/objects/characters/hariharan/female/parts/ar/obj/ha_f_1ar110_1arm006_1bt007.chr)
+<10:59:51> [B95EE41B][Error] invalid parent unit id(82674)
+<10:59:54> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<10:59:55> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<10:59:55> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<10:59:57> [B95EE41B][Error] invalid parent unit id(55197)
+<10:59:59> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:00:01> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:05> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth168.mtl)
+<11:00:05> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/bo/obj/ha_m_bo_cloth168.mtl (chr: game/objects/characters/hariharan/male/parts/bo/obj/ha_m_2bo504.chr)
+<11:00:06> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/male/horns/wa_m_horns011/wa_m_horns011_hc03.mtl)
+<11:00:06> [7705AB91][Warning] Cannot load texture game/objects/characters/nuian/female/hair/nu_f_hair031/nu_f_hair031_ddn.dds, file missing [File=game/objects/characters/nuian/female/hair/nu_f_hair031/nu_f_hair031_ddn.dds]
+<11:00:07> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:07> [000004EE][Warning] [CGF Error] game/objects/env/06_unit/06_glider/glider_wing/glider_wing_back.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2234 against 3114] :
+<11:00:08> [63ABB424][Warning] Facial sequence "fist_ba_combat_idle_rand_3" not listed in CAL file for character "game/objects/characters/warborn/male/nude/wa_m_base.chr".
+<11:00:11> [B95EE41B][Error] invalid parent unit id(76320)
+<11:00:11> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/ar/obj/nu_f_ar_cloth046.mtl)
+<11:00:11> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/parts/ar/obj/nu_f_ar_cloth046.mtl (chr: game/objects/characters/nuian/female/parts/ar/obj/nu_f_1ar110_1arm006.chr)
+<11:00:13> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:00:14> [A4D70365][Warning] rigid-body own-entity; prefab=prefabs/fishboat.xml/fishboat.fishboat_wheel node=webbed_feet
+<11:00:14> [DD6CD685][Warning] grand child physical proxy is not supported. grandpa(30-Day Longliner), dad(prefab_doodad_model_262180_prefab://Prefabs/galleon.xml/galleon.galleon_helms), child(galleon_helms_1)
+<11:00:15> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:16> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_leather034.mtl)
+<11:00:16> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_leather034.mtl (chr: game/objects/characters/hariharan/female/parts/hm/obj/ha_f_1hm106.chr)
+<11:00:17> [B95EE41B][Error] invalid parent unit id(79136)
+<11:00:19> [DD6CD685][Warning] grand child physical proxy is not supported. grandpa(30-Day Longliner), dad(prefab_doodad_model_262180_prefab://Prefabs/galleon.xml/galleon.galleon_helms), child(galleon_helms_1)
+<11:00:20> [3EF08C47] seamless loading cell object(W17, 6), (L5, 1)
+<11:00:21> [CE0EF930][Warning] failed to stream cgf : default
+<11:00:24> [2E4CE487][Warning] Failed to stream CAF-file [File=animations/item/effect_bone/sword_1h/sword_1h_darkmoon001/default.caf]
+<11:00:24> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/keffect/p_fire_blue1a.mtl)
+<11:00:24> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:27> [0D01BD65] start to parse systm mail
+<11:00:27> [BFBA8B5E] end to parse systm mail
+<11:00:30> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/nude/fe_f_brop01.mtl)
+<11:00:30> [637AF710][Warning] missing chr material : game/objects/characters/ferre/male/parts/bo/obj/fe_m_bo_metal205.mtl (chr: game/objects/characters/ferre/male/parts/bo/obj/fe_m_4bo101.chr)
+<11:00:30> [0D01BD65] start to parse systm mail
+<11:00:30> [BFBA8B5E] end to parse systm mail
+<11:00:31> [B95EE41B][Error] invalid parent unit id(101783)
+<11:00:32> [0D01BD65] start to parse systm mail
+<11:00:32> [BFBA8B5E] end to parse systm mail
+<11:00:34> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:35> [5243B464][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds' in path '' [File=objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds]
+<11:00:36> [C53E6FFE][Warning] non cached CDF material(objects/Characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl, game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.cdf)
+<11:00:36> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl)
+<11:00:36> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<11:00:37> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/nude/fe_f_brop01.mtl)
+<11:00:37> [000004EE][Warning] [CGF Error] game/objects/item/staff_2h/staff_2h_55_7/staff_2h_55_7.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1462 against 2050] :
+<11:00:37> [B95EE41B][Error] invalid parent unit id(82255)
+<11:00:39> [CE0EF930][Warning] failed to stream cgf : default
+<11:00:39> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_cloth001.mtl (chr: game/objects/characters/hariharan/female/parts/hm/obj/ha_f_1hm141.chr)
+<11:00:39> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<11:00:39> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:40> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_3" from file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_3.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_1.caf". Please use another animation alias.
+<11:00:41> [2363981C][Warning] chr material is not precached : game/objects/characters/warborn/female/costume/wa_f_sk_metalpriest001/wa_f_sk_metalpriest001_h.mtl (chr: game/objects/characters/warborn/female/costume/wa_f_sk_metalpriest001/wa_f_sk_metalpriest001_h.chr)
+<11:00:41> [5243B464][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds' in path '' [File=objects/characters/ferre/female/face/face01/fe_f_face01_fur_sss.dds]
+<11:00:42> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/male/nude/wa_m_base.chr".
+<11:00:42> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/peffect/magic_sphere_mesh_a.mtl)
+<11:00:42> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_sea_1/bow_sea_1.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [4127 against 5997] :
+<11:00:43> [B95EE41B][Error] invalid parent unit id(91839)
+<11:00:43> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/ferre/female/costume/fe_f_sk_melisara002/fe_f_sk_melisara002_h.mtl)
+<11:00:44> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:46> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_cloth226.mtl (chr: game/objects/characters/hariharan/female/parts/pt/obj/ha_f_1pt602.chr)
+<11:00:47> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth002.mtl)
+<11:00:47> [A4D70365][Warning] rigid-body own-entity; prefab=Prefabs/interaction.xml/toy.crane node=AnimObject_1
+<11:00:53> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:00:53> [B95EE41B][Error] invalid parent unit id(91839)
+<11:01:00> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:01:03> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:01:04> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/gv/obj/ha_f_gv_cloth037.mtl (chr: game/objects/characters/hariharan/female/parts/gv/obj/ha_f_1gv102.chr)
+<11:01:05> [B95EE41B][Error] invalid parent unit id(55197)
+<11:01:05> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns007/wa_f_horns007_hc02.mtl)
+<11:01:07> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:01:10> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/costume/fe_m_sk_blackbear001/fe_m_sk_blackbear001_dyeing_grap02.mtl)
+<11:01:10> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/male/horns/wa_m_horns012/wa_m_horns012_hc03.mtl)
+<11:01:10> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<11:01:11> Loading Particle Library: X2_EFFECT_SYH
+<11:01:11> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_eph_7/bow_eph_7.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [824 against 1214] :
+<11:01:12> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/cp/obj/03 - Default.mtl (chr: game/objects/characters/warborn/female/parts/cp/obj/wa_f_1cp101.chr)
+<11:01:13> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:01:14> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:01:15> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/costume/fe_f_sk_dragon002/fe_f_sk_dragon002_whtp01.mtl)
+<11:01:17> [B95EE41B][Error] invalid parent unit id(97883)
+<11:01:18> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/pt/obj/ha_f_pt_leather224.mtl (chr: game/objects/characters/hariharan/female/parts/pt/obj/ha_f_2pt001.chr)
+<11:01:19> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_monster/bow_ishtar_003/bow_ishtar_003.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1948 against 2908] :
+<11:01:19> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:01:19> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<11:01:22> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_2" from file "animations/monster/pet_agathion/fist/fist_ba_relaxed_idle_rand.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/pet_agathion/fist/fist_ba_relaxed_idle_rand_2.caf". Please use another animation alias.
+<11:01:25> [58F3F7FF][Warning] @1_3_0/scripts/x2ui/questcontext/quest_context_directing.lua:688: [Script Error] Wrong parameter type. Function X2.IsFirstQuestChat(bubbleId) expect parameter 1 of type Number (Provided type Null)
+<11:01:26> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:01:31> [58F3F7FF][Warning] @1_3_0/scripts/x2ui/questcontext/quest_context_directing.lua:688: [Script Error] Wrong parameter type. Function X2.IsFirstQuestChat(bubbleId) expect parameter 1 of type Number (Provided type Null)
+<11:01:32> [BB897B4E][Warning] Cannot load texture /, file missing [File=/]
+<11:01:32> [FEB87102][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture '/' in path '' [File=/]
+<11:01:33> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<11:01:34> [000004EE][Warning] Particle effect not found: 'X2_EFFECTS_C1.Glider.Crystal_Wing.wing_end1', from unknown 
+<11:01:36> [B95EE41B][Error] invalid parent unit id(58460)
+<11:01:37> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<11:01:42> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:01:44> [B95EE41B][Error] invalid parent unit id(55674)
+<11:01:46> [000004EE][Warning] Failed to load shader "Dynamiceffect_pul" in material "game/objects/characters/nuian/female/costume/nu_f_sk_tech001/nu_f_sk_tech_fx1"
+<11:01:46> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/keffect/p_fire_blue1a.mtl)
+<11:01:52> [2363981C][Warning] chr material is not precached : game/objects/characters/hariharan/female/hair/ha_f_hair042/ha_f_hair042.mtl (chr: game/objects/characters/hariharan/female/hair/ha_f_hair042/ha_f_hair042.chr)
+<11:01:52> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/hariharan/female/hair/ha_f_hair042/ha_f_hair042.mtl)
+<11:02:01> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/warborn/male/parts/cp/obj/01 - Default.mtl)
+<11:02:01> [637AF710][Warning] missing chr material : game/objects/characters/warborn/male/parts/cp/obj/wa_m_cp_cloth027.mtl (chr: game/objects/characters/warborn/male/parts/cp/obj/wa_m_1cp301.chr)
+<11:02:01> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/male/horns/wa_m_horns004/wa_m_horns004_hc05.mtl)
+<11:02:01> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_2g
+<11:02:03> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:02:04> [B95EE41B][Error] invalid parent unit id(61169)
+<11:02:05> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_4
+<11:02:14> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:02:14> [B95EE41B][Error] invalid parent unit id(61169)
+<11:02:18> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_5
+<11:02:20> [B95EE41B][Error] invalid parent unit id(110731)
+<11:02:20> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:02:25> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:02:26> [B95EE41B][Error] invalid parent unit id(119790)
+<11:02:34> [B95EE41B][Error] invalid parent unit id(55674)
+<11:02:34> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns010/wa_f_horns010_hc01.mtl)
+<11:02:34> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:02:42> [B95EE41B][Error] invalid parent unit id(55674)
+<11:02:42> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_metal211.mtl)
+<11:02:42> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_metal211.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt302.chr)
+<11:02:43> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_mo_normal_run_f_rand_2
+<11:02:55> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:02:58> [BB897B4E][Warning] Cannot load texture /, file missing [File=/]
+<11:02:58> [FEB87102][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture '/' in path '' [File=/]
+<11:03:00> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_7
+<11:03:05> [B95EE41B][Error] invalid parent unit id(55674)
+<11:03:06> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_7
+<11:03:06> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/warborn/female/parts/pt/obj/wa_f_pt_metal180.mtl)
+<11:03:07> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/pt/obj/wa_f_pt_metal180.mtl (chr: game/objects/characters/warborn/female/parts/pt/obj/wa_f_1pt607.chr)
+<11:03:07> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns006/wa_f_horns006_hc02.mtl)
+<11:03:18> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<11:03:18> [34837D7E][Warning] Failed to Load Character file. Skeleton-Initial-Positions are missing [File=game/objects/characters/monster/snowman_ride/snowman_ride_armor01/snowman_ride_hm_01/snowman_ride_hm_01.chr]
+<11:03:18> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_3
+<11:03:19> [B95EE41B][Error] invalid parent unit id(55197)
+<11:03:22> [000004EE][Warning] Failed to load shader "Dynamiceffect_pul" in material "game/objects/characters/nuian/male/costume/nu_m_sk_tech001/nu_m_sk_tech_fx1"
+<11:03:25> [B95EE41B][Error] invalid parent unit id(111389)
+<11:03:35> [B95EE41B][Error] invalid parent unit id(112279)
+<11:03:36> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/hair/fe_f_hair036/fe_f_hair036_yeln01.mtl)
+<11:03:36> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/parts/pt/obj/fe_f_pt_leather205.mtl (chr: game/objects/characters/ferre/female/parts/pt/obj/fe_f_1pt101.chr)
+<11:03:36> [186EDA89][Warning] Cannot load texture game/objects/characters/ferre/female/face/fe_f_face_yel_df.dds, file missing [File=game/objects/characters/ferre/female/face/fe_f_face_yel_df.dds]
+<11:03:46> [B95EE41B][Error] invalid parent unit id(72026)
+<11:03:46> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:03:47> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:03:49> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:03:54> [0D885CE8][Warning] Not a normal map texture tried to be used as a normal map: game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_fx_02.dds [File=game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_fx_02.dds]
+<11:03:55> [1F198D91][Warning] Non 3dc normal map used (wrong on DX10): game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_ddn.dds [File=game/objects/item/aac/all/aa_valentines/1h_scepter/aa_valentines_1h_scepter_ddn.dds]
+<11:03:55> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:03:55> [B95EE41B][Error] invalid parent unit id(112279)
+<11:04:07> [B95EE41B][Error] invalid parent unit id(52602)
+<11:04:09> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/parts/all/cloth/cloth184/fe_f_bo_cloth184_whin01.mtl)
+<11:04:09> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:04:10> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/hariharan/female/nude/ha_f_base.chr".
+<11:04:16> [B95EE41B][Error] invalid parent unit id(55197)
+<11:04:21> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:04:21> [B95EE41B][Error] invalid parent unit id(52602)
+<11:04:30> [B95EE41B][Error] invalid parent unit id(54033)
+<11:04:30> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/nude/fe_f_whin01.mtl)
+<11:04:31> [2363981C][Warning] chr material is not precached : game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_h.mtl (chr: game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_h.chr)
+<11:04:31> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_h.mtl)
+<11:04:31> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:04:31> [A181AEBC][Warning] Anim events cannot find effect "X2_EFFECTS_C1.Glider.Crystal_Wing.wing_start1", requested by animation "animations/env/glider_wing_crystal/fist_ac_gliding_start.caf".
+<11:04:35> [B95EE41B][Error] invalid parent unit id(55197)
+<11:04:35> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth168.mtl)
+<11:04:35> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_cloth168.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt503.chr)
+<11:04:36> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:04:41> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/ferre/female/nude/fe_f_base.chr".
+<11:04:42> [B95EE41B][Error] invalid parent unit id(56898)
+<11:04:44> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_metal166.mtl)
+<11:04:44> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/pt/obj/ha_m_pt_metal166.mtl (chr: game/objects/characters/hariharan/male/parts/pt/obj/ha_m_1pt304.chr)
+<11:04:48> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:04:55> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/hariharan/male/nude/ha_m_base.chr".
+<11:04:55> [B95EE41B][Error] invalid parent unit id(88647)
+<11:04:57> [34837D7E][Warning] Failed to Load Character file. Skeleton-Initial-Positions are missing [File=game/objects/characters/monster/snowman_ride/snowman_ride_armor01/snowman_ride_hm_01/snowman_ride_hm_01.chr]
+<11:05:03> [B95EE41B][Error] invalid parent unit id(56898)
+<11:05:03> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/costume/fe_f_sk_mummy001/fe_f_sk_mummy001_whin01.mtl)
+<11:05:04> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:05:09> [B95EE41B][Error] invalid parent unit id(66415)
+<11:05:10> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:05:16> [B95EE41B][Error] invalid parent unit id(56898)
+<11:05:19> [000004EE][Warning] [CGF Error] game/objects/item/bow/bow_eph_7/bow_eph_7.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [824 against 1214] :
+<11:05:19> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:05:20> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:05:22> [94B1FC07][Warning] Failed to stream CAF-file [File=animations/item/effect_bone/spear_1h/spear_1h_darkmoon001/default.caf]
+<11:05:22> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/keffect/p_fire_blue1a.mtl)
+<11:05:23> [B95EE41B][Error] invalid parent unit id(78846)
+<11:05:24> [4820ACB9][Warning] Cannot load texture game/textures/p_effects/syh_effect/cat_footstrp_01.dds, file missing [File=game/textures/p_effects/syh_effect/cat_footstrp_01.dds]
+<11:05:27> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/hariharan/female/nude/ha_f_base.chr".
+<11:05:28> [CE0EF930][Warning] failed to stream cgf : objects/env/05_nature/08_cry_source/rocks/precipice/landslide_rock_small_d.cgf
+<11:05:29> [B95EE41B][Error] invalid parent unit id(62357)
+<11:05:29> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_2
+<11:05:36> [B95EE41B][Error] invalid parent unit id(62357)
+<11:05:37> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:05:37> [65FB52A3][Warning] Entity Ikea:cannot find animation additive_fist_ba_relaxed_idle_rand_7
+<11:05:40> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:05:44> [B95EE41B][Error] invalid parent unit id(78846)
+<11:05:47> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:05:59> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:06:00> [B95EE41B][Error] invalid parent unit id(69077)
+<11:06:04> [65FB52A3][Warning] Entity Blacktail Leomorph:cannot find animation additive_fist_mo_normal_run_f_rand_3
+<11:06:12> [B95EE41B][Error] invalid parent unit id(88647)
+<11:06:13> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/parts/cp/cloth/cp_cloth046/fe_m_cp_cloth046_grap02.mtl)
+<11:06:13> [637AF710][Warning] missing chr material : game/objects/characters/ferre/male/parts/bo/obj/fe_m_bo_metal166.mtl (chr: game/objects/characters/ferre/male/parts/bo/obj/fe_m_3bo102.chr)
+<11:06:13> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:06:15> [65FB52A3][Warning] Entity Blacktail Leomorph:cannot find animation additive_fist_mo_normal_run_f_rand_1
+<11:06:18> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:06:18> Loading Particle Library: x2_effect_LJS
+<11:06:18> [745BAE2F][Warning] failed to stream material xml(game/objects/effects/jjc_effect/01 - Default.mtl)
+<11:06:35> [65FB52A3][Warning] Entity Blacktail Leomorph:cannot find animation additive_fist_mo_normal_run_f_rand_3
+<11:06:35> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:06:42> [B95EE41B][Error] invalid parent unit id(61632)
+<11:06:42> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl)
+<11:06:42> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_cloth001.mtl (chr: game/objects/characters/hariharan/male/parts/hm/obj/ha_m_1hm104.chr)
+<11:06:46> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:06:50> [B95EE41B][Error] invalid parent unit id(61632)
+<11:06:59> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/hair/fe_f_hair035/fe_f_hair035_whtp01.mtl)
+<11:06:59> [9BE68962][Warning] Not a normal map texture tried to be used as a normal map: game/objects/item/aac/all/aa_summer/dagger/ZsasZ/aa_summer_popsicle_df.dds [File=game/objects/item/aac/all/aa_summer/dagger/ZsasZ/aa_summer_popsicle_df.dds]
+<11:06:59> [95BBB286][Warning] Non 3dc normal map used (wrong on DX10): game/objects/item/aac/all/aa_summer/dagger/ZsasZ/aa_summer_popsicle_ddn.dds [File=game/objects/item/aac/all/aa_summer/dagger/ZsasZ/aa_summer_popsicle_ddn.dds]
+<11:07:00> [637AF710][Warning] missing chr material : game/objects/characters/warborn/female/parts/cp/obj/03 - Default.mtl (chr: game/objects/characters/warborn/female/parts/cp/obj/wa_f_1cp101.chr)
+<11:07:00> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/warborn/female/horns/wa_f_horns006/wa_f_horns006_hc02.mtl)
+<11:07:00> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:07:00> [65FB52A3][Warning] Entity Blacktail Leomorph:cannot find animation additive_fist_mo_normal_run_f_rand_1
+<11:07:04> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:07:09> [B95EE41B][Error] invalid parent unit id(121837)
+<11:07:11> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:07:20> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<11:07:21> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:07:25> [B95EE41B][Error] invalid parent unit id(61632)
+<11:07:25> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:07:28> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/gv/obj/ha_m_gv_cloth504.mtl)
+<11:07:28> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/bo/obj/ha_m_bo_cloth236.mtl (chr: game/objects/characters/hariharan/male/parts/bo/obj/ha_m_1bo102.chr)
+<11:07:28> [000004EE][Warning] [CGF Error] game/objects/env/06_unit/06_glider/glider_wing/glider_wing_back.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2234 against 3114] :
+<11:07:29> [BD8C448A][Warning] Cannot load texture game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds, file missing [File=game/objects/characters/warborn/male/nude/wa_m_nude_ddn.dds]
+<11:07:31> [65FB52A3][Warning] Entity Blacktail Leomorph:cannot find animation additive_fist_mo_normal_run_f_rand_2
+<11:07:32> [B95EE41B][Error] invalid parent unit id(91839)
+<11:07:37> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/materials/misc/rope/rope_fishing.mtl)
+<11:07:38> [437E3168][Warning] Cannot load texture game/objects/characters/monster/phoenix_white/phoenix_white2_df.dds, file missing [File=game/objects/characters/monster/phoenix_white/phoenix_white2_df.dds]
+<11:07:40> [CE0EF930][Warning] failed to stream cgf : objects/effects/portal_gate.cgf
+<11:07:43> [000004EE][Warning] [CGF Error] game/objects/item/spear_1h/spear_1h_monster/spear_1h_baeksojeong_1/spear_1h_baeksojeong_1.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [1489 against 1930] :
+<11:07:43> [2363981C][Warning] chr material is not precached : game/objects/characters/hariharan/female/costume/ha_f_sk_dragon001/ha_f_sk_dragon001_h.mtl (chr: game/objects/characters/hariharan/female/costume/ha_f_sk_dragon001/ha_f_sk_dragon001_h.chr)
+<11:07:43> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/hariharan/female/costume/ha_f_sk_dragon001/ha_f_sk_dragon001_h.mtl)
+<11:07:44> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/female/parts/bo/obj/ha_f_bo_leather227.mtl)
+<11:07:44> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/ar/obj/ha_m_ar_leather495.mtl (chr: game/objects/characters/hariharan/male/parts/ar/obj/ha_m_1ar103_1bt018_2ar104_2arm004.chr)
+<11:07:44> [B95EE41B][Error] invalid parent unit id(119790)
+<11:07:44> [5F2B49C4][Warning] cell get sector zone : invalid sector pos (-3, 8)
+<11:07:44> [BB790A81] origin change campos : -3299.85, 1578.391113
+<11:07:44> [00000020]  
+<11:07:44> [00000020]  
+<11:07:44> [A581FA6D] -----------------------------------------------------------------------------
+<11:07:44> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(12,5) -> New(6,3)
+<11:07:44> [A581FA6D] -----------------------------------------------------------------------------
+<11:07:44> [00000020]  
+<11:07:44> [00000020]  
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 18), (L7, 6)
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 17), (L7, 5)
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 16), (L7, 4)
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 15), (L7, 3)
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 14), (L7, 2)
+<11:07:44> [B866A294] seamless unloading cell terrain(W19, 13), (L7, 1)
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 18), (L6, 6)
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 17), (L6, 5)
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 16), (L6, 4)
+<11:07:44> [7AB931CE] seamless unloading cell object(W18, 16), (L6, 4)
+<11:07:44> [4B1E8B22] unload cell object count : 13500
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 15), (L6, 3)
+<11:07:44> [7AB931CE] seamless unloading cell object(W18, 15), (L6, 3)
+<11:07:44> [4B1E8B22] unload cell object count : 12785
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 14), (L6, 2)
+<11:07:44> [7AB931CE] seamless unloading cell object(W18, 14), (L6, 2)
+<11:07:44> [4B1E8B22] unload cell object count : 5383
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 13), (L6, 1)
+<11:07:44> [B866A294] seamless unloading cell terrain(W18, 12), (L6, 0)
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 19), (L5, 7)
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 18), (L5, 6)
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 17), (L5, 5)
+<11:07:44> [7AB931CE] seamless unloading cell object(W17, 17), (L5, 5)
+<11:07:44> [4B1E8B22] unload cell object count : 33
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 16), (L5, 4)
+<11:07:44> [7AB931CE] seamless unloading cell object(W17, 16), (L5, 4)
+<11:07:44> [4B1E8B22] unload cell object count : 4090
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 15), (L5, 3)
+<11:07:44> [7AB931CE] seamless unloading cell object(W17, 15), (L5, 3)
+<11:07:44> [4B1E8B22] unload cell object count : 3391
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 14), (L5, 2)
+<11:07:44> [7AB931CE] seamless unloading cell object(W17, 14), (L5, 2)
+<11:07:44> [4B1E8B22] unload cell object count : 5749
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 13), (L5, 1)
+<11:07:44> [7AB931CE] seamless unloading cell object(W17, 13), (L5, 1)
+<11:07:44> [4B1E8B22] unload cell object count : 0
+<11:07:44> [B866A294] seamless unloading cell terrain(W17, 12), (L5, 0)
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 19), (L4, 7)
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 18), (L4, 6)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 18), (L4, 6)
+<11:07:44> [4B1E8B22] unload cell object count : 5774
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 17), (L4, 5)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 17), (L4, 5)
+<11:07:44> [4B1E8B22] unload cell object count : 1407
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 16), (L4, 4)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 16), (L4, 4)
+<11:07:44> [4B1E8B22] unload cell object count : 677
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 15), (L4, 3)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 15), (L4, 3)
+<11:07:44> [4B1E8B22] unload cell object count : 2664
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 14), (L4, 2)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 14), (L4, 2)
+<11:07:44> [4B1E8B22] unload cell object count : 3457
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 13), (L4, 1)
+<11:07:44> [7AB931CE] seamless unloading cell object(W16, 13), (L4, 1)
+<11:07:44> [4B1E8B22] unload cell object count : 0
+<11:07:44> [B866A294] seamless unloading cell terrain(W16, 12), (L4, 0)
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 19), (L3, 7)
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 18), (L3, 6)
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 17), (L3, 5)
+<11:07:44> [7AB931CE] seamless unloading cell object(W15, 17), (L3, 5)
+<11:07:44> [4B1E8B22] unload cell object count : 0
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 16), (L3, 4)
+<11:07:44> [7AB931CE] seamless unloading cell object(W15, 16), (L3, 4)
+<11:07:44> [4B1E8B22] unload cell object count : 5508
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 15), (L3, 3)
+<11:07:44> [7AB931CE] seamless unloading cell object(W15, 15), (L3, 3)
+<11:07:44> [4B1E8B22] unload cell object count : 1533
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 14), (L3, 2)
+<11:07:44> [7AB931CE] seamless unloading cell object(W15, 14), (L3, 2)
+<11:07:44> [4B1E8B22] unload cell object count : 12919
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 13), (L3, 1)
+<11:07:44> [7AB931CE] seamless unloading cell object(W15, 13), (L3, 1)
+<11:07:44> [4B1E8B22] unload cell object count : 0
+<11:07:44> [B866A294] seamless unloading cell terrain(W15, 12), (L3, 0)
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 18), (L2, 6)
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 17), (L2, 5)
+<11:07:44> [7AB931CE] seamless unloading cell object(W14, 17), (L2, 5)
+<11:07:44> [4B1E8B22] unload cell object count : 1914
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 16), (L2, 4)
+<11:07:44> [7AB931CE] seamless unloading cell object(W14, 16), (L2, 4)
+<11:07:44> [4B1E8B22] unload cell object count : 295
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 15), (L2, 3)
+<11:07:44> [7AB931CE] seamless unloading cell object(W14, 15), (L2, 3)
+<11:07:44> [4B1E8B22] unload cell object count : 788
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 14), (L2, 2)
+<11:07:44> [7AB931CE] seamless unloading cell object(W14, 14), (L2, 2)
+<11:07:44> [4B1E8B22] unload cell object count : 181
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 13), (L2, 1)
+<11:07:44> [B866A294] seamless unloading cell terrain(W14, 12), (L2, 0)
+<11:07:44> [B866A294] seamless unloading cell terrain(W13, 18), (L1, 6)
+<11:07:44> [3623F74F] [Seamless] camera has been warped
+<11:07:44> [9CAE9693] Starting In World Loading
+<11:07:44> [7B1A973B] seamless loading cell terrain(W8, 6), (L2, 3)
+<11:07:44> [7B1A973B] seamless loading cell terrain(W9, 6), (L3, 3)
+<11:07:44> [7B1A973B] seamless loading cell terrain(W8, 7), (L2, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 5), (L2, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 7), (L3, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 5), (L3, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 6), (L1, 3)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 7), (L1, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 5), (L1, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 6), (L4, 3)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 7), (L4, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 8), (L2, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 5), (L4, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 4), (L2, 1)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 8), (L3, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 4), (L3, 1)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W6, 6), (L0, 3)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 8), (L1, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 4), (L1, 1)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W6, 7), (L0, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W6, 5), (L0, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 8), (L4, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 4), (L4, 1)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W11, 6), (L5, 3)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W11, 7), (L5, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W11, 5), (L5, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 9), (L2, 6)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W6, 8), (L0, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 9), (L3, 6)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 3), (L2, 0)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W9, 3), (L3, 0)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W7, 9), (L1, 6)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W11, 8), (L5, 5)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W11, 4), (L5, 1)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 9), (L4, 6)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W10, 3), (L4, 0)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W12, 6), (L6, 3)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W6, 9), (L0, 6)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W12, 7), (L6, 4)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W12, 5), (L6, 2)
+<11:07:45> [7B1A973B] seamless loading cell terrain(W8, 10), (L2, 7)
+<11:07:45> [B866A294] seamless unloading cell terrain(W13, 13), (L7, 7)
+<11:07:45> [B866A294] seamless unloading cell terrain(W13, 12), (L7, 6)
+<11:07:45> [B866A294] seamless unloading cell terrain(W13, 11), (L7, 5)
+<11:07:45> [B866A294] seamless unloading cell terrain(W13, 10), (L7, 4)
+<11:07:45> [B866A294] seamless unloading cell terrain(W12, 12), (L6, 6)
+<11:07:45> [B866A294] seamless unloading cell terrain(W13, 9), (L7, 3)
+<11:07:45> [B866A294] seamless unloading cell terrain(W12, 11), (L6, 5)
+<11:07:45> [3EF08C47] seamless loading cell object(W8, 6), (L2, 3)
+<11:07:45> [3EF08C47] seamless loading cell object(W9, 6), (L3, 3)
+<11:07:45> [3EF08C47] seamless loading cell object(W8, 7), (L2, 4)
+<11:07:45> [3EF08C47] seamless loading cell object(W8, 5), (L2, 2)
+<11:07:45> [3EF08C47] seamless loading cell object(W9, 7), (L3, 4)
+<11:07:45> [3EF08C47] seamless loading cell object(W9, 5), (L3, 2)
+<11:07:45> [3EF08C47] seamless loading cell object(W7, 6), (L1, 3)
+<11:07:45> [3EF08C47] seamless loading cell object(W7, 7), (L1, 4)
+<11:07:45> [3EF08C47] seamless loading cell object(W7, 5), (L1, 2)
+<11:07:45> [3EF08C47] seamless loading cell object(W10, 6), (L4, 3)
+<11:07:45> [3EF08C47] seamless loading cell object(W10, 7), (L4, 4)
+<11:07:45> [3EF08C47] seamless loading cell object(W8, 8), (L2, 5)
+<11:07:45> [3EF08C47] seamless loading cell object(W10, 5), (L4, 2)
+<11:07:45> [3EF08C47] seamless loading cell object(W8, 4), (L2, 1)
+<11:07:45> [3EF08C47] seamless loading cell object(W9, 8), (L3, 5)
+<11:07:45> [3EF08C47] seamless loading cell object(W9, 4), (L3, 1)
+<11:07:45> [3EF08C47] seamless loading cell object(W7, 8), (L1, 5)
+<11:07:45> [3EF08C47] seamless loading cell object(W7, 4), (L1, 1)
+<11:07:45> [000004EE][Warning] Failed to load shader "Dynamiceffect_pul" in material "game/objects/env/01_nuia/19_fairy/fairy_tree_big_second1"
+<11:07:45> [B94D8BD1][Warning] Cannot load texture game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds, file missing [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds]
+<11:07:45> [D8EA1A9D][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom secondary texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_ddn.dds]
+<11:07:45> [05FB5682][Warning] Not a normal map texture tried to be used as a normal map: game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_fx.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_fx.dds]
+<11:07:45> [586BCE46][Warning] Non 3dc normal map used (wrong on DX10): game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds [File=game/objects/env/99_aac/01_world/comet/warm/aa_meteor_warm_ddn.dds]
+<11:07:45> [0AD0E100][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find subsurface texture 'game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds' in path '' [File=game/objects/env/03_origin_continent/90_the_garden/garden_power_pillar_d_df.dds]
+<11:07:46> [000004EE][Warning] [CGF Error] game/objects/env/01_nuia/001_ncom/ncom_woodfish.cgf [:] non-uniform scale(1.00, 1.00, 0.90) at node(proxy)
+<11:07:46> [BB790A81] origin change campos : 2844.15, 3626.391113
+<11:07:46> [00000020]  
+<11:07:46> [00000020]  
+<11:07:46> [A581FA6D] -----------------------------------------------------------------------------
+<11:07:46> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(6,3) -> New(5,3)
+<11:07:46> [A581FA6D] -----------------------------------------------------------------------------
+<11:07:46> [00000020]  
+<11:07:46> [00000020]  
+<11:07:46> [7B1A973B] seamless loading cell terrain(W5, 6), (L0, 3)
+<11:07:46> [3EF08C47] seamless loading cell object(W6, 6), (L1, 3)
+<11:07:46> [7B1A973B] seamless loading cell terrain(W5, 7), (L0, 4)
+<11:07:46> [3EF08C47] seamless loading cell object(W6, 7), (L1, 4)
+<11:07:46> [7B1A973B] seamless loading cell terrain(W5, 5), (L0, 2)
+<11:07:46> [3EF08C47] seamless loading cell object(W6, 5), (L1, 2)
+<11:07:46> [7B1A973B] seamless loading cell terrain(W5, 8), (L0, 5)
+<11:07:46> [CE0EF930][Warning] failed to stream cgf : game/objects/env/01_nuia/19_fairy/fairy_tree_ivy_b.cgf
+<11:07:46> [188BF914][Warning] [EntityLoader] invalid entity pos(0.298, -2.719, 0.001) name(B_gear_light)
+<11:07:46> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 4fc945cdb2ad3fbb
+<11:07:48> [B42C333F] In World Loading Finished
+<11:07:48> [82321C2B][Warning] [net 15:07:48.195] [time] remote time estimation restarted; estimate accumulator age was 3.409146
+<11:07:48> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 50)
+<11:07:48> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/env/01_nuia/001_housing/housing_farm/housing_farm_pumpkin_a.mtl)
+<11:07:48> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/animals/cow/cow_black.mtl)
+<11:07:51> [62232BEA][Warning] deferred xml stream error - game/animations/animals/duck/lmg_files/normal_run.lmg : f0000003
+<11:07:51> [637AF710][Warning] missing chr material : game/objects/characters/dwarf/female/hair/dw_f_hair_common/dw_f_hair002.mtl (chr: game/objects/characters/dwarf/female/hair/dw_f_hair_common/dw_f_hair_common0101s_type4.chr)
+<11:07:51> [B95EE41B][Error] invalid parent unit id(113382)
+<11:07:52> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:07:52> [000004EE][Warning] [CGF Error] game/objects/env/06_unit/06_glider/glider_wing_crystal/glider_wing_crystal_back.cgf [:] LOD1 of geometry  contains too many polygons comparing to the LOD0 [2720 against 4064] :
+<11:07:53> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/nuian/female/parts/pt/obj/Material #69.mtl)
+<11:07:54> [82321C2B][Warning] [net 15:07:54.674] [time] remote time estimation restarted; estimate accumulator age was 0.984264
+<11:07:54> [BCCDC555][Warning] MakeSprite - too many sprite update (10). dropping.. (sprites : 36)
+<11:07:54> [DE20B351][Warning] Flow Graph Node targets unknown entity guid: 45ee3518f8ea5d5f
+<11:07:57> [7B1A973B] seamless loading cell terrain(W9, 10), (L4, 7)
+<11:07:57> [7B1A973B] seamless loading cell terrain(W11, 9), (L6, 6)
+<11:07:58> [B95EE41B][Error] invalid parent unit id(111532)
+<11:07:58> [5F89E60D][Warning] non cached CDF(game/objects/characters/nuian/female/costume/nu_f_sk_schoollook003/nu_f_sk_schoollook003_h.cdf)
+<11:07:58> [637AF710][Warning] missing chr material : game/objects/characters/nuian/female/costume/nu_f_sk_schoollook003/Material #457.mtl (chr: game/objects/characters/nuian/female/costume/nu_f_sk_schoollook003/nu_f_sk_schoollook003_h.chr)
+<11:07:59> [4820ACB9][Warning] Cannot load texture game/textures/p_effects/syh_effect/cat_footstrp_01.dds, file missing [File=game/textures/p_effects/syh_effect/cat_footstrp_01.dds]
+<11:08:04> [C53E6FFE][Warning] non cached CDF material(objects/Characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl, game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.cdf)
+<11:08:04> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/characters/monster/snowlion/snowlion_blue/snowlion_blue.mtl)
+<11:08:04> [63ABB424][Warning] Facial sequence "fist_ac_whistle" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<11:08:05> [B95EE41B][Error] invalid parent unit id(113382)
+<11:08:13> [5F89E60D][Warning] non cached CDF(game/objects/env/06_unit/05_carriage/skateboard_body_b.cdf)
+<11:08:13> [2363981C][Warning] chr material is not precached : game/objects/env/06_unit/05_carriage/skateboard.mtl (chr: game/objects/env/06_unit/05_carriage/skateboard_body_b.chr)
+<11:08:13> [CA175C82][Warning] non-stream IO. system(Material), filePath(game/objects/env/06_unit/05_carriage/skateboard.mtl)
+<11:08:13> [CE2F4035][Warning] chr physical geom is not precached. (game/objects/env/06_unit/05_carriage/skateboard_body_b.chr)
+<11:08:19> [13A1FD5A][Warning] AWD vehicle has different tire size. model type(1661)
+<11:08:23> [000004EE][Warning] Independent immortal particle effect spawned: X2_EFFECT_O.Interaction.enchant_wpn_range_honor_3g
+<11:08:28> [B95EE41B][Error] invalid parent unit id(109186)
+<11:08:28> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/female/face/fe_f_face00_grap02.mtl)
+<11:08:28> [00DCF04C][Warning] Cannot load texture game/objects/characters/ferre/female/test/fe_f_nude_fur_df.dds, file missing [File=game/objects/characters/ferre/female/test/fe_f_nude_fur_df.dds]
+<11:08:28> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/parts/bo/obj/fe_f_bo_cloth168.mtl (chr: game/objects/characters/ferre/female/parts/bo/obj/fe_f_2bo504.chr)
+<11:08:30> [13A1FD5A][Warning] AWD vehicle has different tire size. model type(1661)
+<11:08:55> [3EF08C47] seamless loading cell object(W10, 8), (L5, 5)
+<11:08:56> [8B9CED50] [ClientNub] error
+<11:08:56> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:56> [82321C2B][Warning] [net 15:08:56.840] recv exception: internal 32770 wsa 258
+<11:08:56> [BC4E4E7A] stream: disconnected (reason=1)
+<11:08:56> [8B9CED50] [ClientNub] error
+<11:08:56> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:56> [8B9CED50] [ClientNub] error
+<11:08:56> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:57> [8B9CED50] [ClientNub] error
+<11:08:57> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:57> [8B9CED50] [ClientNub] error
+<11:08:57> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:57> [8B9CED50] [ClientNub] error
+<11:08:57> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:58> [8B9CED50] [ClientNub] error
+<11:08:58> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:58> [8B9CED50] [ClientNub] error
+<11:08:58> [F9536AB5] [NetConnection] connection closed (gracefull:false)
+<11:08:58> [05D024BA] System:Quit
